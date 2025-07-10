@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>My Courses</title>
+    <link rel="stylesheet" href="style.css" />
+    <style>
+      .course-grid-container {
+        max-width: 1200px;
+        margin: 1rem auto;
+        padding: 1rem;
+      }
+
+      .courses-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+        gap: 3rem;
+      }
+
+      .course-tile {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-color: #fefae0;
+        border: 1px solid #d6ccc2;
+        border-radius: 1.6rem;
+        padding: 3rem 2rem;
+        text-align: center;
+        font-size: 2.4rem;
+        font-weight: 600;
+        color: #403d39;
+        box-shadow: 0 4px 10px rgba(0, 0, 0, 0.04);
+        transition: transform 0.2s ease, box-shadow 0.3s ease;
+        cursor: pointer;
+      }
+
+      .course-tile:hover {
+        transform: translateY(-4px);
+        box-shadow: 0 6px 14px rgba(0, 0, 0, 0.06);
+      }
+
+      .add-course-tile {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 6rem;
+        color: #90dbf4;
+        background-color: #fffaf1;
+        border: 2px dashed #90dbf4;
+      }
+
+      .add-course-tile:hover {
+        background-color: #f0faff;
+      }
+
+      .page-header {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 2rem;
+        margin: 1rem 0 2rem 0;
+      }
+
+      h1.home-header {
+        text-align: center;
+        font-size: 5rem;
+        margin-bottom: 2rem;
+        color: #4b4453;
+        font-family: "Outfit", sans-serif;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="course-grid-container">
+      <section class="page-header">
+        <img src="images/logo_cropped.png" alt="logo" class="logo" />
+        <h1 class="home-header">Udemy Course Progress Tracker</h1>
+      </section>
+      <div class="courses-grid" id="coursesGrid">
+        <!-- Tiles will be injected here -->
+      </div>
+    </div>
+
+    <script src="data.js"></script>
+    <script>
+      function goToCourse(courseId) {
+        window.location.href = `course.html?course=${courseId}`;
+      }
+
+      function addNewCourse() {
+        alert("Feature to add new course coming soon!");
+      }
+
+      // Dynamically render tiles from `courses`
+      document.addEventListener("DOMContentLoaded", () => {
+        const grid = document.getElementById("coursesGrid");
+
+        Object.entries(courses).forEach(([courseId, courseInfo]) => {
+          const tile = document.createElement("div");
+          tile.className = "course-tile";
+          tile.textContent = courseInfo.name;
+          tile.onclick = () => goToCourse(courseId);
+          grid.appendChild(tile);
+        });
+
+        // Add "+" tile
+        const addTile = document.createElement("div");
+        addTile.className = "course-tile add-course-tile";
+        addTile.textContent = "+";
+        addTile.onclick = addNewCourse;
+        grid.appendChild(addTile);
+      });
+    </script>
+  </body>
+</html>

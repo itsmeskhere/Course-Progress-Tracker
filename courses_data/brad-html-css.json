@@ -1,0 +1,1533 @@
+{
+  "count": 221,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "_class": "chapter",
+      "id": 3111294,
+      "title": "Introduction",
+      "object_index": 1
+    },
+    {
+      "_class": "lecture",
+      "id": 13285074,
+      "title": "Welcome To The Course",
+      "asset": { "_class": "asset", "id": 57198300, "time_estimation": 307 },
+      "object_index": 1
+    },
+    {
+      "_class": "lecture",
+      "id": 13285198,
+      "title": "How The Web Works",
+      "asset": { "_class": "asset", "id": 57198302, "time_estimation": 452 },
+      "object_index": 2
+    },
+    {
+      "_class": "lecture",
+      "id": 13285200,
+      "title": "The Roles Of HTML, CSS & JS In Web Development",
+      "asset": { "_class": "asset", "id": 57198326, "time_estimation": 395 },
+      "object_index": 3
+    },
+    {
+      "_class": "lecture",
+      "id": 13285208,
+      "title": "VS Code Editor & Environment",
+      "asset": { "_class": "asset", "id": 57198320, "time_estimation": 392 },
+      "object_index": 4
+    },
+    {
+      "_class": "lecture",
+      "id": 44337274,
+      "title": "Course Code",
+      "asset": { "_class": "asset", "id": 57293306, "time_estimation": 7 },
+      "object_index": 5
+    },
+    {
+      "_class": "chapter",
+      "id": 3111322,
+      "title": "Essential HTML",
+      "object_index": 2
+    },
+    {
+      "_class": "lecture",
+      "id": 13285216,
+      "title": "Section Intro",
+      "asset": { "_class": "asset", "id": 57198322, "time_estimation": 68 },
+      "object_index": 6
+    },
+    {
+      "_class": "lecture",
+      "id": 13285218,
+      "title": "Create & Open HTML Files",
+      "asset": { "_class": "asset", "id": 57198336, "time_estimation": 344 },
+      "object_index": 7
+    },
+    {
+      "_class": "lecture",
+      "id": 13285220,
+      "title": "HTML Tags & Attributes",
+      "asset": { "_class": "asset", "id": 57198354, "time_estimation": 308 },
+      "object_index": 8
+    },
+    {
+      "_class": "lecture",
+      "id": 13285222,
+      "title": "Document Structure",
+      "asset": { "_class": "asset", "id": 57198364, "time_estimation": 372 },
+      "object_index": 9
+    },
+    {
+      "_class": "lecture",
+      "id": 13285228,
+      "title": "Live Server & Prettier",
+      "asset": { "_class": "asset", "id": 57198374, "time_estimation": 320 },
+      "object_index": 10
+    },
+    {
+      "_class": "lecture",
+      "id": 13285234,
+      "title": "Sandbox Files Setup",
+      "asset": { "_class": "asset", "id": 57198402, "time_estimation": 189 },
+      "object_index": 11
+    },
+    {
+      "_class": "lecture",
+      "id": 13285230,
+      "title": "Meta Tags & Search",
+      "asset": { "_class": "asset", "id": 57198446, "time_estimation": 591 },
+      "object_index": 12
+    },
+    {
+      "_class": "lecture",
+      "id": 13285236,
+      "title": "Headings, Paragraphs & Emphasis",
+      "asset": { "_class": "asset", "id": 57198462, "time_estimation": 536 },
+      "object_index": 13
+    },
+    {
+      "_class": "lecture",
+      "id": 13285240,
+      "title": "Browser Devtools Intro",
+      "asset": { "_class": "asset", "id": 57198464, "time_estimation": 307 },
+      "object_index": 14
+    },
+    {
+      "_class": "lecture",
+      "id": 13285244,
+      "title": "Lists",
+      "asset": { "_class": "asset", "id": 57198472, "time_estimation": 332 },
+      "object_index": 15
+    },
+    {
+      "_class": "lecture",
+      "id": 13285248,
+      "title": "Anchor Tags",
+      "asset": { "_class": "asset", "id": 57199314, "time_estimation": 510 },
+      "object_index": 16
+    },
+    {
+      "_class": "lecture",
+      "id": 13285250,
+      "title": "Images",
+      "asset": { "_class": "asset", "id": 57198510, "time_estimation": 354 },
+      "object_index": 17
+    },
+    {
+      "_class": "lecture",
+      "id": 13285252,
+      "title": "Block vs Inline Elements",
+      "asset": { "_class": "asset", "id": 57198520, "time_estimation": 403 },
+      "object_index": 18
+    },
+    {
+      "_class": "lecture",
+      "id": 13285256,
+      "title": "Line Breaks, Horizontal Rules & Entities",
+      "asset": { "_class": "asset", "id": 57198530, "time_estimation": 362 },
+      "object_index": 19
+    },
+    {
+      "_class": "lecture",
+      "id": 44263496,
+      "title": "Divs & Spans",
+      "asset": { "_class": "asset", "id": 57198540, "time_estimation": 354 },
+      "object_index": 20
+    },
+    {
+      "_class": "lecture",
+      "id": 44263510,
+      "title": "Classes & IDs",
+      "asset": { "_class": "asset", "id": 57198560, "time_estimation": 402 },
+      "object_index": 21
+    },
+    {
+      "_class": "lecture",
+      "id": 44263518,
+      "title": "Semantic Elements",
+      "asset": { "_class": "asset", "id": 57198572, "time_estimation": 395 },
+      "object_index": 22
+    },
+    {
+      "_class": "lecture",
+      "id": 44263530,
+      "title": "Emmet Crash Course",
+      "asset": { "_class": "asset", "id": 57198580, "time_estimation": 516 },
+      "object_index": 23
+    },
+    {
+      "_class": "lecture",
+      "id": 44263536,
+      "title": "Keyboard Shortcuts",
+      "asset": { "_class": "asset", "id": 57198598, "time_estimation": 536 },
+      "object_index": 24
+    },
+    {
+      "_class": "lecture",
+      "id": 44263542,
+      "title": "Pricing Grid Challenge",
+      "asset": { "_class": "asset", "id": 57198614, "time_estimation": 546 },
+      "object_index": 25
+    },
+    {
+      "_class": "chapter",
+      "id": 10560708,
+      "title": "HTML Form & Input Elements",
+      "object_index": 3
+    },
+    {
+      "_class": "lecture",
+      "id": 44263544,
+      "title": "Section Intro",
+      "asset": { "_class": "asset", "id": 57219828, "time_estimation": 57 },
+      "object_index": 26
+    },
+    {
+      "_class": "lecture",
+      "id": 44263548,
+      "title": "Form & Input Tags",
+      "asset": { "_class": "asset", "id": 57198652, "time_estimation": 305 },
+      "object_index": 27
+    },
+    {
+      "_class": "lecture",
+      "id": 44263550,
+      "title": "Text-Based Input Tags",
+      "asset": { "_class": "asset", "id": 57198660, "time_estimation": 415 },
+      "object_index": 28
+    },
+    {
+      "_class": "lecture",
+      "id": 44263560,
+      "title": "Input Field Attributes",
+      "asset": { "_class": "asset", "id": 57313850, "time_estimation": 414 },
+      "object_index": 29
+    },
+    {
+      "_class": "lecture",
+      "id": 44263568,
+      "title": "Select Boxes & Textarea",
+      "asset": { "_class": "asset", "id": 57198702, "time_estimation": 334 },
+      "object_index": 30
+    },
+    {
+      "_class": "lecture",
+      "id": 44263600,
+      "title": "Checkboxes & Radio Buttons",
+      "asset": { "_class": "asset", "id": 57198712, "time_estimation": 301 },
+      "object_index": 31
+    },
+    {
+      "_class": "lecture",
+      "id": 44263604,
+      "title": "Other Input Fields",
+      "asset": { "_class": "asset", "id": 57198718, "time_estimation": 263 },
+      "object_index": 32
+    },
+    {
+      "_class": "lecture",
+      "id": 44292802,
+      "title": "Datalist",
+      "asset": { "_class": "asset", "id": 57236040, "time_estimation": 470 },
+      "object_index": 33
+    },
+    {
+      "_class": "lecture",
+      "id": 44263606,
+      "title": "HTML Form Challenge",
+      "asset": { "_class": "asset", "id": 57198724, "time_estimation": 332 },
+      "object_index": 34
+    },
+    {
+      "_class": "chapter",
+      "id": 10567028,
+      "title": "More HTML Elements",
+      "object_index": 4
+    },
+    {
+      "_class": "lecture",
+      "id": 44292886,
+      "title": "Section Intro",
+      "asset": { "_class": "asset", "id": 57236130, "time_estimation": 48 },
+      "object_index": 35
+    },
+    {
+      "_class": "lecture",
+      "id": 44263610,
+      "title": "Audio Element",
+      "asset": { "_class": "asset", "id": 57198734, "time_estimation": 400 },
+      "object_index": 36
+    },
+    {
+      "_class": "lecture",
+      "id": 44263614,
+      "title": "Video Element",
+      "asset": { "_class": "asset", "id": 57198742, "time_estimation": 191 },
+      "object_index": 37
+    },
+    {
+      "_class": "lecture",
+      "id": 44263620,
+      "title": "Image Map",
+      "asset": { "_class": "asset", "id": 57198750, "time_estimation": 292 },
+      "object_index": 38
+    },
+    {
+      "_class": "lecture",
+      "id": 44263624,
+      "title": "Tables",
+      "asset": { "_class": "asset", "id": 57198768, "time_estimation": 333 },
+      "object_index": 39
+    },
+    {
+      "_class": "lecture",
+      "id": 44292808,
+      "title": "Iframe",
+      "asset": { "_class": "asset", "id": 57236056, "time_estimation": 300 },
+      "object_index": 40
+    },
+    {
+      "_class": "lecture",
+      "id": 44292850,
+      "title": "Global Attributes",
+      "asset": { "_class": "asset", "id": 57236094, "time_estimation": 555 },
+      "object_index": 41
+    },
+    {
+      "_class": "lecture",
+      "id": 44292860,
+      "title": "SVG Element",
+      "asset": { "_class": "asset", "id": 57236096, "time_estimation": 379 },
+      "object_index": 42
+    },
+    {
+      "_class": "lecture",
+      "id": 44292872,
+      "title": "Popover & Details",
+      "asset": { "_class": "asset", "id": 57236104, "time_estimation": 266 },
+      "object_index": 43
+    },
+    {
+      "_class": "lecture",
+      "id": 44292876,
+      "title": "Progress & Meter",
+      "asset": { "_class": "asset", "id": 57236122, "time_estimation": 308 },
+      "object_index": 44
+    },
+    {
+      "_class": "chapter",
+      "id": 3111326,
+      "title": "CSS Basics",
+      "object_index": 5
+    },
+    {
+      "_class": "lecture",
+      "id": 13285260,
+      "title": "Section Intro",
+      "asset": { "_class": "asset", "id": 57198770, "time_estimation": 62 },
+      "object_index": 45
+    },
+    {
+      "_class": "lecture",
+      "id": 13285262,
+      "title": "Implementing CSS",
+      "asset": { "_class": "asset", "id": 57198786, "time_estimation": 493 },
+      "object_index": 46
+    },
+    {
+      "_class": "lecture",
+      "id": 13285268,
+      "title": "Basic CSS Selectors",
+      "asset": { "_class": "asset", "id": 57198802, "time_estimation": 760 },
+      "object_index": 47
+    },
+    {
+      "_class": "lecture",
+      "id": 13285274,
+      "title": "Fonts In CSS",
+      "asset": { "_class": "asset", "id": 57198808, "time_estimation": 432 },
+      "object_index": 48
+    },
+    {
+      "_class": "lecture",
+      "id": 13285276,
+      "title": "Font & Text Properties",
+      "asset": { "_class": "asset", "id": 57198818, "time_estimation": 549 },
+      "object_index": 49
+    },
+    {
+      "_class": "lecture",
+      "id": 13285278,
+      "title": "Colors (Color Names, HEX, RGB, HSL)",
+      "asset": { "_class": "asset", "id": 57198828, "time_estimation": 747 },
+      "object_index": 50
+    },
+    {
+      "_class": "lecture",
+      "id": 13285282,
+      "title": "CSS Specificity",
+      "asset": { "_class": "asset", "id": 57198830, "time_estimation": 312 },
+      "object_index": 51
+    },
+    {
+      "_class": "lecture",
+      "id": 13285288,
+      "title": "Backgrounds",
+      "asset": { "_class": "asset", "id": 57198870, "time_estimation": 579 },
+      "object_index": 52
+    },
+    {
+      "_class": "lecture",
+      "id": 13285292,
+      "title": "Styling Links",
+      "asset": { "_class": "asset", "id": 57198836, "time_estimation": 264 },
+      "object_index": 53
+    },
+    {
+      "_class": "lecture",
+      "id": 13285294,
+      "title": "Font Awesome Library",
+      "asset": { "_class": "asset", "id": 57198856, "time_estimation": 451 },
+      "object_index": 54
+    },
+    {
+      "_class": "lecture",
+      "id": 13285296,
+      "title": "CSS Basics Challenge",
+      "asset": { "_class": "asset", "id": 57198868, "time_estimation": 565 },
+      "object_index": 55
+    },
+    {
+      "_class": "chapter",
+      "id": 3111336,
+      "title": "Box Model & Positioning",
+      "object_index": 6
+    },
+    {
+      "_class": "lecture",
+      "id": 13285330,
+      "title": "Section Intro",
+      "asset": { "_class": "asset", "id": 57198956, "time_estimation": 75 },
+      "object_index": 56
+    },
+    {
+      "_class": "lecture",
+      "id": 13285338,
+      "title": "Box Model Explained",
+      "asset": { "_class": "asset", "id": 57198964, "time_estimation": 200 },
+      "object_index": 57
+    },
+    {
+      "_class": "lecture",
+      "id": 13285342,
+      "title": "Sizing & Overflow",
+      "asset": { "_class": "asset", "id": 57198976, "time_estimation": 468 },
+      "object_index": 58
+    },
+    {
+      "_class": "lecture",
+      "id": 13285346,
+      "title": "Padding",
+      "asset": { "_class": "asset", "id": 57198980, "time_estimation": 354 },
+      "object_index": 59
+    },
+    {
+      "_class": "lecture",
+      "id": 13285350,
+      "title": "Margin",
+      "asset": { "_class": "asset", "id": 57198986, "time_estimation": 420 },
+      "object_index": 60
+    },
+    {
+      "_class": "lecture",
+      "id": 13285352,
+      "title": "Universal Selector & Reset",
+      "asset": { "_class": "asset", "id": 57198994, "time_estimation": 267 },
+      "object_index": 61
+    },
+    {
+      "_class": "lecture",
+      "id": 13285354,
+      "title": "Borders",
+      "asset": { "_class": "asset", "id": 57198998, "time_estimation": 333 },
+      "object_index": 62
+    },
+    {
+      "_class": "lecture",
+      "id": 44263784,
+      "title": "Display Property",
+      "asset": { "_class": "asset", "id": 57199002, "time_estimation": 484 },
+      "object_index": 63
+    },
+    {
+      "_class": "lecture",
+      "id": 44263788,
+      "title": "Position Property",
+      "asset": { "_class": "asset", "id": 57716891, "time_estimation": 629 },
+      "object_index": 64
+    },
+    {
+      "_class": "lecture",
+      "id": 44263792,
+      "title": "Box Shadow",
+      "asset": { "_class": "asset", "id": 57199008, "time_estimation": 262 },
+      "object_index": 65
+    },
+    {
+      "_class": "lecture",
+      "id": 44263798,
+      "title": "Freelance Form Mini-Project",
+      "asset": { "_class": "asset", "id": 57199034, "time_estimation": 748 },
+      "object_index": 66
+    },
+    {
+      "_class": "lecture",
+      "id": 44263802,
+      "title": "Shoe Cards Mini-Project",
+      "asset": { "_class": "asset", "id": 57199052, "time_estimation": 729 },
+      "object_index": 67
+    },
+    {
+      "_class": "chapter",
+      "id": 3111350,
+      "title": "Flexbox",
+      "object_index": 7
+    },
+    {
+      "_class": "lecture",
+      "id": 44263810,
+      "title": "Section Intro",
+      "asset": { "_class": "asset", "id": 57199060, "time_estimation": 105 },
+      "object_index": 68
+    },
+    {
+      "_class": "lecture",
+      "id": 13285416,
+      "title": "What Is Flexbox?",
+      "asset": { "_class": "asset", "id": 57199082, "time_estimation": 287 },
+      "object_index": 69
+    },
+    {
+      "_class": "lecture",
+      "id": 19142416,
+      "title": "Flexbox Basics - Containers & Items",
+      "asset": { "_class": "asset", "id": 57199092, "time_estimation": 438 },
+      "object_index": 70
+    },
+    {
+      "_class": "lecture",
+      "id": 19142420,
+      "title": "Align & Justify Items",
+      "asset": { "_class": "asset", "id": 57199120, "time_estimation": 619 },
+      "object_index": 71
+    },
+    {
+      "_class": "lecture",
+      "id": 19142422,
+      "title": "Flex Properties & Dynamic Sizing",
+      "asset": { "_class": "asset", "id": 57199134, "time_estimation": 603 },
+      "object_index": 72
+    },
+    {
+      "_class": "lecture",
+      "id": 44263840,
+      "title": "Flex Order",
+      "asset": { "_class": "asset", "id": 57199126, "time_estimation": 174 },
+      "object_index": 73
+    },
+    {
+      "_class": "lecture",
+      "id": 44263844,
+      "title": "Flexbox Layout Challenge",
+      "asset": { "_class": "asset", "id": 57199140, "time_estimation": 441 },
+      "object_index": 74
+    },
+    {
+      "_class": "lecture",
+      "id": 44263848,
+      "title": "Pricing Card CSS Mini-Project",
+      "asset": { "_class": "asset", "id": 57199150, "time_estimation": 1290 },
+      "object_index": 75
+    },
+    {
+      "_class": "chapter",
+      "id": 3111344,
+      "title": "Responsive Design",
+      "object_index": 8
+    },
+    {
+      "_class": "lecture",
+      "id": 44263882,
+      "title": "Section Intro",
+      "asset": { "_class": "asset", "id": 57199164, "time_estimation": 100 },
+      "object_index": 76
+    },
+    {
+      "_class": "lecture",
+      "id": 13285364,
+      "title": "What Is Responsive Design?",
+      "asset": { "_class": "asset", "id": 57199188, "time_estimation": 473 },
+      "object_index": 77
+    },
+    {
+      "_class": "lecture",
+      "id": 13285368,
+      "title": "Flexible Layouts & Percentages",
+      "asset": { "_class": "asset", "id": 57199192, "time_estimation": 415 },
+      "object_index": 78
+    },
+    {
+      "_class": "lecture",
+      "id": 13285372,
+      "title": "rem & em Units",
+      "asset": { "_class": "asset", "id": 57348506, "time_estimation": 773 },
+      "object_index": 79
+    },
+    {
+      "_class": "lecture",
+      "id": 13285378,
+      "title": "Viewport Units (vh & vw)",
+      "asset": { "_class": "asset", "id": 57199318, "time_estimation": 280 },
+      "object_index": 80
+    },
+    {
+      "_class": "lecture",
+      "id": 13285386,
+      "title": "Media Queries",
+      "asset": { "_class": "asset", "id": 57199328, "time_estimation": 654 },
+      "object_index": 81
+    },
+    {
+      "_class": "lecture",
+      "id": 44263990,
+      "title": "Responsive Pricing Grid",
+      "asset": { "_class": "asset", "id": 57199332, "time_estimation": 287 },
+      "object_index": 82
+    },
+    {
+      "_class": "lecture",
+      "id": 44263998,
+      "title": "Responsive Flexbox Layout",
+      "asset": { "_class": "asset", "id": 57199342, "time_estimation": 374 },
+      "object_index": 83
+    },
+    {
+      "_class": "lecture",
+      "id": 44264008,
+      "title": "Container Queries",
+      "asset": { "_class": "asset", "id": 57199352, "time_estimation": 474 },
+      "object_index": 84
+    },
+    {
+      "_class": "lecture",
+      "id": 44264010,
+      "title": "Container Units",
+      "asset": { "_class": "asset", "id": 57199354, "time_estimation": 327 },
+      "object_index": 85
+    },
+    {
+      "_class": "chapter",
+      "id": 3111356,
+      "title": "Landing Form Mini-Project",
+      "object_index": 9
+    },
+    {
+      "_class": "lecture",
+      "id": 13285432,
+      "title": "Project Intro",
+      "asset": { "_class": "asset", "id": 57201588, "time_estimation": 91 },
+      "object_index": 86
+    },
+    {
+      "_class": "lecture",
+      "id": 13285434,
+      "title": "Setup & HTML",
+      "asset": { "_class": "asset", "id": 57199384, "time_estimation": 523 },
+      "object_index": 87
+    },
+    {
+      "_class": "lecture",
+      "id": 13285438,
+      "title": "Base CSS & Header Styles",
+      "asset": { "_class": "asset", "id": 57199392, "time_estimation": 396 },
+      "object_index": 88
+    },
+    {
+      "_class": "lecture",
+      "id": 13285442,
+      "title": "Main Content Flex & Alignment",
+      "asset": { "_class": "asset", "id": 57199408, "time_estimation": 264 },
+      "object_index": 89
+    },
+    {
+      "_class": "lecture",
+      "id": 13285444,
+      "title": "Inner Styles",
+      "asset": { "_class": "asset", "id": 57199414, "time_estimation": 401 },
+      "object_index": 90
+    },
+    {
+      "_class": "lecture",
+      "id": 13285446,
+      "title": "Mobile Layout & Media Queries",
+      "asset": { "_class": "asset", "id": 57199426, "time_estimation": 499 },
+      "object_index": 91
+    },
+    {
+      "_class": "chapter",
+      "id": 3111360,
+      "title": "Various CSS Features",
+      "object_index": 10
+    },
+    {
+      "_class": "lecture",
+      "id": 13285458,
+      "title": "Section Intro",
+      "asset": { "_class": "asset", "id": 57199448, "time_estimation": 137 },
+      "object_index": 92
+    },
+    {
+      "_class": "lecture",
+      "id": 13285460,
+      "title": "Custom Properties",
+      "asset": { "_class": "asset", "id": 57199474, "time_estimation": 633 },
+      "object_index": 93
+    },
+    {
+      "_class": "lecture",
+      "id": 44264046,
+      "title": "Vendor Prefixes",
+      "asset": { "_class": "asset", "id": 57199480, "time_estimation": 213 },
+      "object_index": 94
+    },
+    {
+      "_class": "lecture",
+      "id": 13285464,
+      "title": "Filters",
+      "asset": { "_class": "asset", "id": 57199488, "time_estimation": 423 },
+      "object_index": 95
+    },
+    {
+      "_class": "lecture",
+      "id": 13285466,
+      "title": "Smooth Scroll Mini-Project",
+      "asset": { "_class": "asset", "id": 57199548, "time_estimation": 689 },
+      "object_index": 96
+    },
+    {
+      "_class": "lecture",
+      "id": 13285474,
+      "title": "Sticky Nav & Style On Scroll",
+      "asset": { "_class": "asset", "id": 57401862, "time_estimation": 695 },
+      "object_index": 97
+    },
+    {
+      "_class": "lecture",
+      "id": 44264064,
+      "title": "calc() Function",
+      "asset": { "_class": "asset", "id": 57199512, "time_estimation": 367 },
+      "object_index": 98
+    },
+    {
+      "_class": "lecture",
+      "id": 44264068,
+      "title": "Nesting",
+      "asset": { "_class": "asset", "id": 57199542, "time_estimation": 746 },
+      "object_index": 99
+    },
+    {
+      "_class": "chapter",
+      "id": 3111370,
+      "title": "Lumina Creative Website Project",
+      "object_index": 11
+    },
+    {
+      "_class": "lecture",
+      "id": 13285482,
+      "title": "Project Intro",
+      "asset": { "_class": "asset", "id": 57199574, "time_estimation": 226 },
+      "object_index": 100
+    },
+    {
+      "_class": "lecture",
+      "id": 13285494,
+      "title": "Setup & Base CSS",
+      "asset": { "_class": "asset", "id": 57199584, "time_estimation": 355 },
+      "object_index": 101
+    },
+    {
+      "_class": "lecture",
+      "id": 13285508,
+      "title": "Header & Navigation",
+      "asset": { "_class": "asset", "id": 57272922, "time_estimation": 590 },
+      "object_index": 102
+    },
+    {
+      "_class": "lecture",
+      "id": 13285514,
+      "title": "Hero Text",
+      "asset": { "_class": "asset", "id": 57199610, "time_estimation": 399 },
+      "object_index": 103
+    },
+    {
+      "_class": "lecture",
+      "id": 13285524,
+      "title": "Custom Properties",
+      "asset": { "_class": "asset", "id": 57199604, "time_estimation": 161 },
+      "object_index": 104
+    },
+    {
+      "_class": "lecture",
+      "id": 13285532,
+      "title": "Gallery Section Flexbox",
+      "asset": { "_class": "asset", "id": 57199650, "time_estimation": 468 },
+      "object_index": 105
+    },
+    {
+      "_class": "lecture",
+      "id": 13285538,
+      "title": "Footer",
+      "asset": { "_class": "asset", "id": 57199632, "time_estimation": 355 },
+      "object_index": 106
+    },
+    {
+      "_class": "lecture",
+      "id": 13285542,
+      "title": "About Page",
+      "asset": { "_class": "asset", "id": 57199676, "time_estimation": 567 },
+      "object_index": 107
+    },
+    {
+      "_class": "lecture",
+      "id": 13285546,
+      "title": "Contact Page",
+      "asset": { "_class": "asset", "id": 57199698, "time_estimation": 952 },
+      "object_index": 108
+    },
+    {
+      "_class": "lecture",
+      "id": 13285550,
+      "title": "Image Lightbox Effect",
+      "asset": { "_class": "asset", "id": 57201598, "time_estimation": 290 },
+      "object_index": 109
+    },
+    {
+      "_class": "chapter",
+      "id": 3111378,
+      "title": "Git, GitHub & Web Hosting",
+      "object_index": 12
+    },
+    {
+      "_class": "lecture",
+      "id": 13285566,
+      "title": "Section Intro",
+      "asset": { "_class": "asset", "id": 57199710, "time_estimation": 120 },
+      "object_index": 110
+    },
+    {
+      "_class": "lecture",
+      "id": 13285570,
+      "title": "Intro To Git & GitHub",
+      "asset": { "_class": "asset", "id": 57199738, "time_estimation": 522 },
+      "object_index": 111
+    },
+    {
+      "_class": "lecture",
+      "id": 13285574,
+      "title": "Generate SSH Keys",
+      "asset": { "_class": "asset", "id": 57199732, "time_estimation": 425 },
+      "object_index": 112
+    },
+    {
+      "_class": "lecture",
+      "id": 13285580,
+      "title": "Git Workflow & Commands",
+      "asset": { "_class": "asset", "id": 57199752, "time_estimation": 581 },
+      "object_index": 113
+    },
+    {
+      "_class": "lecture",
+      "id": 13285582,
+      "title": "Deploy Website To Netlify",
+      "asset": { "_class": "asset", "id": 57199758, "time_estimation": 234 },
+      "object_index": 114
+    },
+    {
+      "_class": "lecture",
+      "id": 13285584,
+      "title": "Contact Form Submission",
+      "asset": { "_class": "asset", "id": 57199772, "time_estimation": 243 },
+      "object_index": 115
+    },
+    {
+      "_class": "lecture",
+      "id": 13285588,
+      "title": "Connect & Configure a Domain Name",
+      "asset": { "_class": "asset", "id": 57199788, "time_estimation": 225 },
+      "object_index": 116
+    },
+    {
+      "_class": "chapter",
+      "id": 10573918,
+      "title": "Web Accessibility Introduction",
+      "object_index": 13
+    },
+    {
+      "_class": "lecture",
+      "id": 44322322,
+      "title": "Section Intro",
+      "asset": { "_class": "asset", "id": 57273636, "time_estimation": 70 },
+      "object_index": 117
+    },
+    {
+      "_class": "lecture",
+      "id": 44322328,
+      "title": "What Is Web Accessibility?",
+      "asset": { "_class": "asset", "id": 57273654, "time_estimation": 487 },
+      "object_index": 118
+    },
+    {
+      "_class": "lecture",
+      "id": 44322332,
+      "title": "Skilltide Browser Extension",
+      "asset": { "_class": "asset", "id": 57273666, "time_estimation": 271 },
+      "object_index": 119
+    },
+    {
+      "_class": "lecture",
+      "id": 44322334,
+      "title": "Screen Reader Testing",
+      "asset": { "_class": "asset", "id": 57273676, "time_estimation": 861 },
+      "object_index": 120
+    },
+    {
+      "_class": "lecture",
+      "id": 44322338,
+      "title": "Role Attribute",
+      "asset": { "_class": "asset", "id": 57273704, "time_estimation": 1027 },
+      "object_index": 121
+    },
+    {
+      "_class": "lecture",
+      "id": 44322340,
+      "title": "ARIA Attributes",
+      "asset": { "_class": "asset", "id": 57273692, "time_estimation": 488 },
+      "object_index": 122
+    },
+    {
+      "_class": "lecture",
+      "id": 44322348,
+      "title": "Aria Expanded & Dynamic Elements",
+      "asset": { "_class": "asset", "id": 57273684, "time_estimation": 382 },
+      "object_index": 123
+    },
+    {
+      "_class": "chapter",
+      "id": 3111382,
+      "title": "Advanced Selectors - Pseudo Classes & Elements",
+      "object_index": 14
+    },
+    {
+      "_class": "lecture",
+      "id": 13285604,
+      "title": "Section Intro",
+      "asset": { "_class": "asset", "id": 57199810, "time_estimation": 132 },
+      "object_index": 124
+    },
+    {
+      "_class": "lecture",
+      "id": 13285606,
+      "title": "Attribute Selectors",
+      "asset": { "_class": "asset", "id": 57199828, "time_estimation": 404 },
+      "object_index": 125
+    },
+    {
+      "_class": "lecture",
+      "id": 13285610,
+      "title": "Child & Sibling Combinators",
+      "asset": { "_class": "asset", "id": 57199848, "time_estimation": 416 },
+      "object_index": 126
+    },
+    {
+      "_class": "lecture",
+      "id": 13285616,
+      "title": "Pseudo Elements",
+      "asset": { "_class": "asset", "id": 57199854, "time_estimation": 327 },
+      "object_index": 127
+    },
+    {
+      "_class": "lecture",
+      "id": 13285620,
+      "title": "Pseudo Classes - first-child, last-child & nth-child",
+      "asset": { "_class": "asset", "id": 57199866, "time_estimation": 307 },
+      "object_index": 128
+    },
+    {
+      "_class": "lecture",
+      "id": 13285622,
+      "title": "Pseudo Classes - first-of-type, last-of-type, nth-of-type",
+      "asset": { "_class": "asset", "id": 57199890, "time_estimation": 395 },
+      "object_index": 129
+    },
+    {
+      "_class": "lecture",
+      "id": 13285626,
+      "title": ":before & :after Pseudo Elements",
+      "asset": { "_class": "asset", "id": 57199894, "time_estimation": 359 },
+      "object_index": 130
+    },
+    {
+      "_class": "lecture",
+      "id": 44264188,
+      "title": "Image Overlay With :before",
+      "asset": { "_class": "asset", "id": 57199930, "time_estimation": 585 },
+      "object_index": 131
+    },
+    {
+      "_class": "lecture",
+      "id": 44264190,
+      "title": "is(), where() & has()",
+      "asset": { "_class": "asset", "id": 57199910, "time_estimation": 346 },
+      "object_index": 132
+    },
+    {
+      "_class": "lecture",
+      "id": 44264192,
+      "title": "Styling Forms",
+      "asset": { "_class": "asset", "id": 57199924, "time_estimation": 662 },
+      "object_index": 133
+    },
+    {
+      "_class": "lecture",
+      "id": 44264194,
+      "title": "Selectors Challenge",
+      "asset": { "_class": "asset", "id": 57199942, "time_estimation": 554 },
+      "object_index": 134
+    },
+    {
+      "_class": "chapter",
+      "id": 3111388,
+      "title": "CSS Grid",
+      "object_index": 15
+    },
+    {
+      "_class": "lecture",
+      "id": 13285632,
+      "title": "Section Intro",
+      "asset": { "_class": "asset", "id": 57200480, "time_estimation": 129 },
+      "object_index": 135
+    },
+    {
+      "_class": "lecture",
+      "id": 13285636,
+      "title": "CSS Grid Overview",
+      "asset": { "_class": "asset", "id": 57200508, "time_estimation": 380 },
+      "object_index": 136
+    },
+    {
+      "_class": "lecture",
+      "id": 13285638,
+      "title": "Grid Columns & Gap",
+      "asset": { "_class": "asset", "id": 57200514, "time_estimation": 503 },
+      "object_index": 137
+    },
+    {
+      "_class": "lecture",
+      "id": 13285642,
+      "title": "repeat() & minmax()",
+      "asset": { "_class": "asset", "id": 57200520, "time_estimation": 217 },
+      "object_index": 138
+    },
+    {
+      "_class": "lecture",
+      "id": 13285646,
+      "title": "Grid Rows",
+      "asset": { "_class": "asset", "id": 57200526, "time_estimation": 304 },
+      "object_index": 139
+    },
+    {
+      "_class": "lecture",
+      "id": 13285648,
+      "title": "Grid Challenge 1",
+      "asset": { "_class": "asset", "id": 57200536, "time_estimation": 181 },
+      "object_index": 140
+    },
+    {
+      "_class": "lecture",
+      "id": 13285650,
+      "title": "Align & Justify Properties",
+      "asset": { "_class": "asset", "id": 57200542, "time_estimation": 327 },
+      "object_index": 141
+    },
+    {
+      "_class": "lecture",
+      "id": 13285652,
+      "title": "repeat() With autofit & autofill",
+      "asset": { "_class": "asset", "id": 57200548, "time_estimation": 348 },
+      "object_index": 142
+    },
+    {
+      "_class": "lecture",
+      "id": 13285654,
+      "title": "Positioning & Spanning Items",
+      "asset": { "_class": "asset", "id": 57200578, "time_estimation": 467 },
+      "object_index": 143
+    },
+    {
+      "_class": "lecture",
+      "id": 13285656,
+      "title": "Named Grid Lines",
+      "asset": { "_class": "asset", "id": 57200592, "time_estimation": 367 },
+      "object_index": 144
+    },
+    {
+      "_class": "lecture",
+      "id": 44264688,
+      "title": "Grid Challenge 2",
+      "asset": { "_class": "asset", "id": 57200602, "time_estimation": 224 },
+      "object_index": 145
+    },
+    {
+      "_class": "lecture",
+      "id": 44264692,
+      "title": "CSS Grid & Media Queries",
+      "asset": { "_class": "asset", "id": 57200614, "time_estimation": 293 },
+      "object_index": 146
+    },
+    {
+      "_class": "lecture",
+      "id": 44264708,
+      "title": "Grid Template Areas",
+      "asset": { "_class": "asset", "id": 57200636, "time_estimation": 438 },
+      "object_index": 147
+    },
+    {
+      "_class": "lecture",
+      "id": 44264718,
+      "title": "Lumina Creative Grid Refactor",
+      "asset": { "_class": "asset", "id": 57200688, "time_estimation": 440 },
+      "object_index": 148
+    },
+    {
+      "_class": "chapter",
+      "id": 3111402,
+      "title": "Transitions, Animation & A Little JavaScript",
+      "object_index": 16
+    },
+    {
+      "_class": "lecture",
+      "id": 13285658,
+      "title": "Section Intro",
+      "asset": { "_class": "asset", "id": 57201612, "time_estimation": 106 },
+      "object_index": 149
+    },
+    {
+      "_class": "lecture",
+      "id": 13285662,
+      "title": "Transitions Overview",
+      "asset": { "_class": "asset", "id": 57200698, "time_estimation": 225 },
+      "object_index": 150
+    },
+    {
+      "_class": "lecture",
+      "id": 44264756,
+      "title": "Creating Transitions",
+      "asset": { "_class": "asset", "id": 57200714, "time_estimation": 362 },
+      "object_index": 151
+    },
+    {
+      "_class": "lecture",
+      "id": 13285668,
+      "title": "Trandform Property",
+      "asset": { "_class": "asset", "id": 57200728, "time_estimation": 398 },
+      "object_index": 152
+    },
+    {
+      "_class": "lecture",
+      "id": 13285670,
+      "title": "Absolute Centering With Transform/Translate",
+      "asset": { "_class": "asset", "id": 57200738, "time_estimation": 137 },
+      "object_index": 153
+    },
+    {
+      "_class": "lecture",
+      "id": 44264794,
+      "title": "3D Transforms",
+      "asset": { "_class": "asset", "id": 57200774, "time_estimation": 434 },
+      "object_index": 154
+    },
+    {
+      "_class": "lecture",
+      "id": 44264810,
+      "title": "JavaScript & CSS Intro",
+      "asset": { "_class": "asset", "id": 57200786, "time_estimation": 740 },
+      "object_index": 155
+    },
+    {
+      "_class": "lecture",
+      "id": 44264820,
+      "title": "Hamburger Menu",
+      "asset": { "_class": "asset", "id": 57200806, "time_estimation": 1074 },
+      "object_index": 156
+    },
+    {
+      "_class": "lecture",
+      "id": 44264830,
+      "title": "Keyframes - Part 1",
+      "asset": { "_class": "asset", "id": 57200802, "time_estimation": 463 },
+      "object_index": 157
+    },
+    {
+      "_class": "lecture",
+      "id": 44264834,
+      "title": "Keyframes - Part 2 (CSS Loader Animation)",
+      "asset": { "_class": "asset", "id": 57200814, "time_estimation": 548 },
+      "object_index": 158
+    },
+    {
+      "_class": "lecture",
+      "id": 44264842,
+      "title": "3D Rotating Cube",
+      "asset": { "_class": "asset", "id": 57200824, "time_estimation": 551 },
+      "object_index": 159
+    },
+    {
+      "_class": "lecture",
+      "id": 44264846,
+      "title": "Presentation Website Mini-Project",
+      "asset": { "_class": "asset", "id": 57200850, "time_estimation": 970 },
+      "object_index": 160
+    },
+    {
+      "_class": "chapter",
+      "id": 3255140,
+      "title": "Tutor Website Project - Part 1",
+      "object_index": 17
+    },
+    {
+      "_class": "lecture",
+      "id": 13875714,
+      "title": "Project Intro",
+      "asset": { "_class": "asset", "id": 57200864, "time_estimation": 285 },
+      "object_index": 161
+    },
+    {
+      "_class": "lecture",
+      "id": 13875720,
+      "title": "Project Setup",
+      "asset": { "_class": "asset", "id": 57200866, "time_estimation": 413 },
+      "object_index": 162
+    },
+    {
+      "_class": "lecture",
+      "id": 13875724,
+      "title": "Desktop Navigation",
+      "asset": { "_class": "asset", "id": 57200884, "time_estimation": 624 },
+      "object_index": 163
+    },
+    {
+      "_class": "lecture",
+      "id": 13875728,
+      "title": "Mobile Navigation",
+      "asset": { "_class": "asset", "id": 57200924, "time_estimation": 731 },
+      "object_index": 164
+    },
+    {
+      "_class": "lecture",
+      "id": 13875730,
+      "title": "Hero Section",
+      "asset": { "_class": "asset", "id": 57200934, "time_estimation": 561 },
+      "object_index": 165
+    },
+    {
+      "_class": "lecture",
+      "id": 13875738,
+      "title": "Hero SVG & Media Queries",
+      "asset": { "_class": "asset", "id": 57200968, "time_estimation": 554 },
+      "object_index": 166
+    },
+    {
+      "_class": "lecture",
+      "id": 13875746,
+      "title": "Navbar Background On Scroll",
+      "asset": { "_class": "asset", "id": 57200950, "time_estimation": 339 },
+      "object_index": 167
+    },
+    {
+      "_class": "lecture",
+      "id": 44264938,
+      "title": "Learn Section",
+      "asset": { "_class": "asset", "id": 57200986, "time_estimation": 658 },
+      "object_index": 168
+    },
+    {
+      "_class": "lecture",
+      "id": 44264948,
+      "title": "Chapters Section",
+      "asset": { "_class": "asset", "id": 57200974, "time_estimation": 482 },
+      "object_index": 169
+    },
+    {
+      "_class": "lecture",
+      "id": 44264958,
+      "title": "Summary Section",
+      "asset": { "_class": "asset", "id": 57200976, "time_estimation": 429 },
+      "object_index": 170
+    },
+    {
+      "_class": "chapter",
+      "id": 3255150,
+      "title": "Tutor Website Project - Part 2",
+      "object_index": 18
+    },
+    {
+      "_class": "lecture",
+      "id": 13875758,
+      "title": "Info Section",
+      "asset": { "_class": "asset", "id": 57200992, "time_estimation": 480 },
+      "object_index": 171
+    },
+    {
+      "_class": "lecture",
+      "id": 13875762,
+      "title": "Takeaway Section",
+      "asset": { "_class": "asset", "id": 57201000, "time_estimation": 419 },
+      "object_index": 172
+    },
+    {
+      "_class": "lecture",
+      "id": 13875768,
+      "title": "Details & Author Sections",
+      "asset": { "_class": "asset", "id": 57201026, "time_estimation": 678 },
+      "object_index": 173
+    },
+    {
+      "_class": "lecture",
+      "id": 13875774,
+      "title": "Stats Section",
+      "asset": { "_class": "asset", "id": 57201036, "time_estimation": 706 },
+      "object_index": 174
+    },
+    {
+      "_class": "lecture",
+      "id": 13875776,
+      "title": "Newsletter Section",
+      "asset": { "_class": "asset", "id": 57201016, "time_estimation": 396 },
+      "object_index": 175
+    },
+    {
+      "_class": "lecture",
+      "id": 13875782,
+      "title": "Footer & Social Icons",
+      "asset": { "_class": "asset", "id": 57201040, "time_estimation": 690 },
+      "object_index": 176
+    },
+    {
+      "_class": "lecture",
+      "id": 13875786,
+      "title": "Contact Page",
+      "asset": { "_class": "asset", "id": 57201052, "time_estimation": 740 },
+      "object_index": 177
+    },
+    {
+      "_class": "lecture",
+      "id": 44354208,
+      "title": "Add Accessibility",
+      "asset": { "_class": "asset", "id": 57315738, "time_estimation": 710 },
+      "object_index": 178
+    },
+    {
+      "_class": "lecture",
+      "id": 13875788,
+      "title": "Deploy To Vercel & Formspree Setup",
+      "asset": { "_class": "asset", "id": 57201044, "time_estimation": 520 },
+      "object_index": 179
+    },
+    {
+      "_class": "chapter",
+      "id": 3111404,
+      "title": "Leno Website Project (BEM) - Part 1",
+      "object_index": 19
+    },
+    {
+      "_class": "lecture",
+      "id": 13285676,
+      "title": "Project Intro",
+      "asset": { "_class": "asset", "id": 57201054, "time_estimation": 332 },
+      "object_index": 180
+    },
+    {
+      "_class": "lecture",
+      "id": 44265068,
+      "title": "BEM Methodology Explained",
+      "asset": { "_class": "asset", "id": 57201048, "time_estimation": 334 },
+      "object_index": 181
+    },
+    {
+      "_class": "lecture",
+      "id": 44265080,
+      "title": "Project Setup",
+      "asset": { "_class": "asset", "id": 57201056, "time_estimation": 364 },
+      "object_index": 182
+    },
+    {
+      "_class": "lecture",
+      "id": 44265094,
+      "title": "Navbar & Desktop Menu",
+      "asset": { "_class": "asset", "id": 57201066, "time_estimation": 583 },
+      "object_index": 183
+    },
+    {
+      "_class": "lecture",
+      "id": 44265106,
+      "title": "Mobile Navigation",
+      "asset": { "_class": "asset", "id": 57201074, "time_estimation": 809 },
+      "object_index": 184
+    },
+    {
+      "_class": "lecture",
+      "id": 44265120,
+      "title": "Hero Section",
+      "asset": { "_class": "asset", "id": 57201096, "time_estimation": 956 },
+      "object_index": 185
+    },
+    {
+      "_class": "lecture",
+      "id": 44265136,
+      "title": "Navbar Background On Scroll",
+      "asset": { "_class": "asset", "id": 57201070, "time_estimation": 169 },
+      "object_index": 186
+    },
+    {
+      "_class": "lecture",
+      "id": 44265146,
+      "title": "Testimonials Section",
+      "asset": { "_class": "asset", "id": 57201090, "time_estimation": 581 },
+      "object_index": 187
+    },
+    {
+      "_class": "lecture",
+      "id": 44265156,
+      "title": "Features Section",
+      "asset": { "_class": "asset", "id": 57201108, "time_estimation": 917 },
+      "object_index": 188
+    },
+    {
+      "_class": "lecture",
+      "id": 44265170,
+      "title": "Features Mobile Layout",
+      "asset": { "_class": "asset", "id": 57201092, "time_estimation": 346 },
+      "object_index": 189
+    },
+    {
+      "_class": "chapter",
+      "id": 10561034,
+      "title": "Leno Website Project (BEM) - Part 2",
+      "object_index": 20
+    },
+    {
+      "_class": "lecture",
+      "id": 44265214,
+      "title": "Preview Section",
+      "asset": { "_class": "asset", "id": 57201114, "time_estimation": 387 },
+      "object_index": 190
+    },
+    {
+      "_class": "lecture",
+      "id": 44265242,
+      "title": "Animated Play Button",
+      "asset": { "_class": "asset", "id": 57201136, "time_estimation": 809 },
+      "object_index": 191
+    },
+    {
+      "_class": "lecture",
+      "id": 44265250,
+      "title": "Video Modal",
+      "asset": { "_class": "asset", "id": 57201204, "time_estimation": 963 },
+      "object_index": 192
+    },
+    {
+      "_class": "lecture",
+      "id": 44265254,
+      "title": "Details Area",
+      "asset": { "_class": "asset", "id": 57203700, "time_estimation": 880 },
+      "object_index": 193
+    },
+    {
+      "_class": "lecture",
+      "id": 44265260,
+      "title": "Screenshots Section",
+      "asset": { "_class": "asset", "id": 57201166, "time_estimation": 330 },
+      "object_index": 194
+    },
+    {
+      "_class": "lecture",
+      "id": 44265266,
+      "title": "Download Section",
+      "asset": { "_class": "asset", "id": 57201194, "time_estimation": 563 },
+      "object_index": 195
+    },
+    {
+      "_class": "lecture",
+      "id": 44265272,
+      "title": "Footer",
+      "asset": { "_class": "asset", "id": 57201202, "time_estimation": 598 },
+      "object_index": 196
+    },
+    {
+      "_class": "lecture",
+      "id": 44265276,
+      "title": "Create The Details Page",
+      "asset": { "_class": "asset", "id": 57201178, "time_estimation": 226 },
+      "object_index": 197
+    },
+    {
+      "_class": "lecture",
+      "id": 44265282,
+      "title": "Pricing Cards",
+      "asset": { "_class": "asset", "id": 57203692, "time_estimation": 804 },
+      "object_index": 198
+    },
+    {
+      "_class": "lecture",
+      "id": 44265294,
+      "title": "Details Features",
+      "asset": { "_class": "asset", "id": 57201362, "time_estimation": 783 },
+      "object_index": 199
+    },
+    {
+      "_class": "chapter",
+      "id": 10574206,
+      "title": "Outro",
+      "object_index": 21
+    },
+    {
+      "_class": "lecture",
+      "id": 44323114,
+      "title": "Course Wrap Up",
+      "asset": { "_class": "asset", "id": 57275068, "time_estimation": 202 },
+      "object_index": 200
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Course Progress Tracker</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon" />
+  </head>
+  <body>
+    <header>
+      <section class="page-header">
+        <a href="index.html">
+          <img src="images/logo_cropped.png" alt="logo" class="logo" />
+        </a>
+        <h1 class="main-header" id="course-title">Loading...</h1>
+      </section>
+
+      <!-- <section>
+        <form class="course-link-form">
+          <input type="url" placeholder="Paste the course link here" />
+          <button type="submit">Search</button>
+        </form>
+      </section> -->
+
+      <section>
+        <div class="course-progress-section">
+          <p>Overall Course Progress</p>
+          <div class="overall-course-progress progress-container">
+            <div class="progress-bar" style="width: 70%"></div>
+            <span class="progress-text" id="overall-progress-text"
+              >0m of 0m (0%)</span
+            >
+          </div>
+        </div>
+
+        <div class="course-progress-section">
+          <p>Today's Target Course Progress</p>
+          <div class="today-target-course-progress progress-container">
+            <div class="progress-bar" style="width: 30%"></div>
+            <span class="progress-text" id="today-progress-text"
+              >0m of 0m (0%)</span
+            >
+          </div>
+        </div>
+      </section>
+    </header>
+
+    <main>
+      <ul id="course-list"></ul>
+    </main>
+
+    <script src="data.js"></script>
+    <script src="script.js"></script>
+  </body>
+</html>

@@ -1,0 +1,1706 @@
+{
+  "count": 159,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "_class": "chapter",
+      "id": 6608646,
+      "title": "Welcome and First Steps",
+      "object_index": 1
+    },
+    {
+      "_class": "lecture",
+      "id": 27511920,
+      "title": "Course Structure and Projects",
+      "asset": {
+        "_class": "asset",
+        "id": 34846066,
+        "time_estimation": 334
+      },
+      "object_index": 1
+    },
+    {
+      "_class": "lecture",
+      "id": 27511946,
+      "title": "Read Before You Start!",
+      "asset": {
+        "_class": "asset",
+        "id": 60495033,
+        "time_estimation": 51
+      },
+      "object_index": 2
+    },
+    {
+      "_class": "lecture",
+      "id": 27511928,
+      "title": "A High-Level Overview of Web Development",
+      "asset": {
+        "_class": "asset",
+        "id": 34757374,
+        "time_estimation": 661
+      },
+      "object_index": 3
+    },
+    {
+      "_class": "lecture",
+      "id": 27511930,
+      "title": "Setting Up Our Code Editor",
+      "asset": {
+        "_class": "asset",
+        "id": 34757398,
+        "time_estimation": 532
+      },
+      "object_index": 4
+    },
+    {
+      "_class": "lecture",
+      "id": 27511932,
+      "title": "Your Very First Webpage!",
+      "asset": {
+        "_class": "asset",
+        "id": 34757392,
+        "time_estimation": 595
+      },
+      "object_index": 5
+    },
+    {
+      "_class": "lecture",
+      "id": 27511934,
+      "title": "Downloading Course Material",
+      "asset": {
+        "_class": "asset",
+        "id": 34757382,
+        "time_estimation": 261
+      },
+      "object_index": 6
+    },
+    {
+      "_class": "lecture",
+      "id": 27511936,
+      "title": "Watch Before You Start!",
+      "asset": {
+        "_class": "asset",
+        "id": 34757404,
+        "time_estimation": 344
+      },
+      "object_index": 7
+    },
+    {
+      "_class": "chapter",
+      "id": 6608660,
+      "title": "HTML Fundamentals",
+      "object_index": 2
+    },
+    {
+      "_class": "lecture",
+      "id": 27511984,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 34846068,
+        "time_estimation": 40
+      },
+      "object_index": 8
+    },
+    {
+      "_class": "lecture",
+      "id": 27512010,
+      "title": "Introduction to HTML",
+      "asset": {
+        "_class": "asset",
+        "id": 34757394,
+        "time_estimation": 258
+      },
+      "object_index": 9
+    },
+    {
+      "_class": "lecture",
+      "id": 27512022,
+      "title": "HTML Document Structure",
+      "asset": {
+        "_class": "asset",
+        "id": 34757396,
+        "time_estimation": 706
+      },
+      "object_index": 10
+    },
+    {
+      "_class": "lecture",
+      "id": 27512026,
+      "title": "Text Elements",
+      "asset": {
+        "_class": "asset",
+        "id": 34757388,
+        "time_estimation": 979
+      },
+      "object_index": 11
+    },
+    {
+      "_class": "lecture",
+      "id": 27512032,
+      "title": "More Text Elements: Lists",
+      "asset": {
+        "_class": "asset",
+        "id": 34757380,
+        "time_estimation": 659
+      },
+      "object_index": 12
+    },
+    {
+      "_class": "lecture",
+      "id": 27512038,
+      "title": "Images and Attributes",
+      "asset": {
+        "_class": "asset",
+        "id": 34757384,
+        "time_estimation": 765
+      },
+      "object_index": 13
+    },
+    {
+      "_class": "lecture",
+      "id": 27512054,
+      "title": "Hyperlinks",
+      "asset": {
+        "_class": "asset",
+        "id": 34757386,
+        "time_estimation": 889
+      },
+      "object_index": 14
+    },
+    {
+      "_class": "lecture",
+      "id": 27512060,
+      "title": "Structuring our Page",
+      "asset": {
+        "_class": "asset",
+        "id": 34757402,
+        "time_estimation": 656
+      },
+      "object_index": 15
+    },
+    {
+      "_class": "lecture",
+      "id": 27512062,
+      "title": "A Note on Semantic HTML",
+      "asset": {
+        "_class": "asset",
+        "id": 34757390,
+        "time_estimation": 387
+      },
+      "object_index": 16
+    },
+    {
+      "_class": "lecture",
+      "id": 27512066,
+      "title": "Installing Additional VS Code Extensions",
+      "asset": {
+        "_class": "asset",
+        "id": 34757400,
+        "time_estimation": 434
+      },
+      "object_index": 17
+    },
+    {
+      "_class": "lecture",
+      "id": 27512068,
+      "title": "CHALLENGE #1",
+      "asset": {
+        "_class": "asset",
+        "id": 34757378,
+        "time_estimation": 710
+      },
+      "object_index": 18
+    },
+    {
+      "_class": "lecture",
+      "id": 27512070,
+      "title": "CHALLENGE #2",
+      "asset": {
+        "_class": "asset",
+        "id": 34757376,
+        "time_estimation": 1031
+      },
+      "object_index": 19
+    },
+    {
+      "_class": "chapter",
+      "id": 6608686,
+      "title": "CSS Fundamentals",
+      "object_index": 3
+    },
+    {
+      "_class": "lecture",
+      "id": 27512104,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 34846060,
+        "time_estimation": 56
+      },
+      "object_index": 20
+    },
+    {
+      "_class": "lecture",
+      "id": 27512106,
+      "title": "Introduction to CSS",
+      "asset": {
+        "_class": "asset",
+        "id": 34757056,
+        "time_estimation": 246
+      },
+      "object_index": 21
+    },
+    {
+      "_class": "lecture",
+      "id": 27512110,
+      "title": "Inline, Internal and External CSS",
+      "asset": {
+        "_class": "asset",
+        "id": 34757038,
+        "time_estimation": 732
+      },
+      "object_index": 22
+    },
+    {
+      "_class": "lecture",
+      "id": 27512112,
+      "title": "Styling Text",
+      "asset": {
+        "_class": "asset",
+        "id": 34757042,
+        "time_estimation": 931
+      },
+      "object_index": 23
+    },
+    {
+      "_class": "lecture",
+      "id": 27512114,
+      "title": "Combining Selectors",
+      "asset": {
+        "_class": "asset",
+        "id": 34757034,
+        "time_estimation": 552
+      },
+      "object_index": 24
+    },
+    {
+      "_class": "lecture",
+      "id": 27512116,
+      "title": "Class and ID Selectors",
+      "asset": {
+        "_class": "asset",
+        "id": 34757020,
+        "time_estimation": 923
+      },
+      "object_index": 25
+    },
+    {
+      "_class": "lecture",
+      "id": 27512120,
+      "title": "Working With Colors",
+      "asset": {
+        "_class": "asset",
+        "id": 34757014,
+        "time_estimation": 1447
+      },
+      "object_index": 26
+    },
+    {
+      "_class": "lecture",
+      "id": 27512122,
+      "title": "Pseudo-classes",
+      "asset": {
+        "_class": "asset",
+        "id": 34757048,
+        "time_estimation": 600
+      },
+      "object_index": 27
+    },
+    {
+      "_class": "lecture",
+      "id": 27512126,
+      "title": "Styling Hyperlinks",
+      "asset": {
+        "_class": "asset",
+        "id": 34757036,
+        "time_estimation": 583
+      },
+      "object_index": 28
+    },
+    {
+      "_class": "lecture",
+      "id": 27512130,
+      "title": "Using Chrome DevTools",
+      "asset": {
+        "_class": "asset",
+        "id": 34757040,
+        "time_estimation": 484
+      },
+      "object_index": 29
+    },
+    {
+      "_class": "lecture",
+      "id": 27512132,
+      "title": "CSS Theory #1: Conflicts Between Selectors",
+      "asset": {
+        "_class": "asset",
+        "id": 34757018,
+        "time_estimation": 1043
+      },
+      "object_index": 30
+    },
+    {
+      "_class": "lecture",
+      "id": 27512138,
+      "title": "CSS Theory #2: Inheritance and the Universal Selector",
+      "asset": {
+        "_class": "asset",
+        "id": 34757016,
+        "time_estimation": 876
+      },
+      "object_index": 31
+    },
+    {
+      "_class": "lecture",
+      "id": 27512140,
+      "title": "CHALLENGE #1",
+      "asset": {
+        "_class": "asset",
+        "id": 34757032,
+        "time_estimation": 1060
+      },
+      "object_index": 32
+    },
+    {
+      "_class": "lecture",
+      "id": 27512142,
+      "title": "CSS Theory #3: The CSS Box Model",
+      "asset": {
+        "_class": "asset",
+        "id": 34757054,
+        "time_estimation": 485
+      },
+      "object_index": 33
+    },
+    {
+      "_class": "lecture",
+      "id": 27512144,
+      "title": "Using Margins and Paddings",
+      "asset": {
+        "_class": "asset",
+        "id": 34757030,
+        "time_estimation": 1327
+      },
+      "object_index": 34
+    },
+    {
+      "_class": "lecture",
+      "id": 27512146,
+      "title": "Adding Dimensions",
+      "asset": {
+        "_class": "asset",
+        "id": 34757010,
+        "time_estimation": 483
+      },
+      "object_index": 35
+    },
+    {
+      "_class": "lecture",
+      "id": 27512152,
+      "title": "Centering our Page",
+      "asset": {
+        "_class": "asset",
+        "id": 34757022,
+        "time_estimation": 476
+      },
+      "object_index": 36
+    },
+    {
+      "_class": "lecture",
+      "id": 27512156,
+      "title": "CHALLENGE #2",
+      "asset": {
+        "_class": "asset",
+        "id": 34757012,
+        "time_estimation": 659
+      },
+      "object_index": 37
+    },
+    {
+      "_class": "lecture",
+      "id": 27512160,
+      "title": "CSS Theory #4: Types of Boxes",
+      "asset": {
+        "_class": "asset",
+        "id": 34757050,
+        "time_estimation": 1339
+      },
+      "object_index": 38
+    },
+    {
+      "_class": "lecture",
+      "id": 27512162,
+      "title": "CSS Theory #5: Absolute Positioning",
+      "asset": {
+        "_class": "asset",
+        "id": 34757026,
+        "time_estimation": 964
+      },
+      "object_index": 39
+    },
+    {
+      "_class": "lecture",
+      "id": 27512168,
+      "title": "Pseudo-elements",
+      "asset": {
+        "_class": "asset",
+        "id": 34757044,
+        "time_estimation": 1011
+      },
+      "object_index": 40
+    },
+    {
+      "_class": "lecture",
+      "id": 27512170,
+      "title": "Developer Skill #1: Googling and Reading Documentation",
+      "asset": {
+        "_class": "asset",
+        "id": 34757052,
+        "time_estimation": 735
+      },
+      "object_index": 41
+    },
+    {
+      "_class": "lecture",
+      "id": 27512174,
+      "title": "Developer Skill #2: Debugging and Asking Questions",
+      "asset": {
+        "_class": "asset",
+        "id": 34757024,
+        "time_estimation": 1336
+      },
+      "object_index": 42
+    },
+    {
+      "_class": "lecture",
+      "id": 27512178,
+      "title": "CHALLENGE #3",
+      "asset": {
+        "_class": "asset",
+        "id": 34757028,
+        "time_estimation": 1177
+      },
+      "object_index": 43
+    },
+    {
+      "_class": "chapter",
+      "id": 6608714,
+      "title": "Layouts: Floats, Flexbox, and CSS Grid Fundamentals",
+      "object_index": 4
+    },
+    {
+      "_class": "lecture",
+      "id": 27512224,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 34846064,
+        "time_estimation": 78
+      },
+      "object_index": 44
+    },
+    {
+      "_class": "lecture",
+      "id": 27512228,
+      "title": "The 3 Ways of Building Layouts",
+      "asset": {
+        "_class": "asset",
+        "id": 34756734,
+        "time_estimation": 318
+      },
+      "object_index": 45
+    },
+    {
+      "_class": "lecture",
+      "id": 27512230,
+      "title": "Using Floats",
+      "asset": {
+        "_class": "asset",
+        "id": 34756738,
+        "time_estimation": 1042
+      },
+      "object_index": 46
+    },
+    {
+      "_class": "lecture",
+      "id": 27512232,
+      "title": "Clearing Floats",
+      "asset": {
+        "_class": "asset",
+        "id": 34756726,
+        "time_estimation": 442
+      },
+      "object_index": 47
+    },
+    {
+      "_class": "lecture",
+      "id": 27512234,
+      "title": "Building a Simple Float Layout",
+      "asset": {
+        "_class": "asset",
+        "id": 34756728,
+        "time_estimation": 526
+      },
+      "object_index": 48
+    },
+    {
+      "_class": "lecture",
+      "id": 27512238,
+      "title": "box-sizing: border-box",
+      "asset": {
+        "_class": "asset",
+        "id": 34756736,
+        "time_estimation": 672
+      },
+      "object_index": 49
+    },
+    {
+      "_class": "lecture",
+      "id": 27512240,
+      "title": "CHALLENGE #1",
+      "asset": {
+        "_class": "asset",
+        "id": 34756722,
+        "time_estimation": 1214
+      },
+      "object_index": 50
+    },
+    {
+      "_class": "lecture",
+      "id": 27512242,
+      "title": "Introduction to Flexbox",
+      "asset": {
+        "_class": "asset",
+        "id": 34756724,
+        "time_estimation": 583
+      },
+      "object_index": 51
+    },
+    {
+      "_class": "lecture",
+      "id": 27512244,
+      "title": "A Flexbox Overview",
+      "asset": {
+        "_class": "asset",
+        "id": 34756730,
+        "time_estimation": 455
+      },
+      "object_index": 52
+    },
+    {
+      "_class": "lecture",
+      "id": 27512248,
+      "title": "Spacing and Aligning Flex Items",
+      "asset": {
+        "_class": "asset",
+        "id": 34756732,
+        "time_estimation": 651
+      },
+      "object_index": 53
+    },
+    {
+      "_class": "lecture",
+      "id": 27512250,
+      "title": "The flex Property",
+      "asset": {
+        "_class": "asset",
+        "id": 34756720,
+        "time_estimation": 694
+      },
+      "object_index": 54
+    },
+    {
+      "_class": "lecture",
+      "id": 27512252,
+      "title": "Adding Flexbox to Our Project",
+      "asset": {
+        "_class": "asset",
+        "id": 34756742,
+        "time_estimation": 1197
+      },
+      "object_index": 55
+    },
+    {
+      "_class": "lecture",
+      "id": 27512256,
+      "title": "Building a Simple Flexbox Layout",
+      "asset": {
+        "_class": "asset",
+        "id": 34756714,
+        "time_estimation": 735
+      },
+      "object_index": 56
+    },
+    {
+      "_class": "lecture",
+      "id": 27512258,
+      "title": "CHALLENGE #2",
+      "asset": {
+        "_class": "asset",
+        "id": 34756744,
+        "time_estimation": 853
+      },
+      "object_index": 57
+    },
+    {
+      "_class": "lecture",
+      "id": 27512260,
+      "title": "Introduction to CSS Grid",
+      "asset": {
+        "_class": "asset",
+        "id": 34756706,
+        "time_estimation": 657
+      },
+      "object_index": 58
+    },
+    {
+      "_class": "lecture",
+      "id": 27512262,
+      "title": "A CSS Grid Overview",
+      "asset": {
+        "_class": "asset",
+        "id": 34756718,
+        "time_estimation": 579
+      },
+      "object_index": 59
+    },
+    {
+      "_class": "lecture",
+      "id": 27512268,
+      "title": "Sizing Grid Columns and Rows",
+      "asset": {
+        "_class": "asset",
+        "id": 34756710,
+        "time_estimation": 834
+      },
+      "object_index": 60
+    },
+    {
+      "_class": "lecture",
+      "id": 27512270,
+      "title": "Placing and Spanning Grid Items",
+      "asset": {
+        "_class": "asset",
+        "id": 34756708,
+        "time_estimation": 780
+      },
+      "object_index": 61
+    },
+    {
+      "_class": "lecture",
+      "id": 27512274,
+      "title": "Aligning Grid Items and Tracks",
+      "asset": {
+        "_class": "asset",
+        "id": 34756716,
+        "time_estimation": 826
+      },
+      "object_index": 62
+    },
+    {
+      "_class": "lecture",
+      "id": 27512278,
+      "title": "Building a Simple CSS Grid Layout",
+      "asset": {
+        "_class": "asset",
+        "id": 34756740,
+        "time_estimation": 946
+      },
+      "object_index": 63
+    },
+    {
+      "_class": "lecture",
+      "id": 27512280,
+      "title": "CHALLENGE #3",
+      "asset": {
+        "_class": "asset",
+        "id": 34756712,
+        "time_estimation": 467
+      },
+      "object_index": 64
+    },
+    {
+      "_class": "chapter",
+      "id": 6608732,
+      "title": "Web Design Rules and Framework",
+      "object_index": 5
+    },
+    {
+      "_class": "lecture",
+      "id": 27512356,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 34846054,
+        "time_estimation": 138
+      },
+      "object_index": 65
+    },
+    {
+      "_class": "lecture",
+      "id": 27512358,
+      "title": "Project Overview",
+      "asset": {
+        "_class": "asset",
+        "id": 34756378,
+        "time_estimation": 373
+      },
+      "object_index": 66
+    },
+    {
+      "_class": "lecture",
+      "id": 27512360,
+      "title": "Overview of Web Design and Website Personalities",
+      "asset": {
+        "_class": "asset",
+        "id": 34756362,
+        "time_estimation": 756
+      },
+      "object_index": 67
+    },
+    {
+      "_class": "lecture",
+      "id": 27512364,
+      "title": "Web Design Rules #1: Typography",
+      "asset": {
+        "_class": "asset",
+        "id": 34756366,
+        "time_estimation": 977
+      },
+      "object_index": 68
+    },
+    {
+      "_class": "lecture",
+      "id": 27512366,
+      "title": "Implementing Typography",
+      "asset": {
+        "_class": "asset",
+        "id": 34756382,
+        "time_estimation": 1403
+      },
+      "object_index": 69
+    },
+    {
+      "_class": "lecture",
+      "id": 27512370,
+      "title": "Web Design Rules #2: Colors",
+      "asset": {
+        "_class": "asset",
+        "id": 34756380,
+        "time_estimation": 820
+      },
+      "object_index": 70
+    },
+    {
+      "_class": "lecture",
+      "id": 27512372,
+      "title": "Implementing Colors",
+      "asset": {
+        "_class": "asset",
+        "id": 34756376,
+        "time_estimation": 1092
+      },
+      "object_index": 71
+    },
+    {
+      "_class": "lecture",
+      "id": 27512376,
+      "title": "Web Design Rules #3: Images and Illustrations",
+      "asset": {
+        "_class": "asset",
+        "id": 34756386,
+        "time_estimation": 897
+      },
+      "object_index": 72
+    },
+    {
+      "_class": "lecture",
+      "id": 27512378,
+      "title": "Web Design Rules #4: Icons",
+      "asset": {
+        "_class": "asset",
+        "id": 34756370,
+        "time_estimation": 779
+      },
+      "object_index": 73
+    },
+    {
+      "_class": "lecture",
+      "id": 27512382,
+      "title": "Implementing Icons",
+      "asset": {
+        "_class": "asset",
+        "id": 34756368,
+        "time_estimation": 1293
+      },
+      "object_index": 74
+    },
+    {
+      "_class": "lecture",
+      "id": 27512384,
+      "title": "Web Design Rules #5: Shadows",
+      "asset": {
+        "_class": "asset",
+        "id": 34756384,
+        "time_estimation": 784
+      },
+      "object_index": 75
+    },
+    {
+      "_class": "lecture",
+      "id": 27512388,
+      "title": "Implementing Shadows",
+      "asset": {
+        "_class": "asset",
+        "id": 34908424,
+        "time_estimation": 728
+      },
+      "object_index": 76
+    },
+    {
+      "_class": "lecture",
+      "id": 27512392,
+      "title": "Web Design Rules #6: Border-radius",
+      "asset": {
+        "_class": "asset",
+        "id": 34756364,
+        "time_estimation": 294
+      },
+      "object_index": 77
+    },
+    {
+      "_class": "lecture",
+      "id": 27512396,
+      "title": "Implementing Border-radius",
+      "asset": {
+        "_class": "asset",
+        "id": 34756372,
+        "time_estimation": 400
+      },
+      "object_index": 78
+    },
+    {
+      "_class": "lecture",
+      "id": 27512398,
+      "title": "Web Design Rules #7: Whitespace",
+      "asset": {
+        "_class": "asset",
+        "id": 34756354,
+        "time_estimation": 790
+      },
+      "object_index": 79
+    },
+    {
+      "_class": "lecture",
+      "id": 27512402,
+      "title": "Web Design Rules #8: Visual Hierarchy",
+      "asset": {
+        "_class": "asset",
+        "id": 34756358,
+        "time_estimation": 1378
+      },
+      "object_index": 80
+    },
+    {
+      "_class": "lecture",
+      "id": 27512404,
+      "title": "Implementing Whitespace and Visual Hierarchy",
+      "asset": {
+        "_class": "asset",
+        "id": 34756352,
+        "time_estimation": 943
+      },
+      "object_index": 81
+    },
+    {
+      "_class": "lecture",
+      "id": 27512406,
+      "title": "Web Design Rules #9: User Experience (UX)",
+      "asset": {
+        "_class": "asset",
+        "id": 34756360,
+        "time_estimation": 1237
+      },
+      "object_index": 82
+    },
+    {
+      "_class": "lecture",
+      "id": 27512408,
+      "title": "The Website-Personalities-Framework",
+      "asset": {
+        "_class": "asset",
+        "id": 34756356,
+        "time_estimation": 1859
+      },
+      "object_index": 83
+    },
+    {
+      "_class": "lecture",
+      "id": 27512410,
+      "title": "The Missing Piece: Steal Like An Artist!",
+      "asset": {
+        "_class": "asset",
+        "id": 34756350,
+        "time_estimation": 626
+      },
+      "object_index": 84
+    },
+    {
+      "_class": "chapter",
+      "id": 6608742,
+      "title": "Components and Layout Patterns",
+      "object_index": 6
+    },
+    {
+      "_class": "lecture",
+      "id": 27512440,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 34846070,
+        "time_estimation": 60
+      },
+      "object_index": 85
+    },
+    {
+      "_class": "lecture",
+      "id": 27512442,
+      "title": "Web Design Rules #10 - Part 1: Elements and Components",
+      "asset": {
+        "_class": "asset",
+        "id": 34756260,
+        "time_estimation": 1668
+      },
+      "object_index": 86
+    },
+    {
+      "_class": "lecture",
+      "id": 27512446,
+      "title": "Building an Accordion Component - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 34756266,
+        "time_estimation": 1530
+      },
+      "object_index": 87
+    },
+    {
+      "_class": "lecture",
+      "id": 27512452,
+      "title": "Building an Accordion Component - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 34756272,
+        "time_estimation": 1164
+      },
+      "object_index": 88
+    },
+    {
+      "_class": "lecture",
+      "id": 27512454,
+      "title": "Building a Carousel Component - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 34756258,
+        "time_estimation": 1285
+      },
+      "object_index": 89
+    },
+    {
+      "_class": "lecture",
+      "id": 27512458,
+      "title": "Building a Carousel Component - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 34756270,
+        "time_estimation": 1781
+      },
+      "object_index": 90
+    },
+    {
+      "_class": "lecture",
+      "id": 27512460,
+      "title": "Building a Table Component - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 34756268,
+        "time_estimation": 604
+      },
+      "object_index": 91
+    },
+    {
+      "_class": "lecture",
+      "id": 27512462,
+      "title": "Building a Table Component - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 34756254,
+        "time_estimation": 796
+      },
+      "object_index": 92
+    },
+    {
+      "_class": "lecture",
+      "id": 27512464,
+      "title": "CHALLENGE #1: Building a Pagination Component",
+      "asset": {
+        "_class": "asset",
+        "id": 34756264,
+        "time_estimation": 1459
+      },
+      "object_index": 93
+    },
+    {
+      "_class": "lecture",
+      "id": 27512466,
+      "title": "Web Design Rules #10 - Part 2: Layout Patterns",
+      "asset": {
+        "_class": "asset",
+        "id": 34756256,
+        "time_estimation": 1312
+      },
+      "object_index": 94
+    },
+    {
+      "_class": "lecture",
+      "id": 27512468,
+      "title": "Building a Hero Section - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 34756276,
+        "time_estimation": 1331
+      },
+      "object_index": 95
+    },
+    {
+      "_class": "lecture",
+      "id": 27512470,
+      "title": "Building a Hero Section - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 34756278,
+        "time_estimation": 1281
+      },
+      "object_index": 96
+    },
+    {
+      "_class": "lecture",
+      "id": 27512474,
+      "title": "Building a Web Application Layout - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 34756262,
+        "time_estimation": 912
+      },
+      "object_index": 97
+    },
+    {
+      "_class": "lecture",
+      "id": 27512476,
+      "title": "Building a Web Application Layout - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 34756274,
+        "time_estimation": 956
+      },
+      "object_index": 98
+    },
+    {
+      "_class": "chapter",
+      "id": 6608934,
+      "title": "Omnifood Project – Setup and Desktop Version",
+      "object_index": 7
+    },
+    {
+      "_class": "lecture",
+      "id": 27513150,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 34846062,
+        "time_estimation": 62
+      },
+      "object_index": 99
+    },
+    {
+      "_class": "lecture",
+      "id": 27513154,
+      "title": "The 7 Steps to a Great Website",
+      "asset": {
+        "_class": "asset",
+        "id": 34755848,
+        "time_estimation": 1229
+      },
+      "object_index": 100
+    },
+    {
+      "_class": "lecture",
+      "id": 27513156,
+      "title": "Defining and Planning the Project (Steps 1 and 2)",
+      "asset": {
+        "_class": "asset",
+        "id": 34755860,
+        "time_estimation": 1476
+      },
+      "object_index": 101
+    },
+    {
+      "_class": "lecture",
+      "id": 27513158,
+      "title": "Sketching Initial Layout Ideas (Step 3)",
+      "asset": {
+        "_class": "asset",
+        "id": 34755864,
+        "time_estimation": 456
+      },
+      "object_index": 102
+    },
+    {
+      "_class": "lecture",
+      "id": 27513162,
+      "title": "First Design and Development Steps (Step 4)",
+      "asset": {
+        "_class": "asset",
+        "id": 34755862,
+        "time_estimation": 921
+      },
+      "object_index": 103
+    },
+    {
+      "_class": "lecture",
+      "id": 27513164,
+      "title": "Responsive Design Principles",
+      "asset": {
+        "_class": "asset",
+        "id": 34755850,
+        "time_estimation": 517
+      },
+      "object_index": 104
+    },
+    {
+      "_class": "lecture",
+      "id": 27513166,
+      "title": "How rem and max-width Work",
+      "asset": {
+        "_class": "asset",
+        "id": 34755844,
+        "time_estimation": 966
+      },
+      "object_index": 105
+    },
+    {
+      "_class": "lecture",
+      "id": 27513170,
+      "title": "Building the Hero - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 34755854,
+        "time_estimation": 971
+      },
+      "object_index": 106
+    },
+    {
+      "_class": "lecture",
+      "id": 27513176,
+      "title": "Building the Hero - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 34755876,
+        "time_estimation": 1766
+      },
+      "object_index": 107
+    },
+    {
+      "_class": "lecture",
+      "id": 27513180,
+      "title": "Building the Hero - Part 3",
+      "asset": {
+        "_class": "asset",
+        "id": 34755852,
+        "time_estimation": 1437
+      },
+      "object_index": 108
+    },
+    {
+      "_class": "lecture",
+      "id": 27513184,
+      "title": "Building the Header",
+      "asset": {
+        "_class": "asset",
+        "id": 34755872,
+        "time_estimation": 915
+      },
+      "object_index": 109
+    },
+    {
+      "_class": "lecture",
+      "id": 27513186,
+      "title": "Building the Navigation",
+      "asset": {
+        "_class": "asset",
+        "id": 34755870,
+        "time_estimation": 955
+      },
+      "object_index": 110
+    },
+    {
+      "_class": "lecture",
+      "id": 27513188,
+      "title": "Setting Up a Reusable Grid",
+      "asset": {
+        "_class": "asset",
+        "id": 34755826,
+        "time_estimation": 1283
+      },
+      "object_index": 111
+    },
+    {
+      "_class": "lecture",
+      "id": 27513190,
+      "title": "Building the How-It-Works Section - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 34755828,
+        "time_estimation": 1756
+      },
+      "object_index": 112
+    },
+    {
+      "_class": "lecture",
+      "id": 27513194,
+      "title": "Building the How-It-Works Section - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 34755842,
+        "time_estimation": 2112
+      },
+      "object_index": 113
+    },
+    {
+      "_class": "lecture",
+      "id": 27513196,
+      "title": "Building the Featured-In Section",
+      "asset": {
+        "_class": "asset",
+        "id": 34755866,
+        "time_estimation": 1185
+      },
+      "object_index": 114
+    },
+    {
+      "_class": "lecture",
+      "id": 27513198,
+      "title": "Building the Meals Section - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 34755840,
+        "time_estimation": 1595
+      },
+      "object_index": 115
+    },
+    {
+      "_class": "lecture",
+      "id": 27513200,
+      "title": "Building the Meals Section - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 34755880,
+        "time_estimation": 1261
+      },
+      "object_index": 116
+    },
+    {
+      "_class": "lecture",
+      "id": 27513202,
+      "title": "Building the Meals Section - Part 3",
+      "asset": {
+        "_class": "asset",
+        "id": 34755830,
+        "time_estimation": 1782
+      },
+      "object_index": 117
+    },
+    {
+      "_class": "lecture",
+      "id": 27513206,
+      "title": "Building the Testimonials Section - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 34755856,
+        "time_estimation": 1094
+      },
+      "object_index": 118
+    },
+    {
+      "_class": "lecture",
+      "id": 27513208,
+      "title": "Building the Testimonials Section - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 34755832,
+        "time_estimation": 1478
+      },
+      "object_index": 119
+    },
+    {
+      "_class": "lecture",
+      "id": 27513210,
+      "title": "Building the Pricing Section - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 34755838,
+        "time_estimation": 1440
+      },
+      "object_index": 120
+    },
+    {
+      "_class": "lecture",
+      "id": 27513212,
+      "title": "Building the Pricing Section - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 34755836,
+        "time_estimation": 1557
+      },
+      "object_index": 121
+    },
+    {
+      "_class": "lecture",
+      "id": 27513214,
+      "title": "Building the Features Part",
+      "asset": {
+        "_class": "asset",
+        "id": 34755846,
+        "time_estimation": 1146
+      },
+      "object_index": 122
+    },
+    {
+      "_class": "lecture",
+      "id": 27513216,
+      "title": "Building the Call-To-Action Section - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 34755858,
+        "time_estimation": 1572
+      },
+      "object_index": 123
+    },
+    {
+      "_class": "lecture",
+      "id": 27513220,
+      "title": "Building the Call-To-Action Section - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 34755834,
+        "time_estimation": 1485
+      },
+      "object_index": 124
+    },
+    {
+      "_class": "lecture",
+      "id": 27513222,
+      "title": "Building the Call-To-Action Section - Part 3",
+      "asset": {
+        "_class": "asset",
+        "id": 34755882,
+        "time_estimation": 1749
+      },
+      "object_index": 125
+    },
+    {
+      "_class": "lecture",
+      "id": 27513224,
+      "title": "Building the Footer - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 34755868,
+        "time_estimation": 1155
+      },
+      "object_index": 126
+    },
+    {
+      "_class": "lecture",
+      "id": 27513226,
+      "title": "Building the Footer - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 34755878,
+        "time_estimation": 1678
+      },
+      "object_index": 127
+    },
+    {
+      "_class": "chapter",
+      "id": 6608964,
+      "title": "Omnifood Project – Responsive Web Design",
+      "object_index": 8
+    },
+    {
+      "_class": "lecture",
+      "id": 27513290,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 34846052,
+        "time_estimation": 47
+      },
+      "object_index": 128
+    },
+    {
+      "_class": "lecture",
+      "id": 27513294,
+      "title": "How Media Queries Work",
+      "asset": {
+        "_class": "asset",
+        "id": 34755502,
+        "time_estimation": 863
+      },
+      "object_index": 129
+    },
+    {
+      "_class": "lecture",
+      "id": 27513296,
+      "title": "How to Select Breakpoints",
+      "asset": {
+        "_class": "asset",
+        "id": 34755500,
+        "time_estimation": 287
+      },
+      "object_index": 130
+    },
+    {
+      "_class": "lecture",
+      "id": 27513300,
+      "title": "Responding to Small Laptops",
+      "asset": {
+        "_class": "asset",
+        "id": 34755496,
+        "time_estimation": 933
+      },
+      "object_index": 131
+    },
+    {
+      "_class": "lecture",
+      "id": 27513304,
+      "title": "Responding to Landscape Tablets",
+      "asset": {
+        "_class": "asset",
+        "id": 34755506,
+        "time_estimation": 1164
+      },
+      "object_index": 132
+    },
+    {
+      "_class": "lecture",
+      "id": 27513306,
+      "title": "Responding to Tablets",
+      "asset": {
+        "_class": "asset",
+        "id": 34755498,
+        "time_estimation": 1524
+      },
+      "object_index": 133
+    },
+    {
+      "_class": "lecture",
+      "id": 27513312,
+      "title": "Building the Mobile Navigation",
+      "asset": {
+        "_class": "asset",
+        "id": 34755510,
+        "time_estimation": 2278
+      },
+      "object_index": 134
+    },
+    {
+      "_class": "lecture",
+      "id": 27513314,
+      "title": "Responding to Smaller Tablets",
+      "asset": {
+        "_class": "asset",
+        "id": 34755504,
+        "time_estimation": 1136
+      },
+      "object_index": 135
+    },
+    {
+      "_class": "lecture",
+      "id": 27513316,
+      "title": "Responding to Phones",
+      "asset": {
+        "_class": "asset",
+        "id": 34755508,
+        "time_estimation": 1602
+      },
+      "object_index": 136
+    },
+    {
+      "_class": "chapter",
+      "id": 6608984,
+      "title": "Omnifood Project – Effects, Optimizations and Deployment",
+      "object_index": 9
+    },
+    {
+      "_class": "lecture",
+      "id": 27513344,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 34846058,
+        "time_estimation": 50
+      },
+      "object_index": 137
+    },
+    {
+      "_class": "lecture",
+      "id": 27513348,
+      "title": "A Short Introduction to JavaScript",
+      "asset": {
+        "_class": "asset",
+        "id": 35037980,
+        "time_estimation": 1128
+      },
+      "object_index": 138
+    },
+    {
+      "_class": "lecture",
+      "id": 27513354,
+      "title": "Making the Mobile Navigation Work",
+      "asset": {
+        "_class": "asset",
+        "id": 34755282,
+        "time_estimation": 512
+      },
+      "object_index": 139
+    },
+    {
+      "_class": "lecture",
+      "id": 27513356,
+      "title": "Implementing Smooth Scrolling",
+      "asset": {
+        "_class": "asset",
+        "id": 34755286,
+        "time_estimation": 1764
+      },
+      "object_index": 140
+    },
+    {
+      "_class": "lecture",
+      "id": 27513360,
+      "title": "Implementing a Sticky Navigation Bar",
+      "asset": {
+        "_class": "asset",
+        "id": 34755280,
+        "time_estimation": 1682
+      },
+      "object_index": 141
+    },
+    {
+      "_class": "lecture",
+      "id": 27513362,
+      "title": "Browser Support and Fixing Flexbox Gap in Safari",
+      "asset": {
+        "_class": "asset",
+        "id": 35147818,
+        "time_estimation": 1146
+      },
+      "object_index": 142
+    },
+    {
+      "_class": "lecture",
+      "id": 27513364,
+      "title": "Testing Performance With Lighthouse",
+      "asset": {
+        "_class": "asset",
+        "id": 34755290,
+        "time_estimation": 525
+      },
+      "object_index": 143
+    },
+    {
+      "_class": "lecture",
+      "id": 27513366,
+      "title": "Adding Favicon and Meta Description",
+      "asset": {
+        "_class": "asset",
+        "id": 34755288,
+        "time_estimation": 744
+      },
+      "object_index": 144
+    },
+    {
+      "_class": "lecture",
+      "id": 27513368,
+      "title": "Image Optimizations",
+      "asset": {
+        "_class": "asset",
+        "id": 34755294,
+        "time_estimation": 1106
+      },
+      "object_index": 145
+    },
+    {
+      "_class": "lecture",
+      "id": 27513370,
+      "title": "Deployment to Netlify",
+      "asset": {
+        "_class": "asset",
+        "id": 34755292,
+        "time_estimation": 500
+      },
+      "object_index": 146
+    },
+    {
+      "_class": "lecture",
+      "id": 27513374,
+      "title": "Making the Form Work With Netlify Forms",
+      "asset": {
+        "_class": "asset",
+        "id": 34755296,
+        "time_estimation": 469
+      },
+      "object_index": 147
+    },
+    {
+      "_class": "chapter",
+      "id": 6609008,
+      "title": "The End!",
+      "object_index": 10
+    },
+    {
+      "_class": "lecture",
+      "id": 27513392,
+      "title": "Where to Go from Here",
+      "asset": {
+        "_class": "asset",
+        "id": 34846056,
+        "time_estimation": 272
+      },
+      "object_index": 148
+    },
+    {
+      "_class": "lecture",
+      "id": 27546802,
+      "title": "My Other Courses + Updates",
+      "asset": {
+        "_class": "asset",
+        "id": 52684666,
+        "time_estimation": 63
+      },
+      "object_index": 149
+    }
+  ]
+}
