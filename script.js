@@ -281,3 +281,20 @@ document.addEventListener("DOMContentLoaded", async () => {
     console.error(err);
   }
 });
+
+document.getElementById("reset-today-target").addEventListener("click", () => {
+  // Uncheck all "to-do" checkboxes
+  document.querySelectorAll('input[name="to-do"]').forEach((checkbox) => {
+    checkbox.checked = false;
+  });
+
+  // Save updated state with correct course ID
+  const urlParams = new URLSearchParams(window.location.search);
+  const courseId = urlParams.get("course");
+  saveCourseProgress(courseId);
+
+  // Recalculate progress after DOM update
+  setTimeout(() => {
+    updateTodayTargetProgress();
+  }, 0);
+});

@@ -110,6 +110,28 @@ ul {
   overflow: hidden;
 }
 
+.progress-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.reset-button {
+  font-size: 1.4rem;
+  padding: 0.6rem 1.4rem;
+  border-radius: 0.8rem;
+  border: none;
+  background-color: #fcd5ce;
+  color: #4b4453;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.reset-button:hover {
+  background-color: #f8c1b3;
+}
+
 .progress-bar {
   position: relative;
   width: 0;
