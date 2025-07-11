@@ -170,7 +170,31 @@ function renderCourse(data, savedProgress, courseId) {
     });
 
     heading.addEventListener("click", () => {
-      topicsUl.classList.toggle("collapsed");
+      const isExpanded = topicsUl.classList.contains("expanded");
+
+      if (isExpanded) {
+        const currentHeight = topicsUl.scrollHeight;
+        topicsUl.style.height = `${currentHeight}px`; // Fix height to allow animation
+        requestAnimationFrame(() => {
+          topicsUl.style.height = "0px";
+        });
+        topicsUl.classList.remove("expanded");
+      } else {
+        topicsUl.style.height = "auto";
+        const targetHeight = topicsUl.scrollHeight + "px";
+        topicsUl.style.height = "0px";
+        topicsUl.classList.add("expanded");
+        requestAnimationFrame(() => {
+          topicsUl.style.height = targetHeight;
+        });
+      }
+    });
+
+    // Optional: Clear inline height after transition
+    topicsUl.addEventListener("transitionend", () => {
+      if (topicsUl.classList.contains("expanded")) {
+        topicsUl.style.height = "auto";
+      }
     });
 
     const tick = heading.querySelector(".chapter-tick");
