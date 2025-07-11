@@ -219,6 +219,7 @@ ul {
 .topic-list-item input[type="checkbox"] {
   margin: 0 2rem;
   transform: scale(1.5);
+  cursor: pointer;
 }
 
 .topic-list-item input[name="completed"] {

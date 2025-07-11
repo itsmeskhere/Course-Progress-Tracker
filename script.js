@@ -1,4 +1,5 @@
 function formatDuration(seconds) {
+  if (!seconds || seconds === 0) return "-";
   if (seconds < 60) return `${seconds}s`;
   if (seconds < 3600) return `${Math.floor(seconds / 60)}m ${seconds % 60}s`;
   return `${Math.floor(seconds / 3600)}h ${Math.floor(
@@ -17,7 +18,7 @@ function parseDuration(text) {
   return total;
 }
 
-function updateProgressBar(completed, total) {
+function updateProgressBar(completed, total, hasTime = true) {
   const percent =
     total === 0
       ? "0"
@@ -26,46 +27,53 @@ function updateProgressBar(completed, total) {
   const bar = document.querySelector(".overall-course-progress .progress-bar");
   const text = document.getElementById("overall-progress-text");
 
+  const label = hasTime
+    ? `${formatDuration(completed)} of ${formatDuration(total)} (${percent}%)`
+    : `${completed} of ${total} topics (${percent}%)`;
+
   bar.style.width = `${percent}%`;
-  text.textContent = `${formatDuration(completed)} of ${formatDuration(
-    total
-  )} (${percent}%)`;
+  text.textContent = label;
 }
 
 function updateProgressBarFromDOM() {
   let completed = 0;
   let total = 0;
+  let hasTime = false;
 
   document.querySelectorAll(".topic-list-item").forEach((item) => {
-    const durationText = item.querySelector(".topic-duration").textContent;
     const completedCheckbox = item.querySelector('input[name="completed"]');
-
+    const durationText = item.querySelector(".topic-duration").textContent;
     const timeInSec = parseDuration(durationText);
-    total += timeInSec;
+
+    if (timeInSec > 0) hasTime = true;
+
+    total += hasTime ? timeInSec : 1;
     if (completedCheckbox.checked) {
-      completed += timeInSec;
+      completed += hasTime ? timeInSec : 1;
     }
   });
 
-  updateProgressBar(completed, total);
+  updateProgressBar(completed, total, hasTime);
 }
 
 function updateTodayTargetProgress() {
   let completed = 0;
   let total = 0;
+  let hasTime = false;
 
   document.querySelectorAll(".topic-list-item").forEach((item) => {
     const completedCheckbox = item.querySelector('input[name="completed"]');
     const todoCheckbox = item.querySelector('input[name="to-do"]');
     const durationText = item.querySelector(".topic-duration").textContent;
+    const timeInSec = parseDuration(durationText);
 
-    if (todoCheckbox.checked) {
-      const timeInSec = parseDuration(durationText);
-      total += timeInSec;
+    if (!todoCheckbox.checked) return;
 
-      if (completedCheckbox.checked) {
-        completed += timeInSec;
-      }
+    if (timeInSec > 0) hasTime = true;
+
+    total += hasTime ? timeInSec : 1;
+    if (completedCheckbox.checked) {
+      completed += hasTime ? timeInSec : 1;
     }
   });
 
@@ -79,10 +87,12 @@ function updateTodayTargetProgress() {
       ? "0"
       : parseFloat(((completed / total) * 100).toFixed(2)).toString();
 
+  const label = hasTime
+    ? `${formatDuration(completed)} of ${formatDuration(total)} (${percent}%)`
+    : `${completed} of ${total} topics (${percent}%)`;
+
   bar.style.width = `${percent}%`;
-  text.textContent = `${formatDuration(completed)} of ${formatDuration(
-    total
-  )} (${percent}%)`;
+  text.textContent = label;
 }
 
 function saveCourseProgress(courseId) {
@@ -201,9 +211,14 @@ const groupLecturesByChapters = (data) => {
       currentChapter = { ...item, time_duration: 0, topics: [] };
       chapters.push(currentChapter);
     } else {
-      item = { ...item, time_duration: item.asset.time_estimation };
-      currentChapter.time_duration += item.time_duration;
-      courseDuration += item.time_duration;
+      // Gracefully handle missing time
+      const duration = item.asset?.time_estimation || 0;
+
+      item = { ...item, time_duration: duration };
+
+      currentChapter.time_duration += duration;
+      courseDuration += duration;
+
       const { asset, ...updatedItem } = item;
       currentChapter.topics.push(updatedItem);
     }
