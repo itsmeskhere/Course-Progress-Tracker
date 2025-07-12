@@ -158,12 +158,12 @@ ul {
 }
 
 .overall-course-progress .progress-bar {
-  width: 70%;
+  /* width: 70%; */
   background-color: #ffcb77;
 }
 
 .today-target-course-progress .progress-bar {
-  width: 30%;
+  /* width: 30%; */
   background-color: #90dbf4;
 }
 
