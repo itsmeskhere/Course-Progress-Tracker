@@ -15,4 +15,8 @@ const courses = {
     name: "C++ Nanodegree: C++ Foundations",
     dataUrl: "courses_data/cpp-nanodegree-cpp-foundations.json",
   },
+  "cpp-nanodegree-object-oriented-programming": {
+    name: "C++ Nanodegree: Object-Oriented Programming",
+    dataUrl: "courses_data/cpp-nanodegree-object-oriented-programming.json",
+  },
 };
