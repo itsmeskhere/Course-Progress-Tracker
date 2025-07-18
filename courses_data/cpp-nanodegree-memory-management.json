@@ -1,0 +1,281 @@
+{
+  "results": [
+    {
+      "_class": "chapter",
+      "title": "Introduction",
+      "id": 1,
+      "object_index": 1
+    },
+    { "_class": "lecture", "title": "Welcome", "id": 2, "object_index": 1 },
+    {
+      "_class": "lecture",
+      "title": "Course Overview",
+      "id": 3,
+      "object_index": 2
+    },
+    {
+      "_class": "lecture",
+      "title": "Bjarne on Memory Management",
+      "id": 4,
+      "object_index": 3
+    },
+
+    {
+      "_class": "chapter",
+      "title": "Overview of Memory Types",
+      "id": 5,
+      "object_index": 2
+    },
+    {
+      "_class": "lecture",
+      "title": "Memory Addresses & Hexadecimal Numbers",
+      "id": 6,
+      "object_index": 1
+    },
+    {
+      "_class": "lecture",
+      "title": "Using the Debugger to Analyze Memory",
+      "id": 7,
+      "object_index": 2
+    },
+    {
+      "_class": "lecture",
+      "title": "Types of Computer Memory",
+      "id": 8,
+      "object_index": 3
+    },
+    {
+      "_class": "lecture",
+      "title": "Cache Memory",
+      "id": 9,
+      "object_index": 4
+    },
+    {
+      "_class": "lecture",
+      "title": "Virtual Memory",
+      "id": 10,
+      "object_index": 5
+    },
+
+    {
+      "_class": "chapter",
+      "title": "Variables & Memory",
+      "id": 11,
+      "object_index": 3
+    },
+    {
+      "_class": "lecture",
+      "title": "The Process Memory Model",
+      "id": 12,
+      "object_index": 1
+    },
+    {
+      "_class": "lecture",
+      "title": "Memory Allocation in C++",
+      "id": 13,
+      "object_index": 2
+    },
+    {
+      "_class": "lecture",
+      "title": "Automatic Memory Allocation (The Stack)",
+      "id": 14,
+      "object_index": 3
+    },
+    {
+      "_class": "lecture",
+      "title": "Call-by-Value vs. Call-by-Reference",
+      "id": 15,
+      "object_index": 4
+    },
+
+    {
+      "_class": "chapter",
+      "title": "Dynamic Memory Allocation (The Heap)",
+      "id": 16,
+      "object_index": 4
+    },
+    {
+      "_class": "lecture",
+      "title": "Heap Memory",
+      "id": 17,
+      "object_index": 1
+    },
+    {
+      "_class": "lecture",
+      "title": "Bjarne on Stack & Heap",
+      "id": 18,
+      "object_index": 2
+    },
+    {
+      "_class": "lecture",
+      "title": "Using malloc & free",
+      "id": 19,
+      "object_index": 3
+    },
+    {
+      "_class": "lecture",
+      "title": "Using new & delete",
+      "id": 20,
+      "object_index": 4
+    },
+    {
+      "_class": "lecture",
+      "title": "Bjarne on new & delete",
+      "id": 21,
+      "object_index": 5
+    },
+    {
+      "_class": "lecture",
+      "title": "Typical Memory Management Problems",
+      "id": 22,
+      "object_index": 6
+    },
+    {
+      "_class": "lecture",
+      "title": "Bjarne on Memory Leaks",
+      "id": 23,
+      "object_index": 7
+    },
+
+    {
+      "_class": "chapter",
+      "title": "Resource Copying Policies",
+      "id": 24,
+      "object_index": 5
+    },
+    {
+      "_class": "lecture",
+      "title": "Copy Semantics",
+      "id": 25,
+      "object_index": 1
+    },
+    {
+      "_class": "lecture",
+      "title": "Lvalues & Rvalues",
+      "id": 26,
+      "object_index": 2
+    },
+    {
+      "_class": "lecture",
+      "title": "Move Semantics",
+      "id": 27,
+      "object_index": 3
+    },
+    {
+      "_class": "lecture",
+      "title": "Using Move Semantics",
+      "id": 28,
+      "object_index": 4
+    },
+
+    {
+      "_class": "chapter",
+      "title": "Smart Pointers",
+      "id": 29,
+      "object_index": 6
+    },
+    {
+      "_class": "lecture",
+      "title": "Resource Acquisition is Initialization",
+      "id": 30,
+      "object_index": 1
+    },
+    {
+      "_class": "lecture",
+      "title": "Bjarne on RAII",
+      "id": 31,
+      "object_index": 2
+    },
+    {
+      "_class": "lecture",
+      "title": "Smart Pointers",
+      "id": 32,
+      "object_index": 3
+    },
+    {
+      "_class": "lecture",
+      "title": "Bjarne on Smart Pointers",
+      "id": 33,
+      "object_index": 4
+    },
+    {
+      "_class": "lecture",
+      "title": "Transferring Ownership",
+      "id": 34,
+      "object_index": 5
+    },
+    {
+      "_class": "lecture",
+      "title": "Practice Smart Pointers",
+      "id": 35,
+      "object_index": 6
+    },
+    {
+      "_class": "lecture",
+      "title": "Bjarne on Importance of Scope",
+      "id": 36,
+      "object_index": 7
+    },
+
+    {
+      "_class": "chapter",
+      "title": "Memory Management Chatbot",
+      "id": 37,
+      "object_index": 7
+    },
+    {
+      "_class": "lecture",
+      "title": "Introduction",
+      "id": 38,
+      "object_index": 1
+    },
+    {
+      "_class": "lecture",
+      "title": "Program Schematic",
+      "id": 39,
+      "object_index": 2
+    },
+    {
+      "_class": "lecture",
+      "title": "Membot Knowledge Base",
+      "id": 40,
+      "object_index": 3
+    },
+    {
+      "_class": "lecture",
+      "title": "Project Tasks Overview",
+      "id": 41,
+      "object_index": 4
+    },
+    {
+      "_class": "lecture",
+      "title": "Code Walkthrough",
+      "id": 42,
+      "object_index": 5
+    },
+    {
+      "_class": "lecture",
+      "title": "Task Details",
+      "id": 43,
+      "object_index": 6
+    },
+    {
+      "_class": "lecture",
+      "title": "Project Workspace",
+      "id": 44,
+      "object_index": 7
+    },
+    {
+      "_class": "lecture",
+      "title": "Project Rubric",
+      "id": 45,
+      "object_index": 8
+    },
+    {
+      "_class": "lecture",
+      "title": "Submit Project",
+      "id": 46,
+      "object_index": 9
+    }
+  ]
+}

@@ -19,4 +19,8 @@ const courses = {
     name: "C++ Nanodegree: Object-Oriented Programming",
     dataUrl: "courses_data/cpp-nanodegree-object-oriented-programming.json",
   },
+  "cpp-nanodegree-memory-management": {
+    name: "C++ Nanodegree: Memory Management",
+    dataUrl: "courses_data/cpp-nanodegree-memory-management.json",
+  },
 };
