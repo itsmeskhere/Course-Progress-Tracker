@@ -23,4 +23,8 @@ const courses = {
     name: "C++ Nanodegree: Memory Management",
     dataUrl: "courses_data/cpp-nanodegree-memory-management.json",
   },
+  "cpp-nanodegree-concurrency": {
+    name: "C++ Nanodegree: Concurrency",
+    dataUrl: "courses_data/cpp-nanodegree-concurrency.json",
+  },
 };
