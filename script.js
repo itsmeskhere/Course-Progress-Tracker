@@ -23,7 +23,6 @@ function updateProgressBar(completed, total, hasTime = true) {
     total === 0
       ? "0"
       : parseFloat(((completed / total) * 100).toFixed(2)).toString();
-
   const bar = document.querySelector(".overall-course-progress .progress-bar");
   const text = document.getElementById("overall-progress-text");
 
@@ -36,20 +35,26 @@ function updateProgressBar(completed, total, hasTime = true) {
 }
 
 function updateProgressBarFromDOM() {
+  const items = Array.from(document.querySelectorAll(".topic-list-item"));
   let completed = 0;
   let total = 0;
-  let hasTime = false;
 
-  document.querySelectorAll(".topic-list-item").forEach((item) => {
+  const hasTime = items.some((item) => {
+    const durationText = item.querySelector(".topic-duration").textContent;
+    return parseDuration(durationText) > 0;
+  });
+
+  items.forEach((item) => {
     const completedCheckbox = item.querySelector('input[name="completed"]');
     const durationText = item.querySelector(".topic-duration").textContent;
     const timeInSec = parseDuration(durationText);
 
-    if (timeInSec > 0) hasTime = true;
-
-    total += hasTime ? timeInSec : 1;
-    if (completedCheckbox.checked) {
-      completed += hasTime ? timeInSec : 1;
+    if (hasTime) {
+      total += timeInSec;
+      if (completedCheckbox.checked) completed += timeInSec;
+    } else {
+      total += 1;
+      if (completedCheckbox.checked) completed += 1;
     }
   });
 
@@ -57,23 +62,31 @@ function updateProgressBarFromDOM() {
 }
 
 function updateTodayTargetProgress() {
+  const items = Array.from(document.querySelectorAll(".topic-list-item"));
+  const targetItems = items.filter((item) => {
+    const todoCheckbox = item.querySelector('input[name="to-do"]');
+    return todoCheckbox && todoCheckbox.checked;
+  });
+
   let completed = 0;
   let total = 0;
-  let hasTime = false;
 
-  document.querySelectorAll(".topic-list-item").forEach((item) => {
+  const hasTime = targetItems.some((item) => {
+    const durationText = item.querySelector(".topic-duration").textContent;
+    return parseDuration(durationText) > 0;
+  });
+
+  targetItems.forEach((item) => {
     const completedCheckbox = item.querySelector('input[name="completed"]');
-    const todoCheckbox = item.querySelector('input[name="to-do"]');
     const durationText = item.querySelector(".topic-duration").textContent;
     const timeInSec = parseDuration(durationText);
 
-    if (!todoCheckbox.checked) return;
-
-    if (timeInSec > 0) hasTime = true;
-
-    total += hasTime ? timeInSec : 1;
-    if (completedCheckbox.checked) {
-      completed += hasTime ? timeInSec : 1;
+    if (hasTime) {
+      total += timeInSec;
+      if (completedCheckbox.checked) completed += timeInSec;
+    } else {
+      total += 1;
+      if (completedCheckbox.checked) completed += 1;
     }
   });
 
@@ -171,10 +184,9 @@ function renderCourse(data, savedProgress, courseId) {
 
     heading.addEventListener("click", () => {
       const isExpanded = topicsUl.classList.contains("expanded");
-
       if (isExpanded) {
         const currentHeight = topicsUl.scrollHeight;
-        topicsUl.style.height = `${currentHeight}px`; // Fix height to allow animation
+        topicsUl.style.height = `${currentHeight}px`;
         requestAnimationFrame(() => {
           topicsUl.style.height = "0px";
         });
@@ -190,7 +202,6 @@ function renderCourse(data, savedProgress, courseId) {
       }
     });
 
-    // Optional: Clear inline height after transition
     topicsUl.addEventListener("transitionend", () => {
       if (topicsUl.classList.contains("expanded")) {
         topicsUl.style.height = "auto";
@@ -235,11 +246,8 @@ const groupLecturesByChapters = (data) => {
       currentChapter = { ...item, time_duration: 0, topics: [] };
       chapters.push(currentChapter);
     } else {
-      // Gracefully handle missing time
       const duration = item.asset?.time_estimation || 0;
-
       item = { ...item, time_duration: duration };
-
       currentChapter.time_duration += duration;
       courseDuration += duration;
 
@@ -276,6 +284,9 @@ document.addEventListener("DOMContentLoaded", async () => {
       : { completed: [], todo: [] };
 
     renderCourse(courseData, savedProgress, courseId);
+
+    updateProgressBarFromDOM();
+    updateTodayTargetProgress();
   } catch (err) {
     alert("Failed to load course content.");
     console.error(err);
@@ -283,17 +294,14 @@ document.addEventListener("DOMContentLoaded", async () => {
 });
 
 document.getElementById("reset-today-target").addEventListener("click", () => {
-  // Uncheck all "to-do" checkboxes
   document.querySelectorAll('input[name="to-do"]').forEach((checkbox) => {
     checkbox.checked = false;
   });
 
-  // Save updated state with correct course ID
   const urlParams = new URLSearchParams(window.location.search);
   const courseId = urlParams.get("course");
   saveCourseProgress(courseId);
 
-  // Recalculate progress after DOM update
   setTimeout(() => {
     updateTodayTargetProgress();
   }, 0);
