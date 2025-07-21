@@ -27,4 +27,8 @@ const courses = {
     name: "C++ Nanodegree: Concurrency",
     dataUrl: "courses_data/cpp-nanodegree-concurrency.json",
   },
+  "cpp-nanodegree-capstone": {
+    name: "C++ Nanodegree: Capstone",
+    dataUrl: "courses_data/cpp-nanodegree-capstone.json",
+  },
 };
