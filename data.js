@@ -3,6 +3,10 @@ const courses = {
     name: "Jonas HTML CSS",
     dataUrl: "courses_data/jonas-html-css.json",
   },
+  "jonas-react-js": {
+    name: "Jonas React JS",
+    dataUrl: "courses_data/jonas-react-js.json",
+  },
   "brad-html-css": {
     name: "Brad HTML CSS",
     dataUrl: "courses_data/brad-html-css.json",

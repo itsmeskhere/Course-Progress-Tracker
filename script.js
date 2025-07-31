@@ -1,5 +1,5 @@
 function formatDuration(seconds) {
-  if (!seconds || seconds === 0) return "-";
+  if (seconds === 0) return "0h 0m 0s";
   if (seconds < 60) return `${seconds}s`;
   if (seconds < 3600) return `${Math.floor(seconds / 60)}m ${seconds % 60}s`;
   return `${Math.floor(seconds / 3600)}h ${Math.floor(
@@ -71,7 +71,8 @@ function updateTodayTargetProgress() {
   let completed = 0;
   let total = 0;
 
-  const hasTime = targetItems.some((item) => {
+  // ✅ Determine hasTime from all items, not just selected ones
+  const hasTime = items.some((item) => {
     const durationText = item.querySelector(".topic-duration").textContent;
     return parseDuration(durationText) > 0;
   });
@@ -134,6 +135,10 @@ function renderCourse(data, savedProgress, courseId) {
   const list = document.getElementById("course-list");
   list.innerHTML = "";
 
+  const isTimedCourse = data.some(
+    (ch) => ch.time_duration && ch.time_duration > 0
+  );
+
   data.forEach((chapter) => {
     const li = document.createElement("li");
     li.className = "course-chapter";
@@ -145,7 +150,11 @@ function renderCourse(data, savedProgress, courseId) {
         ${chapter.object_index}. ${chapter.title}
         <span class="chapter-tick">✔️</span>
       </span>
-      <span>${formatDuration(chapter.time_duration)}</span>
+      ${
+        isTimedCourse
+          ? `<span>${formatDuration(chapter.time_duration)}</span>`
+          : ""
+      }
     `;
 
     const topicsUl = document.createElement("ul");
@@ -165,10 +174,6 @@ function renderCourse(data, savedProgress, courseId) {
       nameSpan.className = "topic-name";
       nameSpan.textContent = `${topic.object_index}. ${topic.title}`;
 
-      const durationSpan = document.createElement("span");
-      durationSpan.className = "topic-duration";
-      durationSpan.textContent = formatDuration(topic.time_duration);
-
       const todo = document.createElement("input");
       todo.type = "checkbox";
       todo.name = "to-do";
@@ -176,7 +181,17 @@ function renderCourse(data, savedProgress, courseId) {
 
       topicLi.appendChild(completed);
       topicLi.appendChild(nameSpan);
-      topicLi.appendChild(durationSpan);
+      if (isTimedCourse) {
+        const durationSpan = document.createElement("span");
+        durationSpan.className = "topic-duration";
+        durationSpan.textContent = formatDuration(topic.time_duration);
+        topicLi.appendChild(durationSpan);
+      } else {
+        const durationSpan = document.createElement("span");
+        durationSpan.className = "topic-duration";
+        durationSpan.textContent = ""; // Required for querySelector in progress functions
+        topicLi.appendChild(durationSpan);
+      }
       topicLi.appendChild(todo);
 
       topicsUl.appendChild(topicLi);
