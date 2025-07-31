@@ -3,12 +3,20 @@ const courses = {
     name: "Jonas HTML CSS",
     dataUrl: "courses_data/jonas-html-css.json",
   },
+  "jonas-advanced-css-sass": {
+    name: "Jonas Advanced CSS & SASS",
+    dataUrl: "courses_data/jonas-advanced-css-sass.json",
+  },
+  "jonas-js": {
+    name: "Jonas JavaScript",
+    dataUrl: "courses_data/jonas-js.json",
+  },
   "jonas-react-js": {
     name: "Jonas React JS",
     dataUrl: "courses_data/jonas-react-js.json",
   },
   "brad-html-css": {
-    name: "Brad HTML CSS",
+    name: "Brad Traversy HTML CSS",
     dataUrl: "courses_data/brad-html-css.json",
   },
   "cpp-nanodegree-welcome": {

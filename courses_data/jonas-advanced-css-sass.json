@@ -1,0 +1,1453 @@
+{
+  "count": 136,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "_class": "chapter",
+      "id": 1718282,
+      "title": "Welcome, Welcome, Welcome!",
+      "object_index": 1
+    },
+    {
+      "_class": "lecture",
+      "id": 8312878,
+      "title": "Welcome to the Most Advanced CSS Course Ever!",
+      "asset": {
+        "_class": "asset",
+        "id": 10648452,
+        "time_estimation": 234
+      },
+      "object_index": 1
+    },
+    {
+      "_class": "lecture",
+      "id": 8335936,
+      "title": "READ BEFORE YOU START!",
+      "asset": {
+        "_class": "asset",
+        "id": 60494913,
+        "time_estimation": 34
+      },
+      "object_index": 2
+    },
+    {
+      "_class": "lecture",
+      "id": 8274380,
+      "title": "Setting up Our Tools",
+      "asset": {
+        "_class": "asset",
+        "id": 10002854,
+        "time_estimation": 172
+      },
+      "object_index": 3
+    },
+    {
+      "_class": "chapter",
+      "id": 2002818,
+      "title": "Natours Project — Setup and First Steps (Part 1)",
+      "object_index": 2
+    },
+    {
+      "_class": "lecture",
+      "id": 8312906,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 9987030,
+        "time_estimation": 44
+      },
+      "object_index": 4
+    },
+    {
+      "_class": "lecture",
+      "id": 6968492,
+      "title": "Project Overview",
+      "asset": {
+        "_class": "asset",
+        "id": 9940206,
+        "time_estimation": 342
+      },
+      "object_index": 5
+    },
+    {
+      "_class": "lecture",
+      "id": 8274400,
+      "title": "Building the Header - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 9940202,
+        "time_estimation": 1463
+      },
+      "object_index": 6
+    },
+    {
+      "_class": "lecture",
+      "id": 8274402,
+      "title": "Building the Header - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 9940204,
+        "time_estimation": 1026
+      },
+      "object_index": 7
+    },
+    {
+      "_class": "lecture",
+      "id": 8274406,
+      "title": "Creating Cool CSS Animations",
+      "asset": {
+        "_class": "asset",
+        "id": 9940198,
+        "time_estimation": 1159
+      },
+      "object_index": 8
+    },
+    {
+      "_class": "lecture",
+      "id": 8274412,
+      "title": "Building a Complex Animated Button - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 9940196,
+        "time_estimation": 956
+      },
+      "object_index": 9
+    },
+    {
+      "_class": "lecture",
+      "id": 8274414,
+      "title": "Building a Complex Animated Button - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 9940170,
+        "time_estimation": 771
+      },
+      "object_index": 10
+    },
+    {
+      "_class": "chapter",
+      "id": 2002820,
+      "title": "How CSS Works: A Look Behind the Scenes",
+      "object_index": 3
+    },
+    {
+      "_class": "lecture",
+      "id": 8312904,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 9987032,
+        "time_estimation": 98
+      },
+      "object_index": 11
+    },
+    {
+      "_class": "lecture",
+      "id": 8274420,
+      "title": "Three Pillars of Writing Good HTML and CSS (Never Forget Them!)",
+      "asset": {
+        "_class": "asset",
+        "id": 9940194,
+        "time_estimation": 261
+      },
+      "object_index": 12
+    },
+    {
+      "_class": "lecture",
+      "id": 8274422,
+      "title": "How CSS Works Behind the Scenes: An Overview",
+      "asset": {
+        "_class": "asset",
+        "id": 9940184,
+        "time_estimation": 272
+      },
+      "object_index": 13
+    },
+    {
+      "_class": "lecture",
+      "id": 8274424,
+      "title": "How CSS is Parsed, Part 1: The Cascade and Specificity",
+      "asset": {
+        "_class": "asset",
+        "id": 9940172,
+        "time_estimation": 753
+      },
+      "object_index": 14
+    },
+    {
+      "_class": "lecture",
+      "id": 8274428,
+      "title": "Specificity in Practice",
+      "asset": {
+        "_class": "asset",
+        "id": 9940188,
+        "time_estimation": 355
+      },
+      "object_index": 15
+    },
+    {
+      "_class": "lecture",
+      "id": 8274430,
+      "title": "How CSS is Parsed, Part 2: Value Processing",
+      "asset": {
+        "_class": "asset",
+        "id": 9940176,
+        "time_estimation": 944
+      },
+      "object_index": 16
+    },
+    {
+      "_class": "lecture",
+      "id": 8274434,
+      "title": "How CSS is Parsed, Part 3: Inheritance",
+      "asset": {
+        "_class": "asset",
+        "id": 9940182,
+        "time_estimation": 245
+      },
+      "object_index": 17
+    },
+    {
+      "_class": "lecture",
+      "id": 8274436,
+      "title": "Converting px to rem: An Effective Workflow",
+      "asset": {
+        "_class": "asset",
+        "id": 9940192,
+        "time_estimation": 840
+      },
+      "object_index": 18
+    },
+    {
+      "_class": "lecture",
+      "id": 8274440,
+      "title": "How CSS Renders a Website: The Visual Formatting Model",
+      "asset": {
+        "_class": "asset",
+        "id": 9940186,
+        "time_estimation": 765
+      },
+      "object_index": 19
+    },
+    {
+      "_class": "lecture",
+      "id": 8274444,
+      "title": "CSS Architecture, Components and BEM",
+      "asset": {
+        "_class": "asset",
+        "id": 9940178,
+        "time_estimation": 557
+      },
+      "object_index": 20
+    },
+    {
+      "_class": "lecture",
+      "id": 8274446,
+      "title": "Implementing BEM in the Natours Project",
+      "asset": {
+        "_class": "asset",
+        "id": 9940190,
+        "time_estimation": 314
+      },
+      "object_index": 21
+    },
+    {
+      "_class": "chapter",
+      "id": 2002822,
+      "title": "Introduction to Sass and NPM",
+      "object_index": 4
+    },
+    {
+      "_class": "lecture",
+      "id": 8312900,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 9987028,
+        "time_estimation": 62
+      },
+      "object_index": 22
+    },
+    {
+      "_class": "lecture",
+      "id": 8274452,
+      "title": "What is Sass?",
+      "asset": {
+        "_class": "asset",
+        "id": 9940180,
+        "time_estimation": 298
+      },
+      "object_index": 23
+    },
+    {
+      "_class": "lecture",
+      "id": 8274454,
+      "title": "First Steps with Sass: Variables and Nesting",
+      "asset": {
+        "_class": "asset",
+        "id": 9940174,
+        "time_estimation": 1522
+      },
+      "object_index": 24
+    },
+    {
+      "_class": "lecture",
+      "id": 8274458,
+      "title": "First Steps with Sass: Mixins, Extends and Functions",
+      "asset": {
+        "_class": "asset",
+        "id": 9940166,
+        "time_estimation": 1025
+      },
+      "object_index": 25
+    },
+    {
+      "_class": "lecture",
+      "id": 8274460,
+      "title": "A Brief Introduction to the Command Line",
+      "asset": {
+        "_class": "asset",
+        "id": 9940142,
+        "time_estimation": 681
+      },
+      "object_index": 26
+    },
+    {
+      "_class": "lecture",
+      "id": 8274462,
+      "title": "NPM Packages: Let's Install Sass Locally",
+      "asset": {
+        "_class": "asset",
+        "id": 9940168,
+        "time_estimation": 828
+      },
+      "object_index": 27
+    },
+    {
+      "_class": "lecture",
+      "id": 8274464,
+      "title": "NPM Scripts: Let's Write and Compile Sass Locally",
+      "asset": {
+        "_class": "asset",
+        "id": 9940164,
+        "time_estimation": 790
+      },
+      "object_index": 28
+    },
+    {
+      "_class": "lecture",
+      "id": 8274466,
+      "title": "The Easiest Way of Automatically Reloading a Page on File Changes",
+      "asset": {
+        "_class": "asset",
+        "id": 9940148,
+        "time_estimation": 382
+      },
+      "object_index": 29
+    },
+    {
+      "_class": "chapter",
+      "id": 2002828,
+      "title": "Natours Project — Using Advanced CSS and Sass (Part 2)",
+      "object_index": 5
+    },
+    {
+      "_class": "lecture",
+      "id": 8312898,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 9987026,
+        "time_estimation": 55
+      },
+      "object_index": 30
+    },
+    {
+      "_class": "lecture",
+      "id": 8274472,
+      "title": "Converting Our CSS Code to Sass: Variables and Nesting",
+      "asset": {
+        "_class": "asset",
+        "id": 9940156,
+        "time_estimation": 677
+      },
+      "object_index": 31
+    },
+    {
+      "_class": "lecture",
+      "id": 8274478,
+      "title": "Implementing the 7-1 CSS Architecture with Sass",
+      "asset": {
+        "_class": "asset",
+        "id": 9940160,
+        "time_estimation": 1053
+      },
+      "object_index": 32
+    },
+    {
+      "_class": "lecture",
+      "id": 8274482,
+      "title": "Review: Responsive Design Principles and Layout Types",
+      "asset": {
+        "_class": "asset",
+        "id": 37478054,
+        "time_estimation": 468
+      },
+      "object_index": 33
+    },
+    {
+      "_class": "lecture",
+      "id": 8274486,
+      "title": "Building a Custom Grid with Floats",
+      "asset": {
+        "_class": "asset",
+        "id": 9940152,
+        "time_estimation": 2223
+      },
+      "object_index": 34
+    },
+    {
+      "_class": "lecture",
+      "id": 8274490,
+      "title": "Building the About Section - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 9940150,
+        "time_estimation": 1405
+      },
+      "object_index": 35
+    },
+    {
+      "_class": "lecture",
+      "id": 8274494,
+      "title": "Building the About Section - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 9940146,
+        "time_estimation": 1311
+      },
+      "object_index": 36
+    },
+    {
+      "_class": "lecture",
+      "id": 8274496,
+      "title": "Building the About Section - Part 3",
+      "asset": {
+        "_class": "asset",
+        "id": 9940144,
+        "time_estimation": 1050
+      },
+      "object_index": 37
+    },
+    {
+      "_class": "lecture",
+      "id": 8274498,
+      "title": "Building the Features Section",
+      "asset": {
+        "_class": "asset",
+        "id": 9940140,
+        "time_estimation": 1819
+      },
+      "object_index": 38
+    },
+    {
+      "_class": "lecture",
+      "id": 8274500,
+      "title": "Building the Tours Section - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 9940138,
+        "time_estimation": 1528
+      },
+      "object_index": 39
+    },
+    {
+      "_class": "lecture",
+      "id": 8274502,
+      "title": "Building the Tours Section - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 9940158,
+        "time_estimation": 1860
+      },
+      "object_index": 40
+    },
+    {
+      "_class": "lecture",
+      "id": 8274504,
+      "title": "Building the Tours Section - Part 3",
+      "asset": {
+        "_class": "asset",
+        "id": 9940136,
+        "time_estimation": 996
+      },
+      "object_index": 41
+    },
+    {
+      "_class": "lecture",
+      "id": 8274508,
+      "title": "Building the Stories Section - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 9940154,
+        "time_estimation": 1180
+      },
+      "object_index": 42
+    },
+    {
+      "_class": "lecture",
+      "id": 8274510,
+      "title": "Building the Stories Section - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 9940134,
+        "time_estimation": 854
+      },
+      "object_index": 43
+    },
+    {
+      "_class": "lecture",
+      "id": 8274514,
+      "title": "Building the Stories Section - Part 3",
+      "asset": {
+        "_class": "asset",
+        "id": 9940120,
+        "time_estimation": 829
+      },
+      "object_index": 44
+    },
+    {
+      "_class": "lecture",
+      "id": 8274516,
+      "title": "Building the Booking Section - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 9940124,
+        "time_estimation": 1098
+      },
+      "object_index": 45
+    },
+    {
+      "_class": "lecture",
+      "id": 8274518,
+      "title": "Building the Booking Section - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 9940122,
+        "time_estimation": 1117
+      },
+      "object_index": 46
+    },
+    {
+      "_class": "lecture",
+      "id": 8274520,
+      "title": "Building the Booking Section - Part 3",
+      "asset": {
+        "_class": "asset",
+        "id": 9940130,
+        "time_estimation": 1390
+      },
+      "object_index": 47
+    },
+    {
+      "_class": "lecture",
+      "id": 8274522,
+      "title": "Building the Footer",
+      "asset": {
+        "_class": "asset",
+        "id": 9940128,
+        "time_estimation": 957
+      },
+      "object_index": 48
+    },
+    {
+      "_class": "lecture",
+      "id": 8274524,
+      "title": "Building the Navigation - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 9940126,
+        "time_estimation": 1777
+      },
+      "object_index": 49
+    },
+    {
+      "_class": "lecture",
+      "id": 8274526,
+      "title": "Building the Navigation - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 9940132,
+        "time_estimation": 793
+      },
+      "object_index": 50
+    },
+    {
+      "_class": "lecture",
+      "id": 8274528,
+      "title": "Building the Navigation - Part 3",
+      "asset": {
+        "_class": "asset",
+        "id": 9940116,
+        "time_estimation": 936
+      },
+      "object_index": 51
+    },
+    {
+      "_class": "lecture",
+      "id": 8274530,
+      "title": "Building a Pure CSS Popup - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 9940118,
+        "time_estimation": 1513
+      },
+      "object_index": 52
+    },
+    {
+      "_class": "lecture",
+      "id": 8274532,
+      "title": "Building a Pure CSS Popup - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 9940114,
+        "time_estimation": 1015
+      },
+      "object_index": 53
+    },
+    {
+      "_class": "chapter",
+      "id": 2002834,
+      "title": "Natours Project — Advanced Responsive Design (Part 3)",
+      "object_index": 6
+    },
+    {
+      "_class": "lecture",
+      "id": 8312896,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 9987024,
+        "time_estimation": 60
+      },
+      "object_index": 54
+    },
+    {
+      "_class": "lecture",
+      "id": 8274546,
+      "title": "Mobile-First vs Desktop-First and Breakpoints",
+      "asset": {
+        "_class": "asset",
+        "id": 9940112,
+        "time_estimation": 1055
+      },
+      "object_index": 55
+    },
+    {
+      "_class": "lecture",
+      "id": 8274548,
+      "title": "Let's Use the Power of Sass Mixins to Write Media Queries",
+      "asset": {
+        "_class": "asset",
+        "id": 9940108,
+        "time_estimation": 1688
+      },
+      "object_index": 56
+    },
+    {
+      "_class": "lecture",
+      "id": 8274550,
+      "title": "Writing Media Queries - Base, Typography and Layout",
+      "asset": {
+        "_class": "asset",
+        "id": 9940102,
+        "time_estimation": 1599
+      },
+      "object_index": 57
+    },
+    {
+      "_class": "lecture",
+      "id": 8274552,
+      "title": "Writing Media Queries - Layout, About and Features Sections",
+      "asset": {
+        "_class": "asset",
+        "id": 9940110,
+        "time_estimation": 753
+      },
+      "object_index": 58
+    },
+    {
+      "_class": "lecture",
+      "id": 8274554,
+      "title": "Writing Media Queries - Tours, Stories and Booking Sections",
+      "asset": {
+        "_class": "asset",
+        "id": 9940100,
+        "time_estimation": 1226
+      },
+      "object_index": 59
+    },
+    {
+      "_class": "lecture",
+      "id": 8274556,
+      "title": "An Overview of Responsive Images",
+      "asset": {
+        "_class": "asset",
+        "id": 9940098,
+        "time_estimation": 341
+      },
+      "object_index": 60
+    },
+    {
+      "_class": "lecture",
+      "id": 8274560,
+      "title": "Responsive Images in HTML - Art Direction and Density Switching",
+      "asset": {
+        "_class": "asset",
+        "id": 9940096,
+        "time_estimation": 614
+      },
+      "object_index": 61
+    },
+    {
+      "_class": "lecture",
+      "id": 8274562,
+      "title": "Responsive Images in HTML - Density and Resolution Switching",
+      "asset": {
+        "_class": "asset",
+        "id": 9940104,
+        "time_estimation": 1041
+      },
+      "object_index": 62
+    },
+    {
+      "_class": "lecture",
+      "id": 8274564,
+      "title": "Responsive Images in CSS",
+      "asset": {
+        "_class": "asset",
+        "id": 9940094,
+        "time_estimation": 702
+      },
+      "object_index": 63
+    },
+    {
+      "_class": "lecture",
+      "id": 8274566,
+      "title": "Testing for Browser Support with @supports",
+      "asset": {
+        "_class": "asset",
+        "id": 9940106,
+        "time_estimation": 1302
+      },
+      "object_index": 64
+    },
+    {
+      "_class": "lecture",
+      "id": 8274568,
+      "title": "Setting up a Simple Build Process with NPM Scripts",
+      "asset": {
+        "_class": "asset",
+        "id": 9940092,
+        "time_estimation": 1255
+      },
+      "object_index": 65
+    },
+    {
+      "_class": "lecture",
+      "id": 8274570,
+      "title": "Wrapping up the Natours Project: Final Considerations",
+      "asset": {
+        "_class": "asset",
+        "id": 9940088,
+        "time_estimation": 838
+      },
+      "object_index": 66
+    },
+    {
+      "_class": "chapter",
+      "id": 2002838,
+      "title": "Trillo Project — Master Flexbox!",
+      "object_index": 7
+    },
+    {
+      "_class": "lecture",
+      "id": 8312894,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 9987022,
+        "time_estimation": 63
+      },
+      "object_index": 67
+    },
+    {
+      "_class": "lecture",
+      "id": 8274572,
+      "title": "Why Flexbox: An Overview of the Philosophy Behind Flexbox",
+      "asset": {
+        "_class": "asset",
+        "id": 9940090,
+        "time_estimation": 391
+      },
+      "object_index": 68
+    },
+    {
+      "_class": "lecture",
+      "id": 8274576,
+      "title": "A Basic Intro to Flexbox: The Flex Container",
+      "asset": {
+        "_class": "asset",
+        "id": 9940086,
+        "time_estimation": 908
+      },
+      "object_index": 69
+    },
+    {
+      "_class": "lecture",
+      "id": 8274580,
+      "title": "A Basic Intro to Flexbox: Flex Items",
+      "asset": {
+        "_class": "asset",
+        "id": 9940084,
+        "time_estimation": 634
+      },
+      "object_index": 70
+    },
+    {
+      "_class": "lecture",
+      "id": 8274582,
+      "title": "A Basic Intro to Flexbox: Adding More Flex Items",
+      "asset": {
+        "_class": "asset",
+        "id": 9940082,
+        "time_estimation": 374
+      },
+      "object_index": 71
+    },
+    {
+      "_class": "lecture",
+      "id": 8274584,
+      "title": "Project Overview",
+      "asset": {
+        "_class": "asset",
+        "id": 9940080,
+        "time_estimation": 434
+      },
+      "object_index": 72
+    },
+    {
+      "_class": "lecture",
+      "id": 8274588,
+      "title": "Defining Project Settings and Custom Properties",
+      "asset": {
+        "_class": "asset",
+        "id": 9940078,
+        "time_estimation": 820
+      },
+      "object_index": 73
+    },
+    {
+      "_class": "lecture",
+      "id": 8274590,
+      "title": "Building the Overall Layout",
+      "asset": {
+        "_class": "asset",
+        "id": 9940076,
+        "time_estimation": 720
+      },
+      "object_index": 74
+    },
+    {
+      "_class": "lecture",
+      "id": 8274592,
+      "title": "Building the Header - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 9940074,
+        "time_estimation": 1079
+      },
+      "object_index": 75
+    },
+    {
+      "_class": "lecture",
+      "id": 8274594,
+      "title": "Building the Header - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 9940052,
+        "time_estimation": 888
+      },
+      "object_index": 76
+    },
+    {
+      "_class": "lecture",
+      "id": 8274596,
+      "title": "Building the Header - Part 3",
+      "asset": {
+        "_class": "asset",
+        "id": 9940060,
+        "time_estimation": 746
+      },
+      "object_index": 77
+    },
+    {
+      "_class": "lecture",
+      "id": 8274598,
+      "title": "Building the Navigation - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 9940070,
+        "time_estimation": 696
+      },
+      "object_index": 78
+    },
+    {
+      "_class": "lecture",
+      "id": 8274600,
+      "title": "Building the Navigation - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 9940072,
+        "time_estimation": 1010
+      },
+      "object_index": 79
+    },
+    {
+      "_class": "lecture",
+      "id": 8274604,
+      "title": "Building the Hotel Overview - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 9940058,
+        "time_estimation": 918
+      },
+      "object_index": 80
+    },
+    {
+      "_class": "lecture",
+      "id": 8274606,
+      "title": "Building the Hotel Overview - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 9940068,
+        "time_estimation": 926
+      },
+      "object_index": 81
+    },
+    {
+      "_class": "lecture",
+      "id": 8274608,
+      "title": "Building the Description Section - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 9940066,
+        "time_estimation": 773
+      },
+      "object_index": 82
+    },
+    {
+      "_class": "lecture",
+      "id": 8274610,
+      "title": "Building the Description Section - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 9940064,
+        "time_estimation": 1178
+      },
+      "object_index": 83
+    },
+    {
+      "_class": "lecture",
+      "id": 8274612,
+      "title": "Building the User Reviews Section",
+      "asset": {
+        "_class": "asset",
+        "id": 9940056,
+        "time_estimation": 1372
+      },
+      "object_index": 84
+    },
+    {
+      "_class": "lecture",
+      "id": 8274614,
+      "title": "Building the CTA Section",
+      "asset": {
+        "_class": "asset",
+        "id": 9940054,
+        "time_estimation": 1014
+      },
+      "object_index": 85
+    },
+    {
+      "_class": "lecture",
+      "id": 8274616,
+      "title": "Writing Media Queries - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 9940048,
+        "time_estimation": 1167
+      },
+      "object_index": 86
+    },
+    {
+      "_class": "lecture",
+      "id": 8274618,
+      "title": "Writing Media Queries - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 9940062,
+        "time_estimation": 987
+      },
+      "object_index": 87
+    },
+    {
+      "_class": "lecture",
+      "id": 8274620,
+      "title": "Wrapping up the Trillo Project: Final Considerations",
+      "asset": {
+        "_class": "asset",
+        "id": 9940050,
+        "time_estimation": 885
+      },
+      "object_index": 88
+    },
+    {
+      "_class": "chapter",
+      "id": 2025452,
+      "title": "A Quick Introduction to CSS Grid Layouts",
+      "object_index": 8
+    },
+    {
+      "_class": "lecture",
+      "id": 8859800,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 10671904,
+        "time_estimation": 59
+      },
+      "object_index": 89
+    },
+    {
+      "_class": "lecture",
+      "id": 8859646,
+      "title": "Why CSS Grid: A Whole New Mindset",
+      "asset": {
+        "_class": "asset",
+        "id": 10648426,
+        "time_estimation": 315
+      },
+      "object_index": 90
+    },
+    {
+      "_class": "lecture",
+      "id": 8859648,
+      "title": "Quick Setup for This Section",
+      "asset": {
+        "_class": "asset",
+        "id": 10648424,
+        "time_estimation": 131
+      },
+      "object_index": 91
+    },
+    {
+      "_class": "lecture",
+      "id": 8859650,
+      "title": "Creating Our First Grid",
+      "asset": {
+        "_class": "asset",
+        "id": 10648430,
+        "time_estimation": 735
+      },
+      "object_index": 92
+    },
+    {
+      "_class": "lecture",
+      "id": 8859652,
+      "title": "Getting Familiar with the fr Unit",
+      "asset": {
+        "_class": "asset",
+        "id": 10648420,
+        "time_estimation": 600
+      },
+      "object_index": 93
+    },
+    {
+      "_class": "lecture",
+      "id": 8859654,
+      "title": "Positioning Grid Items",
+      "asset": {
+        "_class": "asset",
+        "id": 10648412,
+        "time_estimation": 446
+      },
+      "object_index": 94
+    },
+    {
+      "_class": "lecture",
+      "id": 8859656,
+      "title": "Spanning Grid Items",
+      "asset": {
+        "_class": "asset",
+        "id": 10648410,
+        "time_estimation": 588
+      },
+      "object_index": 95
+    },
+    {
+      "_class": "lecture",
+      "id": 8859658,
+      "title": "Grid Challenge",
+      "asset": {
+        "_class": "asset",
+        "id": 10648408,
+        "time_estimation": 168
+      },
+      "object_index": 96
+    },
+    {
+      "_class": "lecture",
+      "id": 8859660,
+      "title": "Grid Challenge: A Basic Solution",
+      "asset": {
+        "_class": "asset",
+        "id": 10648406,
+        "time_estimation": 668
+      },
+      "object_index": 97
+    },
+    {
+      "_class": "lecture",
+      "id": 8859662,
+      "title": "Naming Grid Lines",
+      "asset": {
+        "_class": "asset",
+        "id": 10648418,
+        "time_estimation": 580
+      },
+      "object_index": 98
+    },
+    {
+      "_class": "lecture",
+      "id": 8859666,
+      "title": "Naming Grid Areas",
+      "asset": {
+        "_class": "asset",
+        "id": 10648416,
+        "time_estimation": 663
+      },
+      "object_index": 99
+    },
+    {
+      "_class": "lecture",
+      "id": 8859668,
+      "title": "Implicit Grids vs. Explicit Grids",
+      "asset": {
+        "_class": "asset",
+        "id": 10648414,
+        "time_estimation": 639
+      },
+      "object_index": 100
+    },
+    {
+      "_class": "lecture",
+      "id": 8859672,
+      "title": "Aligning Grid Items",
+      "asset": {
+        "_class": "asset",
+        "id": 10648404,
+        "time_estimation": 597
+      },
+      "object_index": 101
+    },
+    {
+      "_class": "lecture",
+      "id": 8859674,
+      "title": "Aligning Tracks",
+      "asset": {
+        "_class": "asset",
+        "id": 10648402,
+        "time_estimation": 779
+      },
+      "object_index": 102
+    },
+    {
+      "_class": "lecture",
+      "id": 8859678,
+      "title": "Using min-content, max-content and the minmax() function",
+      "asset": {
+        "_class": "asset",
+        "id": 10648400,
+        "time_estimation": 979
+      },
+      "object_index": 103
+    },
+    {
+      "_class": "lecture",
+      "id": 8859682,
+      "title": "Responsive Layouts with auto-fit and auto-fill",
+      "asset": {
+        "_class": "asset",
+        "id": 10648398,
+        "time_estimation": 657
+      },
+      "object_index": 104
+    },
+    {
+      "_class": "chapter",
+      "id": 2012408,
+      "title": "Nexter Project — Master CSS Grid Layouts!",
+      "object_index": 9
+    },
+    {
+      "_class": "lecture",
+      "id": 8859702,
+      "title": "Project Overview and Setup",
+      "asset": {
+        "_class": "asset",
+        "id": 10660196,
+        "time_estimation": 691
+      },
+      "object_index": 105
+    },
+    {
+      "_class": "lecture",
+      "id": 8859706,
+      "title": "Building the Overall Layout - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 10660210,
+        "time_estimation": 933
+      },
+      "object_index": 106
+    },
+    {
+      "_class": "lecture",
+      "id": 8859708,
+      "title": "Building the Overall Layout - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 10660222,
+        "time_estimation": 1471
+      },
+      "object_index": 107
+    },
+    {
+      "_class": "lecture",
+      "id": 8859714,
+      "title": "Building the Features Section - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 10660208,
+        "time_estimation": 781
+      },
+      "object_index": 108
+    },
+    {
+      "_class": "lecture",
+      "id": 8859716,
+      "title": "Building the Features Section - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 10660220,
+        "time_estimation": 1227
+      },
+      "object_index": 109
+    },
+    {
+      "_class": "lecture",
+      "id": 8859718,
+      "title": "Building the Story Section - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 10660218,
+        "time_estimation": 1080
+      },
+      "object_index": 110
+    },
+    {
+      "_class": "lecture",
+      "id": 8859720,
+      "title": "Building the Story Section - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 10660212,
+        "time_estimation": 698
+      },
+      "object_index": 111
+    },
+    {
+      "_class": "lecture",
+      "id": 8859726,
+      "title": "Building the Homes Section - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 10660216,
+        "time_estimation": 945
+      },
+      "object_index": 112
+    },
+    {
+      "_class": "lecture",
+      "id": 8859728,
+      "title": "Building the Homes Section - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 10660214,
+        "time_estimation": 1131
+      },
+      "object_index": 113
+    },
+    {
+      "_class": "lecture",
+      "id": 8859734,
+      "title": "Building the Gallery - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 10660206,
+        "time_estimation": 924
+      },
+      "object_index": 114
+    },
+    {
+      "_class": "lecture",
+      "id": 8859738,
+      "title": "Building the Gallery - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 10660204,
+        "time_estimation": 747
+      },
+      "object_index": 115
+    },
+    {
+      "_class": "lecture",
+      "id": 8859742,
+      "title": "Building the Footer",
+      "asset": {
+        "_class": "asset",
+        "id": 10660202,
+        "time_estimation": 753
+      },
+      "object_index": 116
+    },
+    {
+      "_class": "lecture",
+      "id": 8859746,
+      "title": "Building the Sidebar",
+      "asset": {
+        "_class": "asset",
+        "id": 10660200,
+        "time_estimation": 308
+      },
+      "object_index": 117
+    },
+    {
+      "_class": "lecture",
+      "id": 8859752,
+      "title": "Building the Header - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 10660198,
+        "time_estimation": 975
+      },
+      "object_index": 118
+    },
+    {
+      "_class": "lecture",
+      "id": 8859754,
+      "title": "Building the Header - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 10665752,
+        "time_estimation": 591
+      },
+      "object_index": 119
+    },
+    {
+      "_class": "lecture",
+      "id": 8859756,
+      "title": "Building the Realtors Section",
+      "asset": {
+        "_class": "asset",
+        "id": 10665748,
+        "time_estimation": 682
+      },
+      "object_index": 120
+    },
+    {
+      "_class": "lecture",
+      "id": 8859760,
+      "title": "Writing Media Queries - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 10665756,
+        "time_estimation": 1032
+      },
+      "object_index": 121
+    },
+    {
+      "_class": "lecture",
+      "id": 8859764,
+      "title": "Writing Media Queries - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 10665750,
+        "time_estimation": 1118
+      },
+      "object_index": 122
+    },
+    {
+      "_class": "lecture",
+      "id": 8859766,
+      "title": "Browser Support for CSS Grid",
+      "asset": {
+        "_class": "asset",
+        "id": 10665758,
+        "time_estimation": 515
+      },
+      "object_index": 123
+    },
+    {
+      "_class": "lecture",
+      "id": 8859774,
+      "title": "Wrapping up the Nexter Project: Final Considerations",
+      "asset": {
+        "_class": "asset",
+        "id": 10665754,
+        "time_estimation": 404
+      },
+      "object_index": 124
+    },
+    {
+      "_class": "chapter",
+      "id": 2141670,
+      "title": "That's It, Everyone!",
+      "object_index": 10
+    },
+    {
+      "_class": "lecture",
+      "id": 8312924,
+      "title": "See You Next Time, CSS Master!",
+      "asset": {
+        "_class": "asset",
+        "id": 9987020,
+        "time_estimation": 148
+      },
+      "object_index": 125
+    },
+    {
+      "_class": "lecture",
+      "id": 23032732,
+      "title": "My Other Courses + Updates",
+      "asset": {
+        "_class": "asset",
+        "id": 52684628,
+        "time_estimation": 51
+      },
+      "object_index": 126
+    }
+  ]
+}

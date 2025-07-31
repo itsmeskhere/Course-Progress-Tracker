@@ -1,0 +1,3872 @@
+{
+  "count": 366,
+  "next": null,
+  "previous": null,
+  "results": [
+    {
+      "_class": "chapter",
+      "id": 5373382,
+      "title": "Welcome, Welcome, Welcome!",
+      "object_index": 1
+    },
+    {
+      "_class": "lecture",
+      "id": 22628657,
+      "title": "Course Structure and Projects",
+      "asset": {
+        "_class": "asset",
+        "id": 28618713,
+        "time_estimation": 325
+      },
+      "object_index": 1
+    },
+    {
+      "_class": "lecture",
+      "id": 22838299,
+      "title": "Read Before You Start!",
+      "asset": {
+        "_class": "asset",
+        "id": 61286085,
+        "time_estimation": 42
+      },
+      "object_index": 2
+    },
+    {
+      "_class": "lecture",
+      "id": 22645813,
+      "title": "Watch Before You Start!",
+      "asset": {
+        "_class": "asset",
+        "id": 28374321,
+        "time_estimation": 369
+      },
+      "object_index": 3
+    },
+    {
+      "_class": "lecture",
+      "id": 22649983,
+      "title": "Setting Up Our Code Editor",
+      "asset": {
+        "_class": "asset",
+        "id": 28906738,
+        "time_estimation": 503
+      },
+      "object_index": 4
+    },
+    {
+      "_class": "chapter",
+      "id": 5406849,
+      "title": "JavaScript Fundamentals – Part 1",
+      "object_index": 2
+    },
+    {
+      "_class": "lecture",
+      "id": 22648061,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 28618543,
+        "time_estimation": 53
+      },
+      "object_index": 5
+    },
+    {
+      "_class": "lecture",
+      "id": 22648117,
+      "title": "Hello World!",
+      "asset": {
+        "_class": "asset",
+        "id": 40882892,
+        "time_estimation": 357
+      },
+      "object_index": 6
+    },
+    {
+      "_class": "lecture",
+      "id": 22648123,
+      "title": "A Brief Introduction to JavaScript",
+      "asset": {
+        "_class": "asset",
+        "id": 28374329,
+        "time_estimation": 678
+      },
+      "object_index": 7
+    },
+    {
+      "_class": "lecture",
+      "id": 22648127,
+      "title": "Linking a JavaScript File",
+      "asset": {
+        "_class": "asset",
+        "id": 28906742,
+        "time_estimation": 955
+      },
+      "object_index": 8
+    },
+    {
+      "_class": "lecture",
+      "id": 22648135,
+      "title": "Values and Variables",
+      "asset": {
+        "_class": "asset",
+        "id": 28374311,
+        "time_estimation": 965
+      },
+      "object_index": 9
+    },
+    {
+      "_class": "lecture",
+      "id": 22846813,
+      "title": "Practice Assignments",
+      "asset": {
+        "_class": "asset",
+        "id": 60568021,
+        "time_estimation": 23
+      },
+      "object_index": 10
+    },
+    {
+      "_class": "lecture",
+      "id": 22648141,
+      "title": "Data Types",
+      "asset": {
+        "_class": "asset",
+        "id": 28374323,
+        "time_estimation": 1159
+      },
+      "object_index": 11
+    },
+    {
+      "_class": "lecture",
+      "id": 22648145,
+      "title": "let, const and var",
+      "asset": {
+        "_class": "asset",
+        "id": 28374293,
+        "time_estimation": 598
+      },
+      "object_index": 12
+    },
+    {
+      "_class": "lecture",
+      "id": 22648147,
+      "title": "Basic Operators",
+      "asset": {
+        "_class": "asset",
+        "id": 28374325,
+        "time_estimation": 1171
+      },
+      "object_index": 13
+    },
+    {
+      "_class": "lecture",
+      "id": 22648153,
+      "title": "Operator Precedence",
+      "asset": {
+        "_class": "asset",
+        "id": 28374307,
+        "time_estimation": 679
+      },
+      "object_index": 14
+    },
+    {
+      "_class": "lecture",
+      "id": 38225362,
+      "title": "A Note About Challenges",
+      "asset": {
+        "_class": "asset",
+        "id": 49231824,
+        "time_estimation": 29
+      },
+      "object_index": 15
+    },
+    {
+      "_class": "quiz",
+      "id": 5903782,
+      "title": "CHALLENGE #1",
+      "object_index": 1
+    },
+    {
+      "_class": "lecture",
+      "id": 22648161,
+      "title": "CHALLENGE #1: Video Solution",
+      "asset": {
+        "_class": "asset",
+        "id": 49231254,
+        "time_estimation": 440
+      },
+      "object_index": 16
+    },
+    {
+      "_class": "lecture",
+      "id": 22648167,
+      "title": "Strings and Template Literals",
+      "asset": {
+        "_class": "asset",
+        "id": 28374299,
+        "time_estimation": 657
+      },
+      "object_index": 17
+    },
+    {
+      "_class": "lecture",
+      "id": 22648173,
+      "title": "Taking Decisions: if / else Statements",
+      "asset": {
+        "_class": "asset",
+        "id": 28893276,
+        "time_estimation": 770
+      },
+      "object_index": 18
+    },
+    {
+      "_class": "quiz",
+      "id": 5908340,
+      "title": "CHALLENGE #2",
+      "object_index": 2
+    },
+    {
+      "_class": "lecture",
+      "id": 22648177,
+      "title": "CHALLENGE #2: Video Solution",
+      "asset": {
+        "_class": "asset",
+        "id": 49231252,
+        "time_estimation": 320
+      },
+      "object_index": 19
+    },
+    {
+      "_class": "lecture",
+      "id": 22648179,
+      "title": "Type Conversion and Coercion",
+      "asset": {
+        "_class": "asset",
+        "id": 37454792,
+        "time_estimation": 1000
+      },
+      "object_index": 20
+    },
+    {
+      "_class": "lecture",
+      "id": 22648181,
+      "title": "Truthy and Falsy Values",
+      "asset": {
+        "_class": "asset",
+        "id": 28374319,
+        "time_estimation": 603
+      },
+      "object_index": 21
+    },
+    {
+      "_class": "lecture",
+      "id": 22648183,
+      "title": "Equality Operators: == vs. ===",
+      "asset": {
+        "_class": "asset",
+        "id": 28374287,
+        "time_estimation": 941
+      },
+      "object_index": 22
+    },
+    {
+      "_class": "lecture",
+      "id": 22648189,
+      "title": "Boolean Logic",
+      "asset": {
+        "_class": "asset",
+        "id": 28374315,
+        "time_estimation": 510
+      },
+      "object_index": 23
+    },
+    {
+      "_class": "lecture",
+      "id": 22648191,
+      "title": "Logical Operators",
+      "asset": {
+        "_class": "asset",
+        "id": 28374285,
+        "time_estimation": 637
+      },
+      "object_index": 24
+    },
+    {
+      "_class": "quiz",
+      "id": 5908574,
+      "title": "CHALLENGE #3",
+      "object_index": 3
+    },
+    {
+      "_class": "lecture",
+      "id": 22648193,
+      "title": "CHALLENGE #3: Video Solution",
+      "asset": {
+        "_class": "asset",
+        "id": 49231248,
+        "time_estimation": 702
+      },
+      "object_index": 25
+    },
+    {
+      "_class": "lecture",
+      "id": 22648197,
+      "title": "The switch Statement",
+      "asset": {
+        "_class": "asset",
+        "id": 28374291,
+        "time_estimation": 790
+      },
+      "object_index": 26
+    },
+    {
+      "_class": "lecture",
+      "id": 22648199,
+      "title": "Statements and Expressions",
+      "asset": {
+        "_class": "asset",
+        "id": 28374305,
+        "time_estimation": 368
+      },
+      "object_index": 27
+    },
+    {
+      "_class": "lecture",
+      "id": 22648205,
+      "title": "The Conditional (Ternary) Operator",
+      "asset": {
+        "_class": "asset",
+        "id": 28893278,
+        "time_estimation": 602
+      },
+      "object_index": 28
+    },
+    {
+      "_class": "quiz",
+      "id": 5909850,
+      "title": "CHALLENGE #4",
+      "object_index": 4
+    },
+    {
+      "_class": "lecture",
+      "id": 22648207,
+      "title": "CHALLENGE #4: Video Solution",
+      "asset": {
+        "_class": "asset",
+        "id": 49231246,
+        "time_estimation": 357
+      },
+      "object_index": 29
+    },
+    {
+      "_class": "lecture",
+      "id": 22648209,
+      "title": "JavaScript Releases: ES5, ES6+ and ESNext",
+      "asset": {
+        "_class": "asset",
+        "id": 28374301,
+        "time_estimation": 859
+      },
+      "object_index": 30
+    },
+    {
+      "_class": "lecture",
+      "id": 49586659,
+      "title": "Section Summary PDF",
+      "asset": {
+        "_class": "asset",
+        "id": 64208609,
+        "time_estimation": 11
+      },
+      "object_index": 31
+    },
+    {
+      "_class": "quiz",
+      "id": 6917297,
+      "title": "Test Your Fundamental Knowledge 1! Ready to Move On?",
+      "object_index": 1
+    },
+    {
+      "_class": "chapter",
+      "id": 5412005,
+      "title": "JavaScript Fundamentals – Part 2",
+      "object_index": 3
+    },
+    {
+      "_class": "lecture",
+      "id": 22648213,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 28618547,
+        "time_estimation": 36
+      },
+      "object_index": 32
+    },
+    {
+      "_class": "lecture",
+      "id": 22648215,
+      "title": "Activating Strict Mode",
+      "asset": {
+        "_class": "asset",
+        "id": 28376121,
+        "time_estimation": 627
+      },
+      "object_index": 33
+    },
+    {
+      "_class": "lecture",
+      "id": 22648219,
+      "title": "Functions",
+      "asset": {
+        "_class": "asset",
+        "id": 28376161,
+        "time_estimation": 1148
+      },
+      "object_index": 34
+    },
+    {
+      "_class": "lecture",
+      "id": 22648225,
+      "title": "Function Declarations vs. Expressions",
+      "asset": {
+        "_class": "asset",
+        "id": 28376169,
+        "time_estimation": 639
+      },
+      "object_index": 35
+    },
+    {
+      "_class": "lecture",
+      "id": 22648227,
+      "title": "Arrow Functions",
+      "asset": {
+        "_class": "asset",
+        "id": 28376163,
+        "time_estimation": 592
+      },
+      "object_index": 36
+    },
+    {
+      "_class": "lecture",
+      "id": 22648231,
+      "title": "Functions Calling Other Functions",
+      "asset": {
+        "_class": "asset",
+        "id": 28376165,
+        "time_estimation": 607
+      },
+      "object_index": 37
+    },
+    {
+      "_class": "lecture",
+      "id": 22648239,
+      "title": "Reviewing Functions",
+      "asset": {
+        "_class": "asset",
+        "id": 28376167,
+        "time_estimation": 937
+      },
+      "object_index": 38
+    },
+    {
+      "_class": "quiz",
+      "id": 5909864,
+      "title": "CHALLENGE #1",
+      "object_index": 5
+    },
+    {
+      "_class": "lecture",
+      "id": 22648243,
+      "title": "CHALLENGE #1: Video Solution",
+      "asset": {
+        "_class": "asset",
+        "id": 49231250,
+        "time_estimation": 850
+      },
+      "object_index": 39
+    },
+    {
+      "_class": "lecture",
+      "id": 22648249,
+      "title": "Introduction to Arrays",
+      "asset": {
+        "_class": "asset",
+        "id": 28376153,
+        "time_estimation": 1294
+      },
+      "object_index": 40
+    },
+    {
+      "_class": "lecture",
+      "id": 22648255,
+      "title": "Basic Array Operations (Methods)",
+      "asset": {
+        "_class": "asset",
+        "id": 28376155,
+        "time_estimation": 772
+      },
+      "object_index": 41
+    },
+    {
+      "_class": "quiz",
+      "id": 5911396,
+      "title": "CHALLENGE #2",
+      "object_index": 6
+    },
+    {
+      "_class": "lecture",
+      "id": 22648259,
+      "title": "CHALLENGE #2: Video Solution",
+      "asset": {
+        "_class": "asset",
+        "id": 49231240,
+        "time_estimation": 414
+      },
+      "object_index": 42
+    },
+    {
+      "_class": "lecture",
+      "id": 22648263,
+      "title": "Introduction to Objects",
+      "asset": {
+        "_class": "asset",
+        "id": 28376149,
+        "time_estimation": 368
+      },
+      "object_index": 43
+    },
+    {
+      "_class": "lecture",
+      "id": 22648271,
+      "title": "Dot vs. Bracket Notation",
+      "asset": {
+        "_class": "asset",
+        "id": 28376145,
+        "time_estimation": 1161
+      },
+      "object_index": 44
+    },
+    {
+      "_class": "lecture",
+      "id": 22648275,
+      "title": "Object Methods",
+      "asset": {
+        "_class": "asset",
+        "id": 28376143,
+        "time_estimation": 1384
+      },
+      "object_index": 45
+    },
+    {
+      "_class": "quiz",
+      "id": 5911446,
+      "title": "CHALLENGE #3",
+      "object_index": 7
+    },
+    {
+      "_class": "lecture",
+      "id": 22648281,
+      "title": "CHALLENGE #3: Video Solution",
+      "asset": {
+        "_class": "asset",
+        "id": 49231244,
+        "time_estimation": 590
+      },
+      "object_index": 46
+    },
+    {
+      "_class": "lecture",
+      "id": 22648285,
+      "title": "Iteration: The for Loop",
+      "asset": {
+        "_class": "asset",
+        "id": 28376157,
+        "time_estimation": 671
+      },
+      "object_index": 47
+    },
+    {
+      "_class": "lecture",
+      "id": 22648291,
+      "title": "Looping Arrays, Breaking and Continuing",
+      "asset": {
+        "_class": "asset",
+        "id": 28376141,
+        "time_estimation": 1322
+      },
+      "object_index": 48
+    },
+    {
+      "_class": "lecture",
+      "id": 22648297,
+      "title": "Looping Backwards and Loops in Loops",
+      "asset": {
+        "_class": "asset",
+        "id": 28376139,
+        "time_estimation": 713
+      },
+      "object_index": 49
+    },
+    {
+      "_class": "lecture",
+      "id": 22648303,
+      "title": "The while Loop",
+      "asset": {
+        "_class": "asset",
+        "id": 28376137,
+        "time_estimation": 712
+      },
+      "object_index": 50
+    },
+    {
+      "_class": "quiz",
+      "id": 5911512,
+      "title": "CHALLENGE #4",
+      "object_index": 8
+    },
+    {
+      "_class": "lecture",
+      "id": 22648309,
+      "title": "CHALLENGE #4: Video Solution",
+      "asset": {
+        "_class": "asset",
+        "id": 49231242,
+        "time_estimation": 684
+      },
+      "object_index": 51
+    },
+    {
+      "_class": "lecture",
+      "id": 49586859,
+      "title": "Section Summary PDF",
+      "asset": {
+        "_class": "asset",
+        "id": 64208687,
+        "time_estimation": 11
+      },
+      "object_index": 52
+    },
+    {
+      "_class": "quiz",
+      "id": 6917399,
+      "title": "Test Your Fundamental Knowledge 2! Ready to Move On?",
+      "object_index": 2
+    },
+    {
+      "_class": "chapter",
+      "id": 5412021,
+      "title": "How to Navigate This Course",
+      "object_index": 4
+    },
+    {
+      "_class": "lecture",
+      "id": 22648323,
+      "title": "Pathways and Section Roadmaps",
+      "asset": {
+        "_class": "asset",
+        "id": 28618711,
+        "time_estimation": 248
+      },
+      "object_index": 53
+    },
+    {
+      "_class": "lecture",
+      "id": 22648329,
+      "title": "Course Pathways",
+      "asset": {
+        "_class": "asset",
+        "id": 28628097,
+        "time_estimation": 7
+      },
+      "object_index": 54
+    },
+    {
+      "_class": "chapter",
+      "id": 5412025,
+      "title": "Developer Skills & Editor Setup",
+      "object_index": 5
+    },
+    {
+      "_class": "lecture",
+      "id": 22648337,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 28618551,
+        "time_estimation": 39
+      },
+      "object_index": 55
+    },
+    {
+      "_class": "lecture",
+      "id": 22663419,
+      "title": "Section Roadmap",
+      "asset": {
+        "_class": "asset",
+        "id": 28394571,
+        "time_estimation": 22
+      },
+      "object_index": 56
+    },
+    {
+      "_class": "lecture",
+      "id": 22648339,
+      "title": "Setting up Prettier and VS Code",
+      "asset": {
+        "_class": "asset",
+        "id": 28906744,
+        "time_estimation": 982
+      },
+      "object_index": 57
+    },
+    {
+      "_class": "lecture",
+      "id": 22648343,
+      "title": "Installing Node.js and Setting Up a Dev Environment",
+      "asset": {
+        "_class": "asset",
+        "id": 28906740,
+        "time_estimation": 692
+      },
+      "object_index": 58
+    },
+    {
+      "_class": "lecture",
+      "id": 22648347,
+      "title": "Learning How to Code",
+      "asset": {
+        "_class": "asset",
+        "id": 28376125,
+        "time_estimation": 1062
+      },
+      "object_index": 59
+    },
+    {
+      "id": 2716,
+      "title": "Help Mike Learn How to Code",
+      "is_published": true,
+      "course_id": 851712,
+      "sort_order": 472,
+      "object_index": 1,
+      "_class": "role-play"
+    },
+    {
+      "_class": "lecture",
+      "id": 22648351,
+      "title": "How to Think Like a Developer: Become a Problem Solver!",
+      "asset": {
+        "_class": "asset",
+        "id": 30952972,
+        "time_estimation": 653
+      },
+      "object_index": 60
+    },
+    {
+      "id": 2726,
+      "title": "Help Sofia Think Like a Developer",
+      "is_published": true,
+      "course_id": 851712,
+      "sort_order": 470,
+      "object_index": 2,
+      "_class": "role-play"
+    },
+    {
+      "_class": "lecture",
+      "id": 22648353,
+      "title": "Using Google, StackOverflow and MDN",
+      "asset": {
+        "_class": "asset",
+        "id": 28376129,
+        "time_estimation": 1596
+      },
+      "object_index": 61
+    },
+    {
+      "_class": "lecture",
+      "id": 22648357,
+      "title": "Debugging (Fixing Errors)",
+      "asset": {
+        "_class": "asset",
+        "id": 28376119,
+        "time_estimation": 309
+      },
+      "object_index": 62
+    },
+    {
+      "_class": "lecture",
+      "id": 22648363,
+      "title": "Debugging with the Console and Breakpoints",
+      "asset": {
+        "_class": "asset",
+        "id": 28376127,
+        "time_estimation": 1165
+      },
+      "object_index": 63
+    },
+    {
+      "_class": "lecture",
+      "id": 22648369,
+      "title": "CHALLENGE #1",
+      "asset": {
+        "_class": "asset",
+        "id": 28376117,
+        "time_estimation": 924
+      },
+      "object_index": 64
+    },
+    {
+      "_class": "lecture",
+      "id": 47394555,
+      "title": "The Rise of AI Tools (ChatGPT, Copilot, Cursor AI, etc.)",
+      "asset": {
+        "_class": "asset",
+        "id": 61009319,
+        "time_estimation": 1104
+      },
+      "object_index": 65
+    },
+    {
+      "_class": "lecture",
+      "id": 47394567,
+      "title": "Solving CHALLENGE #2 With AI",
+      "asset": {
+        "_class": "asset",
+        "id": 61009325,
+        "time_estimation": 991
+      },
+      "object_index": 66
+    },
+    {
+      "_class": "chapter",
+      "id": 5412027,
+      "title": "[OPTIONAL] HTML & CSS Crash Course",
+      "object_index": 6
+    },
+    {
+      "_class": "lecture",
+      "id": 22648377,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 28618541,
+        "time_estimation": 40
+      },
+      "object_index": 67
+    },
+    {
+      "_class": "lecture",
+      "id": 22648385,
+      "title": "Basic HTML Structure and Elements",
+      "asset": {
+        "_class": "asset",
+        "id": 28376687,
+        "time_estimation": 572
+      },
+      "object_index": 68
+    },
+    {
+      "_class": "lecture",
+      "id": 22648389,
+      "title": "Attributes, Classes and IDs",
+      "asset": {
+        "_class": "asset",
+        "id": 28376671,
+        "time_estimation": 789
+      },
+      "object_index": 69
+    },
+    {
+      "_class": "lecture",
+      "id": 22648393,
+      "title": "Basic Styling with CSS",
+      "asset": {
+        "_class": "asset",
+        "id": 28376683,
+        "time_estimation": 720
+      },
+      "object_index": 70
+    },
+    {
+      "_class": "lecture",
+      "id": 22648397,
+      "title": "Introduction to the CSS Box Model",
+      "asset": {
+        "_class": "asset",
+        "id": 28376677,
+        "time_estimation": 1257
+      },
+      "object_index": 71
+    },
+    {
+      "_class": "chapter",
+      "id": 5412033,
+      "title": "JavaScript in the Browser: DOM and Events [PROJECT]",
+      "object_index": 7
+    },
+    {
+      "_class": "lecture",
+      "id": 22648401,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 28618535,
+        "time_estimation": 49
+      },
+      "object_index": 72
+    },
+    {
+      "_class": "lecture",
+      "id": 22299488,
+      "title": "Section Roadmap",
+      "asset": {
+        "_class": "asset",
+        "id": 28394543,
+        "time_estimation": 29
+      },
+      "object_index": 73
+    },
+    {
+      "_class": "lecture",
+      "id": 22648403,
+      "title": "PROJECT #1: Guess My Number!",
+      "asset": {
+        "_class": "asset",
+        "id": 28376669,
+        "time_estimation": 527
+      },
+      "object_index": 74
+    },
+    {
+      "_class": "lecture",
+      "id": 22648405,
+      "title": "What's the DOM and DOM Manipulation",
+      "asset": {
+        "_class": "asset",
+        "id": 28376705,
+        "time_estimation": 408
+      },
+      "object_index": 75
+    },
+    {
+      "_class": "lecture",
+      "id": 22648409,
+      "title": "Selecting and Manipulating Elements",
+      "asset": {
+        "_class": "asset",
+        "id": 28893272,
+        "time_estimation": 502
+      },
+      "object_index": 76
+    },
+    {
+      "_class": "lecture",
+      "id": 22648411,
+      "title": "Handling Click Events",
+      "asset": {
+        "_class": "asset",
+        "id": 28893280,
+        "time_estimation": 770
+      },
+      "object_index": 77
+    },
+    {
+      "_class": "lecture",
+      "id": 22648417,
+      "title": "Implementing the Game Logic",
+      "asset": {
+        "_class": "asset",
+        "id": 28376695,
+        "time_estimation": 1173
+      },
+      "object_index": 78
+    },
+    {
+      "_class": "lecture",
+      "id": 22648419,
+      "title": "Manipulating CSS Styles",
+      "asset": {
+        "_class": "asset",
+        "id": 28376691,
+        "time_estimation": 497
+      },
+      "object_index": 79
+    },
+    {
+      "_class": "lecture",
+      "id": 22648423,
+      "title": "CHALLENGE #1",
+      "asset": {
+        "_class": "asset",
+        "id": 28376703,
+        "time_estimation": 700
+      },
+      "object_index": 80
+    },
+    {
+      "_class": "lecture",
+      "id": 22648427,
+      "title": "Implementing Highscores",
+      "asset": {
+        "_class": "asset",
+        "id": 28376685,
+        "time_estimation": 467
+      },
+      "object_index": 81
+    },
+    {
+      "_class": "lecture",
+      "id": 22648429,
+      "title": "Refactoring Our Code: The DRY Principle",
+      "asset": {
+        "_class": "asset",
+        "id": 28376699,
+        "time_estimation": 905
+      },
+      "object_index": 82
+    },
+    {
+      "_class": "lecture",
+      "id": 22648433,
+      "title": "PROJECT #2: Modal Window",
+      "asset": {
+        "_class": "asset",
+        "id": 28376679,
+        "time_estimation": 801
+      },
+      "object_index": 83
+    },
+    {
+      "_class": "lecture",
+      "id": 22648437,
+      "title": "Working With Classes",
+      "asset": {
+        "_class": "asset",
+        "id": 28376693,
+        "time_estimation": 1015
+      },
+      "object_index": 84
+    },
+    {
+      "_class": "lecture",
+      "id": 22648441,
+      "title": "Handling an \"Esc\" Keypress Event",
+      "asset": {
+        "_class": "asset",
+        "id": 28721150,
+        "time_estimation": 851
+      },
+      "object_index": 85
+    },
+    {
+      "_class": "lecture",
+      "id": 22648445,
+      "title": "PROJECT #3: Pig Game",
+      "asset": {
+        "_class": "asset",
+        "id": 28376689,
+        "time_estimation": 1028
+      },
+      "object_index": 86
+    },
+    {
+      "_class": "lecture",
+      "id": 22648447,
+      "title": "Rolling the Dice",
+      "asset": {
+        "_class": "asset",
+        "id": 28376697,
+        "time_estimation": 958
+      },
+      "object_index": 87
+    },
+    {
+      "_class": "lecture",
+      "id": 22648449,
+      "title": "Switching the Active Player",
+      "asset": {
+        "_class": "asset",
+        "id": 28376673,
+        "time_estimation": 916
+      },
+      "object_index": 88
+    },
+    {
+      "_class": "lecture",
+      "id": 22648455,
+      "title": "Holding Current Score",
+      "asset": {
+        "_class": "asset",
+        "id": 28376675,
+        "time_estimation": 1495
+      },
+      "object_index": 89
+    },
+    {
+      "_class": "lecture",
+      "id": 22648459,
+      "title": "Resetting the Game",
+      "asset": {
+        "_class": "asset",
+        "id": 28376681,
+        "time_estimation": 938
+      },
+      "object_index": 90
+    },
+    {
+      "_class": "chapter",
+      "id": 5412039,
+      "title": "How JavaScript Works Behind the Scenes",
+      "object_index": 8
+    },
+    {
+      "_class": "lecture",
+      "id": 22648465,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 28618559,
+        "time_estimation": 91
+      },
+      "object_index": 91
+    },
+    {
+      "_class": "lecture",
+      "id": 22663439,
+      "title": "Section Roadmap",
+      "asset": {
+        "_class": "asset",
+        "id": 28394563,
+        "time_estimation": 30
+      },
+      "object_index": 92
+    },
+    {
+      "_class": "lecture",
+      "id": 22648469,
+      "title": "An High-Level Overview of JavaScript",
+      "asset": {
+        "_class": "asset",
+        "id": 28377505,
+        "time_estimation": 731
+      },
+      "object_index": 93
+    },
+    {
+      "_class": "lecture",
+      "id": 22648473,
+      "title": "The JavaScript Engine and Runtime",
+      "asset": {
+        "_class": "asset",
+        "id": 28377533,
+        "time_estimation": 827
+      },
+      "object_index": 94
+    },
+    {
+      "_class": "lecture",
+      "id": 22648479,
+      "title": "Execution Contexts and The Call Stack",
+      "asset": {
+        "_class": "asset",
+        "id": 28377515,
+        "time_estimation": 1065
+      },
+      "object_index": 95
+    },
+    {
+      "_class": "lecture",
+      "id": 22648481,
+      "title": "Scope and The Scope Chain",
+      "asset": {
+        "_class": "asset",
+        "id": 28377521,
+        "time_estimation": 1537
+      },
+      "object_index": 96
+    },
+    {
+      "_class": "lecture",
+      "id": 22648487,
+      "title": "Scoping in Practice",
+      "asset": {
+        "_class": "asset",
+        "id": 28377523,
+        "time_estimation": 1273
+      },
+      "object_index": 97
+    },
+    {
+      "_class": "lecture",
+      "id": 22648493,
+      "title": "Variable Environment: Hoisting and The TDZ",
+      "asset": {
+        "_class": "asset",
+        "id": 28377517,
+        "time_estimation": 660
+      },
+      "object_index": 98
+    },
+    {
+      "_class": "lecture",
+      "id": 22648495,
+      "title": "Hoisting and TDZ in Practice",
+      "asset": {
+        "_class": "asset",
+        "id": 28377525,
+        "time_estimation": 882
+      },
+      "object_index": 99
+    },
+    {
+      "_class": "lecture",
+      "id": 22648501,
+      "title": "The this Keyword",
+      "asset": {
+        "_class": "asset",
+        "id": 28377513,
+        "time_estimation": 390
+      },
+      "object_index": 100
+    },
+    {
+      "_class": "lecture",
+      "id": 22648505,
+      "title": "The this Keyword in Practice",
+      "asset": {
+        "_class": "asset",
+        "id": 28377529,
+        "time_estimation": 791
+      },
+      "object_index": 101
+    },
+    {
+      "_class": "lecture",
+      "id": 22648507,
+      "title": "Regular Functions vs. Arrow Functions",
+      "asset": {
+        "_class": "asset",
+        "id": 28377527,
+        "time_estimation": 1084
+      },
+      "object_index": 102
+    },
+    {
+      "_class": "lecture",
+      "id": 22648509,
+      "title": "Memory Management: Primitives vs. Objects",
+      "asset": {
+        "_class": "asset",
+        "id": 61009327,
+        "time_estimation": 831
+      },
+      "object_index": 103
+    },
+    {
+      "_class": "lecture",
+      "id": 22648513,
+      "title": "Object References in Practice (Shallow vs. Deep Copies)",
+      "asset": {
+        "_class": "asset",
+        "id": 61009323,
+        "time_estimation": 1269
+      },
+      "object_index": 104
+    },
+    {
+      "_class": "lecture",
+      "id": 47394623,
+      "title": "Memory Management: Garbage Collection",
+      "asset": {
+        "_class": "asset",
+        "id": 61009307,
+        "time_estimation": 911
+      },
+      "object_index": 105
+    },
+    {
+      "_class": "chapter",
+      "id": 5412043,
+      "title": "Data Structures, Modern Operators and Strings",
+      "object_index": 9
+    },
+    {
+      "_class": "lecture",
+      "id": 22648519,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 28618545,
+        "time_estimation": 53
+      },
+      "object_index": 106
+    },
+    {
+      "_class": "lecture",
+      "id": 22663631,
+      "title": "Section Roadmap",
+      "asset": {
+        "_class": "asset",
+        "id": 28394555,
+        "time_estimation": 22
+      },
+      "object_index": 107
+    },
+    {
+      "_class": "lecture",
+      "id": 22648521,
+      "title": "Destructuring Arrays",
+      "asset": {
+        "_class": "asset",
+        "id": 28377511,
+        "time_estimation": 1173
+      },
+      "object_index": 108
+    },
+    {
+      "_class": "lecture",
+      "id": 41706368,
+      "title": "Practice Assignments",
+      "asset": {
+        "_class": "asset",
+        "id": 53843832,
+        "time_estimation": 10
+      },
+      "object_index": 109
+    },
+    {
+      "_class": "lecture",
+      "id": 22648527,
+      "title": "Destructuring Objects",
+      "asset": {
+        "_class": "asset",
+        "id": 28377493,
+        "time_estimation": 1186
+      },
+      "object_index": 110
+    },
+    {
+      "_class": "lecture",
+      "id": 22648535,
+      "title": "The Spread Operator (...)",
+      "asset": {
+        "_class": "asset",
+        "id": 28377509,
+        "time_estimation": 1286
+      },
+      "object_index": 111
+    },
+    {
+      "_class": "lecture",
+      "id": 22648543,
+      "title": "Rest Pattern and Parameters",
+      "asset": {
+        "_class": "asset",
+        "id": 28377473,
+        "time_estimation": 1141
+      },
+      "object_index": 112
+    },
+    {
+      "_class": "lecture",
+      "id": 22648547,
+      "title": "Short Circuiting (&& and ||)",
+      "asset": {
+        "_class": "asset",
+        "id": 28377503,
+        "time_estimation": 955
+      },
+      "object_index": 113
+    },
+    {
+      "_class": "lecture",
+      "id": 22648553,
+      "title": "The Nullish Coalescing Operator (??)",
+      "asset": {
+        "_class": "asset",
+        "id": 28377477,
+        "time_estimation": 212
+      },
+      "object_index": 114
+    },
+    {
+      "_class": "lecture",
+      "id": 29433404,
+      "title": "Logical Assignment Operators",
+      "asset": {
+        "_class": "asset",
+        "id": 37454796,
+        "time_estimation": 699
+      },
+      "object_index": 115
+    },
+    {
+      "_class": "lecture",
+      "id": 22648559,
+      "title": "CHALLENGE #1",
+      "asset": {
+        "_class": "asset",
+        "id": 28377469,
+        "time_estimation": 897
+      },
+      "object_index": 116
+    },
+    {
+      "_class": "lecture",
+      "id": 22648563,
+      "title": "Looping Arrays: The for-of Loop",
+      "asset": {
+        "_class": "asset",
+        "id": 28377471,
+        "time_estimation": 440
+      },
+      "object_index": 117
+    },
+    {
+      "_class": "lecture",
+      "id": 22648565,
+      "title": "Enhanced Object Literals",
+      "asset": {
+        "_class": "asset",
+        "id": 28377485,
+        "time_estimation": 422
+      },
+      "object_index": 118
+    },
+    {
+      "_class": "lecture",
+      "id": 22648573,
+      "title": "Optional Chaining (?.)",
+      "asset": {
+        "_class": "asset",
+        "id": 28377483,
+        "time_estimation": 970
+      },
+      "object_index": 119
+    },
+    {
+      "_class": "lecture",
+      "id": 22648577,
+      "title": "Looping Objects: Object Keys, Values, and Entries",
+      "asset": {
+        "_class": "asset",
+        "id": 28377507,
+        "time_estimation": 609
+      },
+      "object_index": 120
+    },
+    {
+      "_class": "lecture",
+      "id": 22648585,
+      "title": "CHALLENGE #2",
+      "asset": {
+        "_class": "asset",
+        "id": 28377475,
+        "time_estimation": 870
+      },
+      "object_index": 121
+    },
+    {
+      "_class": "lecture",
+      "id": 22648589,
+      "title": "Sets",
+      "asset": {
+        "_class": "asset",
+        "id": 28377491,
+        "time_estimation": 798
+      },
+      "object_index": 122
+    },
+    {
+      "_class": "lecture",
+      "id": 47394671,
+      "title": "New Operations to Make Sets Useful!",
+      "asset": {
+        "_class": "asset",
+        "id": 61009315,
+        "time_estimation": 973
+      },
+      "object_index": 123
+    },
+    {
+      "_class": "lecture",
+      "id": 22648593,
+      "title": "Maps: Fundamentals",
+      "asset": {
+        "_class": "asset",
+        "id": 30952964,
+        "time_estimation": 843
+      },
+      "object_index": 124
+    },
+    {
+      "_class": "lecture",
+      "id": 22648597,
+      "title": "Maps: Iteration",
+      "asset": {
+        "_class": "asset",
+        "id": 28377479,
+        "time_estimation": 761
+      },
+      "object_index": 125
+    },
+    {
+      "_class": "lecture",
+      "id": 22648599,
+      "title": "Summary: Which Data Structure to Use?",
+      "asset": {
+        "_class": "asset",
+        "id": 28377501,
+        "time_estimation": 580
+      },
+      "object_index": 126
+    },
+    {
+      "_class": "lecture",
+      "id": 22648605,
+      "title": "CHALLENGE #3",
+      "asset": {
+        "_class": "asset",
+        "id": 28377481,
+        "time_estimation": 577
+      },
+      "object_index": 127
+    },
+    {
+      "_class": "lecture",
+      "id": 22648609,
+      "title": "Working With Strings - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 28377497,
+        "time_estimation": 1013
+      },
+      "object_index": 128
+    },
+    {
+      "_class": "lecture",
+      "id": 22648613,
+      "title": "Working With Strings - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 61014719,
+        "time_estimation": 1342
+      },
+      "object_index": 129
+    },
+    {
+      "_class": "lecture",
+      "id": 22648619,
+      "title": "Working With Strings - Part 3",
+      "asset": {
+        "_class": "asset",
+        "id": 28377495,
+        "time_estimation": 1301
+      },
+      "object_index": 130
+    },
+    {
+      "_class": "lecture",
+      "id": 22648623,
+      "title": "CHALLENGE #4",
+      "asset": {
+        "_class": "asset",
+        "id": 28377489,
+        "time_estimation": 915
+      },
+      "object_index": 131
+    },
+    {
+      "_class": "lecture",
+      "id": 24606740,
+      "title": "String Methods Practice",
+      "asset": {
+        "_class": "asset",
+        "id": 30952962,
+        "time_estimation": 996
+      },
+      "object_index": 132
+    },
+    {
+      "_class": "chapter",
+      "id": 5412053,
+      "title": "A Closer Look at Functions",
+      "object_index": 10
+    },
+    {
+      "_class": "lecture",
+      "id": 22648639,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 28618529,
+        "time_estimation": 48
+      },
+      "object_index": 133
+    },
+    {
+      "_class": "lecture",
+      "id": 22663671,
+      "title": "Section Roadmap",
+      "asset": {
+        "_class": "asset",
+        "id": 28394551,
+        "time_estimation": 22
+      },
+      "object_index": 134
+    },
+    {
+      "_class": "lecture",
+      "id": 22648643,
+      "title": "Default Parameters",
+      "asset": {
+        "_class": "asset",
+        "id": 37454798,
+        "time_estimation": 557
+      },
+      "object_index": 135
+    },
+    {
+      "_class": "lecture",
+      "id": 22648645,
+      "title": "How Passing Arguments Works: Value vs. Reference",
+      "asset": {
+        "_class": "asset",
+        "id": 28373777,
+        "time_estimation": 816
+      },
+      "object_index": 136
+    },
+    {
+      "_class": "lecture",
+      "id": 22648649,
+      "title": "First-Class and Higher-Order Functions",
+      "asset": {
+        "_class": "asset",
+        "id": 28373763,
+        "time_estimation": 324
+      },
+      "object_index": 137
+    },
+    {
+      "_class": "lecture",
+      "id": 22648655,
+      "title": "Functions Accepting Callback Functions",
+      "asset": {
+        "_class": "asset",
+        "id": 28373765,
+        "time_estimation": 920
+      },
+      "object_index": 138
+    },
+    {
+      "_class": "lecture",
+      "id": 22648657,
+      "title": "Functions Returning Functions",
+      "asset": {
+        "_class": "asset",
+        "id": 28373769,
+        "time_estimation": 396
+      },
+      "object_index": 139
+    },
+    {
+      "_class": "lecture",
+      "id": 22648663,
+      "title": "The call and apply Methods",
+      "asset": {
+        "_class": "asset",
+        "id": 28373773,
+        "time_estimation": 1011
+      },
+      "object_index": 140
+    },
+    {
+      "_class": "lecture",
+      "id": 22648667,
+      "title": "The bind Method",
+      "asset": {
+        "_class": "asset",
+        "id": 28373761,
+        "time_estimation": 1293
+      },
+      "object_index": 141
+    },
+    {
+      "_class": "lecture",
+      "id": 22648673,
+      "title": "CHALLENGE #1",
+      "asset": {
+        "_class": "asset",
+        "id": 28373757,
+        "time_estimation": 1127
+      },
+      "object_index": 142
+    },
+    {
+      "_class": "lecture",
+      "id": 22648679,
+      "title": "Immediately Invoked Function Expressions (IIFE)",
+      "asset": {
+        "_class": "asset",
+        "id": 28373759,
+        "time_estimation": 472
+      },
+      "object_index": 143
+    },
+    {
+      "_class": "lecture",
+      "id": 22648683,
+      "title": "Closures",
+      "asset": {
+        "_class": "asset",
+        "id": 61014697,
+        "time_estimation": 1341
+      },
+      "object_index": 144
+    },
+    {
+      "_class": "lecture",
+      "id": 22648687,
+      "title": "More Closure Examples",
+      "asset": {
+        "_class": "asset",
+        "id": 28373775,
+        "time_estimation": 930
+      },
+      "object_index": 145
+    },
+    {
+      "_class": "lecture",
+      "id": 22648697,
+      "title": "CHALLENGE #2",
+      "asset": {
+        "_class": "asset",
+        "id": 28373755,
+        "time_estimation": 325
+      },
+      "object_index": 146
+    },
+    {
+      "_class": "chapter",
+      "id": 5412061,
+      "title": "Working With Arrays [PROJECT]",
+      "object_index": 11
+    },
+    {
+      "_class": "lecture",
+      "id": 22648701,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 28618527,
+        "time_estimation": 53
+      },
+      "object_index": 147
+    },
+    {
+      "_class": "lecture",
+      "id": 22663727,
+      "title": "Section Roadmap",
+      "asset": {
+        "_class": "asset",
+        "id": 28396215,
+        "time_estimation": 29
+      },
+      "object_index": 148
+    },
+    {
+      "_class": "lecture",
+      "id": 22648703,
+      "title": "Simple Array Methods",
+      "asset": {
+        "_class": "asset",
+        "id": 28380217,
+        "time_estimation": 997
+      },
+      "object_index": 149
+    },
+    {
+      "_class": "lecture",
+      "id": 29433412,
+      "title": "The New at Method",
+      "asset": {
+        "_class": "asset",
+        "id": 37454794,
+        "time_estimation": 364
+      },
+      "object_index": 150
+    },
+    {
+      "_class": "lecture",
+      "id": 22648707,
+      "title": "Looping Arrays: forEach",
+      "asset": {
+        "_class": "asset",
+        "id": 28380245,
+        "time_estimation": 826
+      },
+      "object_index": 151
+    },
+    {
+      "_class": "lecture",
+      "id": 22648709,
+      "title": "forEach With Maps and Sets",
+      "asset": {
+        "_class": "asset",
+        "id": 28380251,
+        "time_estimation": 332
+      },
+      "object_index": 152
+    },
+    {
+      "_class": "lecture",
+      "id": 22648713,
+      "title": "PROJECT: \"Bankist\" App",
+      "asset": {
+        "_class": "asset",
+        "id": 28380253,
+        "time_estimation": 588
+      },
+      "object_index": 153
+    },
+    {
+      "_class": "lecture",
+      "id": 22648719,
+      "title": "Creating DOM Elements",
+      "asset": {
+        "_class": "asset",
+        "id": 28380257,
+        "time_estimation": 1124
+      },
+      "object_index": 154
+    },
+    {
+      "_class": "lecture",
+      "id": 22648723,
+      "title": "CHALLENGE #1",
+      "asset": {
+        "_class": "asset",
+        "id": 28380241,
+        "time_estimation": 511
+      },
+      "object_index": 155
+    },
+    {
+      "_class": "lecture",
+      "id": 22648727,
+      "title": "Data Transformations: map, filter, reduce",
+      "asset": {
+        "_class": "asset",
+        "id": 28380249,
+        "time_estimation": 280
+      },
+      "object_index": 156
+    },
+    {
+      "_class": "lecture",
+      "id": 22648731,
+      "title": "The map Method",
+      "asset": {
+        "_class": "asset",
+        "id": 28380259,
+        "time_estimation": 940
+      },
+      "object_index": 157
+    },
+    {
+      "_class": "lecture",
+      "id": 22648733,
+      "title": "Computing Usernames",
+      "asset": {
+        "_class": "asset",
+        "id": 28380243,
+        "time_estimation": 734
+      },
+      "object_index": 158
+    },
+    {
+      "_class": "lecture",
+      "id": 22648737,
+      "title": "The filter Method",
+      "asset": {
+        "_class": "asset",
+        "id": 28380255,
+        "time_estimation": 379
+      },
+      "object_index": 159
+    },
+    {
+      "_class": "lecture",
+      "id": 22648743,
+      "title": "The reduce Method",
+      "asset": {
+        "_class": "asset",
+        "id": 28816954,
+        "time_estimation": 1257
+      },
+      "object_index": 160
+    },
+    {
+      "_class": "lecture",
+      "id": 22648747,
+      "title": "CHALLENGE #2",
+      "asset": {
+        "_class": "asset",
+        "id": 28380237,
+        "time_estimation": 596
+      },
+      "object_index": 161
+    },
+    {
+      "_class": "lecture",
+      "id": 22648751,
+      "title": "The Magic of Chaining Methods",
+      "asset": {
+        "_class": "asset",
+        "id": 28380229,
+        "time_estimation": 1179
+      },
+      "object_index": 162
+    },
+    {
+      "_class": "lecture",
+      "id": 22648753,
+      "title": "CHALLENGE #3",
+      "asset": {
+        "_class": "asset",
+        "id": 28380225,
+        "time_estimation": 237
+      },
+      "object_index": 163
+    },
+    {
+      "_class": "lecture",
+      "id": 22648757,
+      "title": "The find Method",
+      "asset": {
+        "_class": "asset",
+        "id": 28380235,
+        "time_estimation": 407
+      },
+      "object_index": 164
+    },
+    {
+      "_class": "lecture",
+      "id": 22648761,
+      "title": "Implementing Login",
+      "asset": {
+        "_class": "asset",
+        "id": 61014701,
+        "time_estimation": 1458
+      },
+      "object_index": 165
+    },
+    {
+      "_class": "lecture",
+      "id": 22648767,
+      "title": "Implementing Transfers",
+      "asset": {
+        "_class": "asset",
+        "id": 28380231,
+        "time_estimation": 1254
+      },
+      "object_index": 166
+    },
+    {
+      "_class": "lecture",
+      "id": 22648769,
+      "title": "The findIndex Method",
+      "asset": {
+        "_class": "asset",
+        "id": 28380223,
+        "time_estimation": 754
+      },
+      "object_index": 167
+    },
+    {
+      "_class": "lecture",
+      "id": 47394689,
+      "title": "The New findLast and findLastIndex Methods",
+      "asset": {
+        "_class": "asset",
+        "id": 61009317,
+        "time_estimation": 500
+      },
+      "object_index": 168
+    },
+    {
+      "_class": "lecture",
+      "id": 22648771,
+      "title": "some and every",
+      "asset": {
+        "_class": "asset",
+        "id": 30952988,
+        "time_estimation": 911
+      },
+      "object_index": 169
+    },
+    {
+      "_class": "lecture",
+      "id": 22648775,
+      "title": "flat and flatMap",
+      "asset": {
+        "_class": "asset",
+        "id": 30952990,
+        "time_estimation": 572
+      },
+      "object_index": 170
+    },
+    {
+      "_class": "lecture",
+      "id": 47394699,
+      "title": "CHALLENGE #4",
+      "asset": {
+        "_class": "asset",
+        "id": 61009311,
+        "time_estimation": 1444
+      },
+      "object_index": 171
+    },
+    {
+      "_class": "lecture",
+      "id": 22648779,
+      "title": "Sorting Arrays",
+      "asset": {
+        "_class": "asset",
+        "id": 61014717,
+        "time_estimation": 1315
+      },
+      "object_index": 172
+    },
+    {
+      "_class": "lecture",
+      "id": 47394707,
+      "title": "Array Grouping",
+      "asset": {
+        "_class": "asset",
+        "id": 61009321,
+        "time_estimation": 808
+      },
+      "object_index": 173
+    },
+    {
+      "_class": "lecture",
+      "id": 22648783,
+      "title": "More Ways of Creating and Filling Arrays",
+      "asset": {
+        "_class": "asset",
+        "id": 28380221,
+        "time_estimation": 1233
+      },
+      "object_index": 174
+    },
+    {
+      "_class": "lecture",
+      "id": 47394719,
+      "title": "Non-Destructive Alternatives: toReversed, toSorted, toSpliced, with",
+      "asset": {
+        "_class": "asset",
+        "id": 61009309,
+        "time_estimation": 361
+      },
+      "object_index": 175
+    },
+    {
+      "_class": "lecture",
+      "id": 22648787,
+      "title": "Summary: Which Array Method to Use?",
+      "asset": {
+        "_class": "asset",
+        "id": 61009313,
+        "time_estimation": 648
+      },
+      "object_index": 176
+    },
+    {
+      "_class": "lecture",
+      "id": 24606838,
+      "title": "Array Methods Practice",
+      "asset": {
+        "_class": "asset",
+        "id": 30952980,
+        "time_estimation": 1941
+      },
+      "object_index": 177
+    },
+    {
+      "_class": "lecture",
+      "id": 22648793,
+      "title": "CHALLENGE #5",
+      "asset": {
+        "_class": "asset",
+        "id": 61009305,
+        "time_estimation": 1711
+      },
+      "object_index": 178
+    },
+    {
+      "_class": "chapter",
+      "id": 5412077,
+      "title": "Numbers, Dates, Intl and Timers [PROJECT]",
+      "object_index": 12
+    },
+    {
+      "_class": "lecture",
+      "id": 22648869,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 28618531,
+        "time_estimation": 50
+      },
+      "object_index": 179
+    },
+    {
+      "_class": "lecture",
+      "id": 22663809,
+      "title": "Section Roadmap",
+      "asset": {
+        "_class": "asset",
+        "id": 28394507,
+        "time_estimation": 22
+      },
+      "object_index": 180
+    },
+    {
+      "_class": "lecture",
+      "id": 22648873,
+      "title": "Converting and Checking Numbers",
+      "asset": {
+        "_class": "asset",
+        "id": 28381319,
+        "time_estimation": 1006
+      },
+      "object_index": 181
+    },
+    {
+      "_class": "lecture",
+      "id": 22648879,
+      "title": "Math and Rounding",
+      "asset": {
+        "_class": "asset",
+        "id": 61009299,
+        "time_estimation": 1367
+      },
+      "object_index": 182
+    },
+    {
+      "_class": "lecture",
+      "id": 22648885,
+      "title": "The Remainder Operator",
+      "asset": {
+        "_class": "asset",
+        "id": 28381331,
+        "time_estimation": 656
+      },
+      "object_index": 183
+    },
+    {
+      "_class": "lecture",
+      "id": 29433416,
+      "title": "Numeric Separators",
+      "asset": {
+        "_class": "asset",
+        "id": 37454790,
+        "time_estimation": 417
+      },
+      "object_index": 184
+    },
+    {
+      "_class": "lecture",
+      "id": 22648887,
+      "title": "Working with BigInt",
+      "asset": {
+        "_class": "asset",
+        "id": 28381333,
+        "time_estimation": 678
+      },
+      "object_index": 185
+    },
+    {
+      "_class": "lecture",
+      "id": 22648895,
+      "title": "Creating Dates",
+      "asset": {
+        "_class": "asset",
+        "id": 28381317,
+        "time_estimation": 775
+      },
+      "object_index": 186
+    },
+    {
+      "_class": "lecture",
+      "id": 22648897,
+      "title": "Adding Dates to \"Bankist\" App",
+      "asset": {
+        "_class": "asset",
+        "id": 30952976,
+        "time_estimation": 1341
+      },
+      "object_index": 187
+    },
+    {
+      "_class": "lecture",
+      "id": 47394743,
+      "title": "Fixing a Sorting Bug",
+      "asset": {
+        "_class": "asset",
+        "id": 61009297,
+        "time_estimation": 653
+      },
+      "object_index": 188
+    },
+    {
+      "_class": "lecture",
+      "id": 22648905,
+      "title": "Operations With Dates",
+      "asset": {
+        "_class": "asset",
+        "id": 28381327,
+        "time_estimation": 927
+      },
+      "object_index": 189
+    },
+    {
+      "_class": "lecture",
+      "id": 22648909,
+      "title": "Internationalizing Dates (Intl)",
+      "asset": {
+        "_class": "asset",
+        "id": 28381321,
+        "time_estimation": 1038
+      },
+      "object_index": 190
+    },
+    {
+      "_class": "lecture",
+      "id": 22648915,
+      "title": "Internationalizing Numbers (Intl)",
+      "asset": {
+        "_class": "asset",
+        "id": 28381323,
+        "time_estimation": 1146
+      },
+      "object_index": 191
+    },
+    {
+      "_class": "lecture",
+      "id": 22648919,
+      "title": "Timers: setTimeout and setInterval",
+      "asset": {
+        "_class": "asset",
+        "id": 28381315,
+        "time_estimation": 833
+      },
+      "object_index": 192
+    },
+    {
+      "_class": "lecture",
+      "id": 22648921,
+      "title": "Implementing a Countdown Timer",
+      "asset": {
+        "_class": "asset",
+        "id": 28381325,
+        "time_estimation": 1711
+      },
+      "object_index": 193
+    },
+    {
+      "_class": "chapter",
+      "id": 5412113,
+      "title": "Advanced DOM and Events [PROJECT]",
+      "object_index": 13
+    },
+    {
+      "_class": "lecture",
+      "id": 22648929,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 28618557,
+        "time_estimation": 64
+      },
+      "object_index": 194
+    },
+    {
+      "_class": "lecture",
+      "id": 22663953,
+      "title": "Section Roadmap",
+      "asset": {
+        "_class": "asset",
+        "id": 28394747,
+        "time_estimation": 22
+      },
+      "object_index": 195
+    },
+    {
+      "_class": "lecture",
+      "id": 22648935,
+      "title": "PROJECT: \"Bankist\" Website",
+      "asset": {
+        "_class": "asset",
+        "id": 28392789,
+        "time_estimation": 529
+      },
+      "object_index": 196
+    },
+    {
+      "_class": "lecture",
+      "id": 22648939,
+      "title": "How the DOM Really Works",
+      "asset": {
+        "_class": "asset",
+        "id": 28392813,
+        "time_estimation": 636
+      },
+      "object_index": 197
+    },
+    {
+      "_class": "lecture",
+      "id": 22648947,
+      "title": "Selecting, Creating, and Deleting Elements",
+      "asset": {
+        "_class": "asset",
+        "id": 28392817,
+        "time_estimation": 1228
+      },
+      "object_index": 198
+    },
+    {
+      "_class": "lecture",
+      "id": 22648951,
+      "title": "Styles, Attributes and Classes",
+      "asset": {
+        "_class": "asset",
+        "id": 61014703,
+        "time_estimation": 1303
+      },
+      "object_index": 199
+    },
+    {
+      "_class": "lecture",
+      "id": 22648955,
+      "title": "Implementing Smooth Scrolling",
+      "asset": {
+        "_class": "asset",
+        "id": 61014705,
+        "time_estimation": 956
+      },
+      "object_index": 200
+    },
+    {
+      "_class": "lecture",
+      "id": 22648961,
+      "title": "Types of Events and Event Handlers",
+      "asset": {
+        "_class": "asset",
+        "id": 28392809,
+        "time_estimation": 633
+      },
+      "object_index": 201
+    },
+    {
+      "_class": "lecture",
+      "id": 22648965,
+      "title": "Event Propagation: Bubbling and Capturing",
+      "asset": {
+        "_class": "asset",
+        "id": 28392815,
+        "time_estimation": 303
+      },
+      "object_index": 202
+    },
+    {
+      "_class": "lecture",
+      "id": 22648969,
+      "title": "Event Propagation in Practice",
+      "asset": {
+        "_class": "asset",
+        "id": 28392807,
+        "time_estimation": 1066
+      },
+      "object_index": 203
+    },
+    {
+      "_class": "lecture",
+      "id": 22648971,
+      "title": "Event Delegation: Implementing Page Navigation",
+      "asset": {
+        "_class": "asset",
+        "id": 28392805,
+        "time_estimation": 1128
+      },
+      "object_index": 204
+    },
+    {
+      "_class": "lecture",
+      "id": 22648975,
+      "title": "DOM Traversing",
+      "asset": {
+        "_class": "asset",
+        "id": 28392801,
+        "time_estimation": 875
+      },
+      "object_index": 205
+    },
+    {
+      "_class": "lecture",
+      "id": 22648979,
+      "title": "Building a Tabbed Component",
+      "asset": {
+        "_class": "asset",
+        "id": 28392799,
+        "time_estimation": 1448
+      },
+      "object_index": 206
+    },
+    {
+      "_class": "lecture",
+      "id": 22648983,
+      "title": "Passing Arguments to Event Handlers",
+      "asset": {
+        "_class": "asset",
+        "id": 28392803,
+        "time_estimation": 1123
+      },
+      "object_index": 207
+    },
+    {
+      "_class": "lecture",
+      "id": 22648987,
+      "title": "Implementing a Sticky Navigation: The Scroll Event",
+      "asset": {
+        "_class": "asset",
+        "id": 28392797,
+        "time_estimation": 475
+      },
+      "object_index": 208
+    },
+    {
+      "_class": "lecture",
+      "id": 22648993,
+      "title": "A Better Way: The Intersection Observer API",
+      "asset": {
+        "_class": "asset",
+        "id": 30952968,
+        "time_estimation": 1440
+      },
+      "object_index": 209
+    },
+    {
+      "_class": "lecture",
+      "id": 22648995,
+      "title": "Revealing Elements on Scroll",
+      "asset": {
+        "_class": "asset",
+        "id": 28754456,
+        "time_estimation": 759
+      },
+      "object_index": 210
+    },
+    {
+      "_class": "lecture",
+      "id": 47394765,
+      "title": "Fixing a Small Scrolling Bug",
+      "asset": {
+        "_class": "asset",
+        "id": 61009303,
+        "time_estimation": 309
+      },
+      "object_index": 211
+    },
+    {
+      "_class": "lecture",
+      "id": 22648999,
+      "title": "Lazy Loading Images",
+      "asset": {
+        "_class": "asset",
+        "id": 28392783,
+        "time_estimation": 1110
+      },
+      "object_index": 212
+    },
+    {
+      "_class": "lecture",
+      "id": 22649001,
+      "title": "Building a Slider Component: Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 28392785,
+        "time_estimation": 1396
+      },
+      "object_index": 213
+    },
+    {
+      "_class": "lecture",
+      "id": 22649003,
+      "title": "Building a Slider Component: Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 61014693,
+        "time_estimation": 1175
+      },
+      "object_index": 214
+    },
+    {
+      "_class": "lecture",
+      "id": 22649007,
+      "title": "Lifecycle DOM Events",
+      "asset": {
+        "_class": "asset",
+        "id": 28392787,
+        "time_estimation": 566
+      },
+      "object_index": 215
+    },
+    {
+      "_class": "lecture",
+      "id": 22649011,
+      "title": "Efficient Script Loading: defer and async",
+      "asset": {
+        "_class": "asset",
+        "id": 28392821,
+        "time_estimation": 810
+      },
+      "object_index": 216
+    },
+    {
+      "_class": "chapter",
+      "id": 5412119,
+      "title": "Object-Oriented Programming (OOP) With JavaScript",
+      "object_index": 14
+    },
+    {
+      "_class": "lecture",
+      "id": 22649023,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 28618533,
+        "time_estimation": 66
+      },
+      "object_index": 217
+    },
+    {
+      "_class": "lecture",
+      "id": 22664029,
+      "title": "Section Roadmap",
+      "asset": {
+        "_class": "asset",
+        "id": 28394987,
+        "time_estimation": 22
+      },
+      "object_index": 218
+    },
+    {
+      "_class": "lecture",
+      "id": 22649033,
+      "title": "What is Object-Oriented Programming?",
+      "asset": {
+        "_class": "asset",
+        "id": 28382227,
+        "time_estimation": 1255
+      },
+      "object_index": 219
+    },
+    {
+      "_class": "lecture",
+      "id": 22649037,
+      "title": "OOP in JavaScript",
+      "asset": {
+        "_class": "asset",
+        "id": 28382261,
+        "time_estimation": 608
+      },
+      "object_index": 220
+    },
+    {
+      "_class": "lecture",
+      "id": 22649039,
+      "title": "Constructor Functions and the new Operator",
+      "asset": {
+        "_class": "asset",
+        "id": 28382253,
+        "time_estimation": 859
+      },
+      "object_index": 221
+    },
+    {
+      "_class": "lecture",
+      "id": 22649045,
+      "title": "Prototypes",
+      "asset": {
+        "_class": "asset",
+        "id": 28382255,
+        "time_estimation": 876
+      },
+      "object_index": 222
+    },
+    {
+      "_class": "lecture",
+      "id": 22649055,
+      "title": "Prototypal Inheritance and The Prototype Chain",
+      "asset": {
+        "_class": "asset",
+        "id": 28382249,
+        "time_estimation": 658
+      },
+      "object_index": 223
+    },
+    {
+      "_class": "lecture",
+      "id": 22649059,
+      "title": "Prototypal Inheritance on Built-In Objects",
+      "asset": {
+        "_class": "asset",
+        "id": 28382251,
+        "time_estimation": 886
+      },
+      "object_index": 224
+    },
+    {
+      "_class": "lecture",
+      "id": 22649063,
+      "title": "CHALLENGE #1",
+      "asset": {
+        "_class": "asset",
+        "id": 28382239,
+        "time_estimation": 447
+      },
+      "object_index": 225
+    },
+    {
+      "_class": "lecture",
+      "id": 22649069,
+      "title": "ES6 Classes",
+      "asset": {
+        "_class": "asset",
+        "id": 37454788,
+        "time_estimation": 777
+      },
+      "object_index": 226
+    },
+    {
+      "_class": "lecture",
+      "id": 22649073,
+      "title": "Setters and Getters",
+      "asset": {
+        "_class": "asset",
+        "id": 28382237,
+        "time_estimation": 795
+      },
+      "object_index": 227
+    },
+    {
+      "_class": "lecture",
+      "id": 22649077,
+      "title": "Static Methods",
+      "asset": {
+        "_class": "asset",
+        "id": 28382263,
+        "time_estimation": 384
+      },
+      "object_index": 228
+    },
+    {
+      "_class": "lecture",
+      "id": 22649081,
+      "title": "Object.create",
+      "asset": {
+        "_class": "asset",
+        "id": 28382257,
+        "time_estimation": 656
+      },
+      "object_index": 229
+    },
+    {
+      "_class": "lecture",
+      "id": 22649083,
+      "title": "CHALLENGE #2",
+      "asset": {
+        "_class": "asset",
+        "id": 28382247,
+        "time_estimation": 360
+      },
+      "object_index": 230
+    },
+    {
+      "_class": "lecture",
+      "id": 22649085,
+      "title": "Inheritance Between \"Classes\": Constructor Functions",
+      "asset": {
+        "_class": "asset",
+        "id": 28382245,
+        "time_estimation": 1263
+      },
+      "object_index": 231
+    },
+    {
+      "_class": "lecture",
+      "id": 22649087,
+      "title": "CHALLENGE #3",
+      "asset": {
+        "_class": "asset",
+        "id": 28382241,
+        "time_estimation": 637
+      },
+      "object_index": 232
+    },
+    {
+      "_class": "lecture",
+      "id": 22649089,
+      "title": "Inheritance Between \"Classes\": ES6 Classes",
+      "asset": {
+        "_class": "asset",
+        "id": 28382235,
+        "time_estimation": 646
+      },
+      "object_index": 233
+    },
+    {
+      "_class": "lecture",
+      "id": 22649093,
+      "title": "Inheritance Between \"Classes\": Object.create",
+      "asset": {
+        "_class": "asset",
+        "id": 30952982,
+        "time_estimation": 533
+      },
+      "object_index": 234
+    },
+    {
+      "_class": "lecture",
+      "id": 22649103,
+      "title": "Another Class Example",
+      "asset": {
+        "_class": "asset",
+        "id": 28382229,
+        "time_estimation": 644
+      },
+      "object_index": 235
+    },
+    {
+      "_class": "lecture",
+      "id": 22649111,
+      "title": "Encapsulation: Private Class Fields and Methods",
+      "asset": {
+        "_class": "asset",
+        "id": 61009301,
+        "time_estimation": 1249
+      },
+      "object_index": 236
+    },
+    {
+      "_class": "lecture",
+      "id": 22649117,
+      "title": "Chaining Methods",
+      "asset": {
+        "_class": "asset",
+        "id": 61009295,
+        "time_estimation": 444
+      },
+      "object_index": 237
+    },
+    {
+      "_class": "lecture",
+      "id": 22649125,
+      "title": "ES6 Classes Summary",
+      "asset": {
+        "_class": "asset",
+        "id": 28382233,
+        "time_estimation": 431
+      },
+      "object_index": 238
+    },
+    {
+      "_class": "lecture",
+      "id": 22649131,
+      "title": "CHALLENGE #4",
+      "asset": {
+        "_class": "asset",
+        "id": 28382221,
+        "time_estimation": 534
+      },
+      "object_index": 239
+    },
+    {
+      "_class": "chapter",
+      "id": 5412135,
+      "title": "Mapty App: OOP, Geolocation, External Libraries, and More! [PROJECT]",
+      "object_index": 15
+    },
+    {
+      "_class": "lecture",
+      "id": 22655623,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 28618539,
+        "time_estimation": 58
+      },
+      "object_index": 240
+    },
+    {
+      "_class": "lecture",
+      "id": 22664073,
+      "title": "Section Roadmap",
+      "asset": {
+        "_class": "asset",
+        "id": 28395029,
+        "time_estimation": 27
+      },
+      "object_index": 241
+    },
+    {
+      "_class": "lecture",
+      "id": 22649157,
+      "title": "Project Overview",
+      "asset": {
+        "_class": "asset",
+        "id": 28382537,
+        "time_estimation": 302
+      },
+      "object_index": 242
+    },
+    {
+      "_class": "lecture",
+      "id": 22649161,
+      "title": "How to Plan a Web Project",
+      "asset": {
+        "_class": "asset",
+        "id": 28382529,
+        "time_estimation": 1060
+      },
+      "object_index": 243
+    },
+    {
+      "id": 2723,
+      "title": "Help Maya Plan a Project",
+      "is_published": true,
+      "course_id": 851712,
+      "sort_order": 273,
+      "object_index": 3,
+      "_class": "role-play"
+    },
+    {
+      "_class": "lecture",
+      "id": 22649169,
+      "title": "Using the Geolocation API",
+      "asset": {
+        "_class": "asset",
+        "id": 28382541,
+        "time_estimation": 496
+      },
+      "object_index": 244
+    },
+    {
+      "_class": "lecture",
+      "id": 22649175,
+      "title": "Displaying a Map Using Leaflet Library",
+      "asset": {
+        "_class": "asset",
+        "id": 28382535,
+        "time_estimation": 828
+      },
+      "object_index": 245
+    },
+    {
+      "_class": "lecture",
+      "id": 22649193,
+      "title": "Displaying a Map Marker",
+      "asset": {
+        "_class": "asset",
+        "id": 28382549,
+        "time_estimation": 1194
+      },
+      "object_index": 246
+    },
+    {
+      "_class": "lecture",
+      "id": 22649207,
+      "title": "Rendering Workout Input Form",
+      "asset": {
+        "_class": "asset",
+        "id": 28382551,
+        "time_estimation": 1002
+      },
+      "object_index": 247
+    },
+    {
+      "_class": "lecture",
+      "id": 22649217,
+      "title": "Project Architecture",
+      "asset": {
+        "_class": "asset",
+        "id": 28382547,
+        "time_estimation": 568
+      },
+      "object_index": 248
+    },
+    {
+      "_class": "lecture",
+      "id": 22649229,
+      "title": "Refactoring for Project Architecture",
+      "asset": {
+        "_class": "asset",
+        "id": 28382543,
+        "time_estimation": 1445
+      },
+      "object_index": 249
+    },
+    {
+      "_class": "lecture",
+      "id": 22649233,
+      "title": "Managing Workout Data: Creating Classes",
+      "asset": {
+        "_class": "asset",
+        "id": 28382525,
+        "time_estimation": 978
+      },
+      "object_index": 250
+    },
+    {
+      "_class": "lecture",
+      "id": 22649243,
+      "title": "Creating a New Workout",
+      "asset": {
+        "_class": "asset",
+        "id": 61014715,
+        "time_estimation": 2046
+      },
+      "object_index": 251
+    },
+    {
+      "_class": "lecture",
+      "id": 22649249,
+      "title": "Rendering Workouts",
+      "asset": {
+        "_class": "asset",
+        "id": 28382539,
+        "time_estimation": 1459
+      },
+      "object_index": 252
+    },
+    {
+      "_class": "lecture",
+      "id": 22649253,
+      "title": "Move to Marker On Click",
+      "asset": {
+        "_class": "asset",
+        "id": 28382531,
+        "time_estimation": 992
+      },
+      "object_index": 253
+    },
+    {
+      "_class": "lecture",
+      "id": 22649259,
+      "title": "Working with localStorage",
+      "asset": {
+        "_class": "asset",
+        "id": 28382527,
+        "time_estimation": 1531
+      },
+      "object_index": 254
+    },
+    {
+      "_class": "lecture",
+      "id": 22649267,
+      "title": "Final Considerations",
+      "asset": {
+        "_class": "asset",
+        "id": 28382545,
+        "time_estimation": 341
+      },
+      "object_index": 255
+    },
+    {
+      "_class": "chapter",
+      "id": 5412157,
+      "title": "Asynchronous JavaScript: Promises, Async/Await, and AJAX",
+      "object_index": 16
+    },
+    {
+      "_class": "lecture",
+      "id": 22649275,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 28618537,
+        "time_estimation": 55
+      },
+      "object_index": 256
+    },
+    {
+      "_class": "lecture",
+      "id": 22664103,
+      "title": "Section Roadmap",
+      "asset": {
+        "_class": "asset",
+        "id": 28395103,
+        "time_estimation": 22
+      },
+      "object_index": 257
+    },
+    {
+      "_class": "lecture",
+      "id": 22649283,
+      "title": "Asynchronous JavaScript, AJAX and APIs",
+      "asset": {
+        "_class": "asset",
+        "id": 28384927,
+        "time_estimation": 1077
+      },
+      "object_index": 258
+    },
+    {
+      "_class": "lecture",
+      "id": 28841478,
+      "title": "IMPORTANT: API URL Change",
+      "asset": {
+        "_class": "asset",
+        "id": 48995238,
+        "time_estimation": 14
+      },
+      "object_index": 259
+    },
+    {
+      "_class": "lecture",
+      "id": 22649289,
+      "title": "Our First AJAX Call: XMLHttpRequest",
+      "asset": {
+        "_class": "asset",
+        "id": 61014711,
+        "time_estimation": 1223
+      },
+      "object_index": 260
+    },
+    {
+      "_class": "lecture",
+      "id": 22649297,
+      "title": "[OPTIONAL] How the Web Works: Requests and Responses",
+      "asset": {
+        "_class": "asset",
+        "id": 28384931,
+        "time_estimation": 818
+      },
+      "object_index": 261
+    },
+    {
+      "_class": "lecture",
+      "id": 22649301,
+      "title": "Welcome to Callback Hell",
+      "asset": {
+        "_class": "asset",
+        "id": 40882886,
+        "time_estimation": 832
+      },
+      "object_index": 262
+    },
+    {
+      "_class": "lecture",
+      "id": 22649313,
+      "title": "Promises and the Fetch API",
+      "asset": {
+        "_class": "asset",
+        "id": 61014709,
+        "time_estimation": 565
+      },
+      "object_index": 263
+    },
+    {
+      "_class": "lecture",
+      "id": 22649319,
+      "title": "Consuming Promises",
+      "asset": {
+        "_class": "asset",
+        "id": 28384951,
+        "time_estimation": 564
+      },
+      "object_index": 264
+    },
+    {
+      "_class": "lecture",
+      "id": 22649327,
+      "title": "Chaining Promises",
+      "asset": {
+        "_class": "asset",
+        "id": 40882888,
+        "time_estimation": 553
+      },
+      "object_index": 265
+    },
+    {
+      "_class": "lecture",
+      "id": 22649329,
+      "title": "Handling Rejected Promises",
+      "asset": {
+        "_class": "asset",
+        "id": 61014699,
+        "time_estimation": 961
+      },
+      "object_index": 266
+    },
+    {
+      "_class": "lecture",
+      "id": 22649335,
+      "title": "Throwing Errors Manually",
+      "asset": {
+        "_class": "asset",
+        "id": 28384935,
+        "time_estimation": 923
+      },
+      "object_index": 267
+    },
+    {
+      "_class": "lecture",
+      "id": 22649343,
+      "title": "CHALLENGE #1",
+      "asset": {
+        "_class": "asset",
+        "id": 61014695,
+        "time_estimation": 1013
+      },
+      "object_index": 268
+    },
+    {
+      "_class": "lecture",
+      "id": 22649347,
+      "title": "Asynchronous Behind the Scenes: The Event Loop",
+      "asset": {
+        "_class": "asset",
+        "id": 28384913,
+        "time_estimation": 1073
+      },
+      "object_index": 269
+    },
+    {
+      "_class": "lecture",
+      "id": 22649351,
+      "title": "The Event Loop in Practice",
+      "asset": {
+        "_class": "asset",
+        "id": 28384943,
+        "time_estimation": 555
+      },
+      "object_index": 270
+    },
+    {
+      "_class": "lecture",
+      "id": 22649357,
+      "title": "Building a Simple Promise",
+      "asset": {
+        "_class": "asset",
+        "id": 61014707,
+        "time_estimation": 1199
+      },
+      "object_index": 271
+    },
+    {
+      "_class": "lecture",
+      "id": 22649363,
+      "title": "Promisifying the Geolocation API",
+      "asset": {
+        "_class": "asset",
+        "id": 28384911,
+        "time_estimation": 806
+      },
+      "object_index": 272
+    },
+    {
+      "_class": "lecture",
+      "id": 22649367,
+      "title": "CHALLENGE #2",
+      "asset": {
+        "_class": "asset",
+        "id": 28384941,
+        "time_estimation": 953
+      },
+      "object_index": 273
+    },
+    {
+      "_class": "lecture",
+      "id": 22649375,
+      "title": "Consuming Promises with Async/Await",
+      "asset": {
+        "_class": "asset",
+        "id": 61014721,
+        "time_estimation": 906
+      },
+      "object_index": 274
+    },
+    {
+      "_class": "lecture",
+      "id": 22649379,
+      "title": "Error Handling With try...catch",
+      "asset": {
+        "_class": "asset",
+        "id": 30952974,
+        "time_estimation": 622
+      },
+      "object_index": 275
+    },
+    {
+      "_class": "lecture",
+      "id": 22649389,
+      "title": "Returning Values from Async Functions",
+      "asset": {
+        "_class": "asset",
+        "id": 28384947,
+        "time_estimation": 879
+      },
+      "object_index": 276
+    },
+    {
+      "_class": "lecture",
+      "id": 22649397,
+      "title": "Running Promises in Parallel",
+      "asset": {
+        "_class": "asset",
+        "id": 28384933,
+        "time_estimation": 656
+      },
+      "object_index": 277
+    },
+    {
+      "_class": "lecture",
+      "id": 22649405,
+      "title": "Other Promise Combinators: race, allSettled and any",
+      "asset": {
+        "_class": "asset",
+        "id": 28384929,
+        "time_estimation": 799
+      },
+      "object_index": 278
+    },
+    {
+      "_class": "lecture",
+      "id": 22649417,
+      "title": "CHALLENGE #3",
+      "asset": {
+        "_class": "asset",
+        "id": 28384939,
+        "time_estimation": 1050
+      },
+      "object_index": 279
+    },
+    {
+      "_class": "chapter",
+      "id": 5412197,
+      "title": "Modern JavaScript Development: Modules, Tooling, and Functional",
+      "object_index": 17
+    },
+    {
+      "_class": "lecture",
+      "id": 22649439,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 28618555,
+        "time_estimation": 47
+      },
+      "object_index": 280
+    },
+    {
+      "_class": "lecture",
+      "id": 22664143,
+      "title": "Section Roadmap",
+      "asset": {
+        "_class": "asset",
+        "id": 28395203,
+        "time_estimation": 22
+      },
+      "object_index": 281
+    },
+    {
+      "_class": "lecture",
+      "id": 22649441,
+      "title": "An Overview of Modern JavaScript Development",
+      "asset": {
+        "_class": "asset",
+        "id": 28454333,
+        "time_estimation": 398
+      },
+      "object_index": 282
+    },
+    {
+      "_class": "lecture",
+      "id": 22649453,
+      "title": "An Overview of Modules in JavaScript",
+      "asset": {
+        "_class": "asset",
+        "id": 28383395,
+        "time_estimation": 901
+      },
+      "object_index": 283
+    },
+    {
+      "_class": "lecture",
+      "id": 22649463,
+      "title": "Exporting and Importing in ES6 Modules",
+      "asset": {
+        "_class": "asset",
+        "id": 28383425,
+        "time_estimation": 1358
+      },
+      "object_index": 284
+    },
+    {
+      "_class": "lecture",
+      "id": 29433458,
+      "title": "Top-Level await (ES2022)",
+      "asset": {
+        "_class": "asset",
+        "id": 37454786,
+        "time_estimation": 884
+      },
+      "object_index": 285
+    },
+    {
+      "_class": "lecture",
+      "id": 22649469,
+      "title": "The Module Pattern",
+      "asset": {
+        "_class": "asset",
+        "id": 28383401,
+        "time_estimation": 619
+      },
+      "object_index": 286
+    },
+    {
+      "_class": "lecture",
+      "id": 22649477,
+      "title": "CommonJS Modules",
+      "asset": {
+        "_class": "asset",
+        "id": 28383423,
+        "time_estimation": 264
+      },
+      "object_index": 287
+    },
+    {
+      "_class": "lecture",
+      "id": 22649485,
+      "title": "A Brief Introduction to the Command Line",
+      "asset": {
+        "_class": "asset",
+        "id": 28383417,
+        "time_estimation": 747
+      },
+      "object_index": 288
+    },
+    {
+      "_class": "lecture",
+      "id": 22649495,
+      "title": "Introduction to NPM",
+      "asset": {
+        "_class": "asset",
+        "id": 28383413,
+        "time_estimation": 1120
+      },
+      "object_index": 289
+    },
+    {
+      "_class": "lecture",
+      "id": 22649501,
+      "title": "Bundling With Parcel and NPM Scripts",
+      "asset": {
+        "_class": "asset",
+        "id": 28383399,
+        "time_estimation": 1299
+      },
+      "object_index": 290
+    },
+    {
+      "_class": "lecture",
+      "id": 22649505,
+      "title": "Configuring Babel and Polyfilling",
+      "asset": {
+        "_class": "asset",
+        "id": 28383405,
+        "time_estimation": 1082
+      },
+      "object_index": 291
+    },
+    {
+      "_class": "lecture",
+      "id": 22649509,
+      "title": "Review: Writing Clean and Modern JavaScript",
+      "asset": {
+        "_class": "asset",
+        "id": 30952986,
+        "time_estimation": 626
+      },
+      "object_index": 292
+    },
+    {
+      "_class": "lecture",
+      "id": 22649513,
+      "title": "Let's Fix Some Bad Code: Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 30952966,
+        "time_estimation": 1400
+      },
+      "object_index": 293
+    },
+    {
+      "_class": "lecture",
+      "id": 24607008,
+      "title": "Declarative and Functional JavaScript Principles",
+      "asset": {
+        "_class": "asset",
+        "id": 30952978,
+        "time_estimation": 745
+      },
+      "object_index": 294
+    },
+    {
+      "_class": "lecture",
+      "id": 24607048,
+      "title": "Let's Fix Some Bad Code: Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 61014713,
+        "time_estimation": 2289
+      },
+      "object_index": 295
+    },
+    {
+      "_class": "chapter",
+      "id": 5412207,
+      "title": "Forkify App: Building a Modern Application [PROJECT]",
+      "object_index": 18
+    },
+    {
+      "_class": "lecture",
+      "id": 22649527,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 28618521,
+        "time_estimation": 56
+      },
+      "object_index": 296
+    },
+    {
+      "_class": "lecture",
+      "id": 22664157,
+      "title": "Section Roadmap",
+      "asset": {
+        "_class": "asset",
+        "id": 28395389,
+        "time_estimation": 27
+      },
+      "object_index": 297
+    },
+    {
+      "_class": "lecture",
+      "id": 22649531,
+      "title": "Project Overview and Planning (I)",
+      "asset": {
+        "_class": "asset",
+        "id": 61285383,
+        "time_estimation": 861
+      },
+      "object_index": 298
+    },
+    {
+      "_class": "lecture",
+      "id": 30760764,
+      "title": "Latest Code Updates (IMPORTANT!)",
+      "asset": {
+        "_class": "asset",
+        "id": 61287221,
+        "time_estimation": 55
+      },
+      "object_index": 299
+    },
+    {
+      "_class": "lecture",
+      "id": 22649535,
+      "title": "Loading a Recipe from API",
+      "asset": {
+        "_class": "asset",
+        "id": 61285385,
+        "time_estimation": 1451
+      },
+      "object_index": 300
+    },
+    {
+      "_class": "lecture",
+      "id": 22649543,
+      "title": "Rendering the Recipe",
+      "asset": {
+        "_class": "asset",
+        "id": 28393303,
+        "time_estimation": 1343
+      },
+      "object_index": 301
+    },
+    {
+      "_class": "lecture",
+      "id": 22649549,
+      "title": "Listening For load and hashchange Events",
+      "asset": {
+        "_class": "asset",
+        "id": 28393309,
+        "time_estimation": 662
+      },
+      "object_index": 302
+    },
+    {
+      "_class": "lecture",
+      "id": 22649553,
+      "title": "The MVC Architecture",
+      "asset": {
+        "_class": "asset",
+        "id": 28393291,
+        "time_estimation": 992
+      },
+      "object_index": 303
+    },
+    {
+      "_class": "lecture",
+      "id": 22649559,
+      "title": "Refactoring for MVC",
+      "asset": {
+        "_class": "asset",
+        "id": 28393297,
+        "time_estimation": 2333
+      },
+      "object_index": 304
+    },
+    {
+      "_class": "lecture",
+      "id": 22649563,
+      "title": "Helpers and Configuration Files",
+      "asset": {
+        "_class": "asset",
+        "id": 28393311,
+        "time_estimation": 1283
+      },
+      "object_index": 305
+    },
+    {
+      "_class": "lecture",
+      "id": 22649567,
+      "title": "Event Handlers in MVC: Publisher-Subscriber Pattern",
+      "asset": {
+        "_class": "asset",
+        "id": 28393307,
+        "time_estimation": 908
+      },
+      "object_index": 306
+    },
+    {
+      "_class": "lecture",
+      "id": 22649573,
+      "title": "Implementing Error and Success Messages",
+      "asset": {
+        "_class": "asset",
+        "id": 28393289,
+        "time_estimation": 694
+      },
+      "object_index": 307
+    },
+    {
+      "_class": "lecture",
+      "id": 22649575,
+      "title": "Implementing Search Results - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 28393295,
+        "time_estimation": 1546
+      },
+      "object_index": 308
+    },
+    {
+      "_class": "lecture",
+      "id": 22649583,
+      "title": "Implementing Search Results - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 28393301,
+        "time_estimation": 1695
+      },
+      "object_index": 309
+    },
+    {
+      "_class": "lecture",
+      "id": 22649591,
+      "title": "Implementing Pagination - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 28393299,
+        "time_estimation": 738
+      },
+      "object_index": 310
+    },
+    {
+      "_class": "lecture",
+      "id": 22649599,
+      "title": "Implementing Pagination - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 28393391,
+        "time_estimation": 2225
+      },
+      "object_index": 311
+    },
+    {
+      "_class": "lecture",
+      "id": 22649609,
+      "title": "Project Planning II",
+      "asset": {
+        "_class": "asset",
+        "id": 28393403,
+        "time_estimation": 193
+      },
+      "object_index": 312
+    },
+    {
+      "_class": "lecture",
+      "id": 22649617,
+      "title": "Updating Recipe Servings",
+      "asset": {
+        "_class": "asset",
+        "id": 28393405,
+        "time_estimation": 1600
+      },
+      "object_index": 313
+    },
+    {
+      "_class": "lecture",
+      "id": 22649619,
+      "title": "Developing a DOM Updating Algorithm",
+      "asset": {
+        "_class": "asset",
+        "id": 28393397,
+        "time_estimation": 2062
+      },
+      "object_index": 314
+    },
+    {
+      "_class": "lecture",
+      "id": 22649625,
+      "title": "Implementing Bookmarks - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 28784368,
+        "time_estimation": 1559
+      },
+      "object_index": 315
+    },
+    {
+      "_class": "lecture",
+      "id": 22649629,
+      "title": "Implementing Bookmarks - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 28393393,
+        "time_estimation": 1111
+      },
+      "object_index": 316
+    },
+    {
+      "_class": "lecture",
+      "id": 22649633,
+      "title": "Storing Bookmarks With localStorage",
+      "asset": {
+        "_class": "asset",
+        "id": 28393401,
+        "time_estimation": 1102
+      },
+      "object_index": 317
+    },
+    {
+      "_class": "lecture",
+      "id": 22649635,
+      "title": "Project Planning III",
+      "asset": {
+        "_class": "asset",
+        "id": 28393399,
+        "time_estimation": 128
+      },
+      "object_index": 318
+    },
+    {
+      "_class": "lecture",
+      "id": 22649637,
+      "title": "Uploading a New Recipe - Part 1",
+      "asset": {
+        "_class": "asset",
+        "id": 28393407,
+        "time_estimation": 1063
+      },
+      "object_index": 319
+    },
+    {
+      "_class": "lecture",
+      "id": 22649641,
+      "title": "Uploading a New Recipe - Part 2",
+      "asset": {
+        "_class": "asset",
+        "id": 28393389,
+        "time_estimation": 2437
+      },
+      "object_index": 320
+    },
+    {
+      "_class": "lecture",
+      "id": 22649645,
+      "title": "Uploading a New Recipe - Part 3",
+      "asset": {
+        "_class": "asset",
+        "id": 28393385,
+        "time_estimation": 1198
+      },
+      "object_index": 321
+    },
+    {
+      "_class": "lecture",
+      "id": 22649649,
+      "title": "Wrapping Up: Final Considerations",
+      "asset": {
+        "_class": "asset",
+        "id": 28393387,
+        "time_estimation": 885
+      },
+      "object_index": 322
+    },
+    {
+      "_class": "chapter",
+      "id": 5412221,
+      "title": "Setting Up Git and Deployment",
+      "object_index": 19
+    },
+    {
+      "_class": "lecture",
+      "id": 22649659,
+      "title": "Section Intro",
+      "asset": {
+        "_class": "asset",
+        "id": 28618525,
+        "time_estimation": 44
+      },
+      "object_index": 323
+    },
+    {
+      "_class": "lecture",
+      "id": 22664253,
+      "title": "Section Roadmap",
+      "asset": {
+        "_class": "asset",
+        "id": 28395567,
+        "time_estimation": 22
+      },
+      "object_index": 324
+    },
+    {
+      "_class": "lecture",
+      "id": 22649661,
+      "title": "Simple Deployment With Netlify",
+      "asset": {
+        "_class": "asset",
+        "id": 28383409,
+        "time_estimation": 678
+      },
+      "object_index": 325
+    },
+    {
+      "_class": "lecture",
+      "id": 22649665,
+      "title": "Setting Up Git and GitHub",
+      "asset": {
+        "_class": "asset",
+        "id": 28383415,
+        "time_estimation": 459
+      },
+      "object_index": 326
+    },
+    {
+      "_class": "lecture",
+      "id": 22649671,
+      "title": "Git Fundamentals",
+      "asset": {
+        "_class": "asset",
+        "id": 28383419,
+        "time_estimation": 1176
+      },
+      "object_index": 327
+    },
+    {
+      "_class": "lecture",
+      "id": 22649675,
+      "title": "Pushing to GitHub",
+      "asset": {
+        "_class": "asset",
+        "id": 28383411,
+        "time_estimation": 570
+      },
+      "object_index": 328
+    },
+    {
+      "_class": "lecture",
+      "id": 22649681,
+      "title": "Setting Up Continuous Integration With Netlify",
+      "asset": {
+        "_class": "asset",
+        "id": 28383421,
+        "time_estimation": 606
+      },
+      "object_index": 329
+    },
+    {
+      "_class": "chapter",
+      "id": 5412243,
+      "title": "The End!",
+      "object_index": 20
+    },
+    {
+      "_class": "lecture",
+      "id": 22649727,
+      "title": "Where to Go from Here",
+      "asset": {
+        "_class": "asset",
+        "id": 28618553,
+        "time_estimation": 180
+      },
+      "object_index": 330
+    },
+    {
+      "_class": "lecture",
+      "id": 5885210,
+      "title": "My Other Courses + Updates",
+      "asset": {
+        "_class": "asset",
+        "id": 52684556,
+        "time_estimation": 69
+      },
+      "object_index": 331
+    },
+    {
+      "_class": "chapter",
+      "id": 5462549,
+      "title": "[LEGACY] Access the Old Course",
+      "object_index": 21
+    },
+    {
+      "_class": "lecture",
+      "id": 22857627,
+      "title": "Access the Old Course",
+      "asset": {
+        "_class": "asset",
+        "id": 28670130,
+        "time_estimation": 51
+      },
+      "object_index": 332
+    }
+  ]
+}
