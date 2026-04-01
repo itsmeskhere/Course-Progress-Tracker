@@ -10,7 +10,8 @@
       "sort_order": 243,
       "title": "Welcome, Welcome, Welcome!",
       "description": "",
-      "is_published": true
+      "is_published": true,
+      "object_index": 1
     },
     {
       "_class": "lecture",
@@ -30,7 +31,8 @@
         "title": "C05-S01-L01.mp4",
         "created": "2019-06-23T21:04:31Z"
       },
-      "sort_order": 242
+      "sort_order": 242,
+      "object_index": 1
     },
     {
       "_class": "lecture",
@@ -50,7 +52,8 @@
         "title": "",
         "created": "2024-11-08T13:25:00Z"
       },
-      "sort_order": 241
+      "sort_order": 241,
+      "object_index": 2
     },
     {
       "_class": "lecture",
@@ -70,7 +73,8 @@
         "title": "C05-S01-L02.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 240
+      "sort_order": 240,
+      "object_index": 3
     },
     {
       "_class": "chapter",
@@ -79,7 +83,8 @@
       "sort_order": 239,
       "title": "Introduction to Node.js and NPM",
       "description": "",
-      "is_published": true
+      "is_published": true,
+      "object_index": 2
     },
     {
       "_class": "lecture",
@@ -99,7 +104,8 @@
         "title": "C05-S02-L01.mp4",
         "created": "2019-06-23T12:54:42Z"
       },
-      "sort_order": 238
+      "sort_order": 238,
+      "object_index": 4
     },
     {
       "_class": "lecture",
@@ -119,7 +125,8 @@
         "title": "C05-S02-L02.mp4",
         "created": "2019-06-11T17:31:04Z"
       },
-      "sort_order": 237
+      "sort_order": 237,
+      "object_index": 5
     },
     {
       "_class": "lecture",
@@ -139,7 +146,8 @@
         "title": "C05-S02-L03.mp4",
         "created": "2019-06-11T17:31:04Z"
       },
-      "sort_order": 236
+      "sort_order": 236,
+      "object_index": 6
     },
     {
       "_class": "lecture",
@@ -159,7 +167,8 @@
         "title": "C05-S02-L04.mp4",
         "created": "2019-06-11T17:31:04Z"
       },
-      "sort_order": 235
+      "sort_order": 235,
+      "object_index": 7
     },
     {
       "_class": "lecture",
@@ -179,7 +188,8 @@
         "title": "C05-S02-L05.mp4",
         "created": "2019-06-11T17:31:04Z"
       },
-      "sort_order": 234
+      "sort_order": 234,
+      "object_index": 8
     },
     {
       "_class": "lecture",
@@ -199,7 +209,8 @@
         "title": "C05-S02-L06.mp4",
         "created": "2019-06-11T17:31:04Z"
       },
-      "sort_order": 233
+      "sort_order": 233,
+      "object_index": 9
     },
     {
       "_class": "lecture",
@@ -219,7 +230,8 @@
         "title": "C05-S02-L07.mp4",
         "created": "2019-06-11T17:31:04Z"
       },
-      "sort_order": 232
+      "sort_order": 232,
+      "object_index": 10
     },
     {
       "_class": "lecture",
@@ -239,7 +251,8 @@
         "title": "C05-S02-L08.mp4",
         "created": "2019-06-11T17:31:03Z"
       },
-      "sort_order": 231
+      "sort_order": 231,
+      "object_index": 11
     },
     {
       "_class": "lecture",
@@ -259,7 +272,8 @@
         "title": "C05-S02-L09.mp4",
         "created": "2019-06-11T17:31:04Z"
       },
-      "sort_order": 230
+      "sort_order": 230,
+      "object_index": 12
     },
     {
       "_class": "lecture",
@@ -279,7 +293,8 @@
         "title": "C05-S02-L10.mp4",
         "created": "2019-06-11T17:31:04Z"
       },
-      "sort_order": 229
+      "sort_order": 229,
+      "object_index": 13
     },
     {
       "_class": "lecture",
@@ -299,7 +314,8 @@
         "title": "C05-S02-L11.mp4",
         "created": "2019-06-11T17:31:04Z"
       },
-      "sort_order": 228
+      "sort_order": 228,
+      "object_index": 14
     },
     {
       "_class": "lecture",
@@ -319,7 +335,8 @@
         "title": "C05-S02-L12.mp4",
         "created": "2019-06-11T17:31:03Z"
       },
-      "sort_order": 227
+      "sort_order": 227,
+      "object_index": 15
     },
     {
       "_class": "lecture",
@@ -339,7 +356,8 @@
         "title": "C05-S02-L13.mp4",
         "created": "2019-06-11T17:31:03Z"
       },
-      "sort_order": 226
+      "sort_order": 226,
+      "object_index": 16
     },
     {
       "_class": "lecture",
@@ -359,7 +377,8 @@
         "title": "C05-S02-L14.mp4",
         "created": "2019-06-11T17:31:03Z"
       },
-      "sort_order": 225
+      "sort_order": 225,
+      "object_index": 17
     },
     {
       "_class": "lecture",
@@ -379,7 +398,8 @@
         "title": "C05-S02-L15.mp4",
         "created": "2019-06-11T17:31:04Z"
       },
-      "sort_order": 224
+      "sort_order": 224,
+      "object_index": 18
     },
     {
       "_class": "lecture",
@@ -399,7 +419,8 @@
         "title": "C05-S02-L16.mp4",
         "created": "2019-06-11T17:31:03Z"
       },
-      "sort_order": 223
+      "sort_order": 223,
+      "object_index": 19
     },
     {
       "_class": "lecture",
@@ -419,7 +440,8 @@
         "title": "C05-S02-L17.mp4",
         "created": "2019-06-11T17:31:03Z"
       },
-      "sort_order": 222
+      "sort_order": 222,
+      "object_index": 20
     },
     {
       "_class": "lecture",
@@ -439,7 +461,8 @@
         "title": "C05-S02-L18.mp4",
         "created": "2019-06-11T17:31:04Z"
       },
-      "sort_order": 221
+      "sort_order": 221,
+      "object_index": 21
     },
     {
       "_class": "lecture",
@@ -459,7 +482,8 @@
         "title": "C05-S02-L19.mp4",
         "created": "2019-06-11T17:31:03Z"
       },
-      "sort_order": 220
+      "sort_order": 220,
+      "object_index": 22
     },
     {
       "_class": "lecture",
@@ -479,7 +503,8 @@
         "title": "C05-S02-L20.mp4",
         "created": "2019-06-11T17:31:04Z"
       },
-      "sort_order": 219
+      "sort_order": 219,
+      "object_index": 23
     },
     {
       "_class": "chapter",
@@ -488,7 +513,8 @@
       "sort_order": 218,
       "title": "Introduction to Back-End Web Development",
       "description": "",
-      "is_published": true
+      "is_published": true,
+      "object_index": 3
     },
     {
       "_class": "lecture",
@@ -508,7 +534,8 @@
         "title": "C05-S03-L01.mp4",
         "created": "2019-06-23T12:54:41Z"
       },
-      "sort_order": 217
+      "sort_order": 217,
+      "object_index": 24
     },
     {
       "_class": "lecture",
@@ -528,7 +555,8 @@
         "title": "C05-S03-L02.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 216
+      "sort_order": 216,
+      "object_index": 25
     },
     {
       "_class": "lecture",
@@ -548,7 +576,8 @@
         "title": "C05-S03-L03.mp4",
         "created": "2019-06-10T13:27:16Z"
       },
-      "sort_order": 215
+      "sort_order": 215,
+      "object_index": 26
     },
     {
       "_class": "lecture",
@@ -568,7 +597,8 @@
         "title": "C05-S03-L04.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 214
+      "sort_order": 214,
+      "object_index": 27
     },
     {
       "_class": "lecture",
@@ -588,7 +618,8 @@
         "title": "C05-S03-L05.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 213
+      "sort_order": 213,
+      "object_index": 28
     },
     {
       "_class": "chapter",
@@ -597,7 +628,8 @@
       "sort_order": 212,
       "title": "How Node.js Works: A Look Behind the Scenes",
       "description": "",
-      "is_published": true
+      "is_published": true,
+      "object_index": 4
     },
     {
       "_class": "lecture",
@@ -617,7 +649,8 @@
         "title": "C05-S04-L01.mp4",
         "created": "2019-06-23T12:54:41Z"
       },
-      "sort_order": 211
+      "sort_order": 211,
+      "object_index": 29
     },
     {
       "_class": "lecture",
@@ -637,7 +670,8 @@
         "title": "C05-S04-L02.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 210
+      "sort_order": 210,
+      "object_index": 30
     },
     {
       "_class": "lecture",
@@ -657,7 +691,8 @@
         "title": "C05-S04-L03.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 209
+      "sort_order": 209,
+      "object_index": 31
     },
     {
       "_class": "lecture",
@@ -677,7 +712,8 @@
         "title": "C05-S04-L04.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 208
+      "sort_order": 208,
+      "object_index": 32
     },
     {
       "_class": "lecture",
@@ -697,7 +733,8 @@
         "title": "C05-S04-L05.mp4",
         "created": "2019-06-08T10:11:07Z"
       },
-      "sort_order": 207
+      "sort_order": 207,
+      "object_index": 33
     },
     {
       "_class": "lecture",
@@ -717,7 +754,8 @@
         "title": "C05-S04-L06.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 206
+      "sort_order": 206,
+      "object_index": 34
     },
     {
       "_class": "lecture",
@@ -737,7 +775,8 @@
         "title": "C05-S04-L07.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 205
+      "sort_order": 205,
+      "object_index": 35
     },
     {
       "_class": "lecture",
@@ -757,7 +796,8 @@
         "title": "C05-S04-L08.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 204
+      "sort_order": 204,
+      "object_index": 36
     },
     {
       "_class": "lecture",
@@ -777,7 +817,8 @@
         "title": "C05-S04-L09.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 203
+      "sort_order": 203,
+      "object_index": 37
     },
     {
       "_class": "lecture",
@@ -797,7 +838,8 @@
         "title": "C05-S04-L10.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 202
+      "sort_order": 202,
+      "object_index": 38
     },
     {
       "_class": "lecture",
@@ -817,7 +859,8 @@
         "title": "C05-S04-L11.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 201
+      "sort_order": 201,
+      "object_index": 39
     },
     {
       "_class": "chapter",
@@ -826,7 +869,8 @@
       "sort_order": 200,
       "title": "[Optional] Asynchronous JavaScript: Promises and Async/Await",
       "description": "",
-      "is_published": true
+      "is_published": true,
+      "object_index": 5
     },
     {
       "_class": "lecture",
@@ -846,7 +890,8 @@
         "title": "C05-S05-L01.mp4",
         "created": "2019-06-23T12:54:42Z"
       },
-      "sort_order": 199
+      "sort_order": 199,
+      "object_index": 40
     },
     {
       "_class": "lecture",
@@ -866,7 +911,8 @@
         "title": "C05-S05-L02.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 198
+      "sort_order": 198,
+      "object_index": 41
     },
     {
       "_class": "lecture",
@@ -886,7 +932,8 @@
         "title": "C05-S05-L03.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 197
+      "sort_order": 197,
+      "object_index": 42
     },
     {
       "_class": "lecture",
@@ -906,7 +953,8 @@
         "title": "C05-S05-L04.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 196
+      "sort_order": 196,
+      "object_index": 43
     },
     {
       "_class": "lecture",
@@ -926,7 +974,8 @@
         "title": "C05-S05-L05.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 195
+      "sort_order": 195,
+      "object_index": 44
     },
     {
       "_class": "lecture",
@@ -946,7 +995,8 @@
         "title": "C05-S05-L06.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 194
+      "sort_order": 194,
+      "object_index": 45
     },
     {
       "_class": "lecture",
@@ -966,7 +1016,8 @@
         "title": "C05-S05-L07.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 193
+      "sort_order": 193,
+      "object_index": 46
     },
     {
       "_class": "chapter",
@@ -975,7 +1026,8 @@
       "sort_order": 192,
       "title": "Express: Let's Start Building the Natours API!",
       "description": "",
-      "is_published": true
+      "is_published": true,
+      "object_index": 6
     },
     {
       "_class": "lecture",
@@ -995,7 +1047,8 @@
         "title": "C05-S06-L01.mp4",
         "created": "2019-06-23T12:54:41Z"
       },
-      "sort_order": 191
+      "sort_order": 191,
+      "object_index": 47
     },
     {
       "_class": "lecture",
@@ -1015,7 +1068,8 @@
         "title": "C05-S06-L02.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 190
+      "sort_order": 190,
+      "object_index": 48
     },
     {
       "_class": "lecture",
@@ -1035,7 +1089,8 @@
         "title": "C05-S06-L03.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 189
+      "sort_order": 189,
+      "object_index": 49
     },
     {
       "_class": "lecture",
@@ -1055,7 +1110,8 @@
         "title": "C05-S06-L04.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 188
+      "sort_order": 188,
+      "object_index": 50
     },
     {
       "_class": "lecture",
@@ -1075,7 +1131,8 @@
         "title": "C05-S06-L05.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 187
+      "sort_order": 187,
+      "object_index": 51
     },
     {
       "_class": "lecture",
@@ -1095,7 +1152,8 @@
         "title": "C05-S06-L06.mp4",
         "created": "2019-06-08T10:11:07Z"
       },
-      "sort_order": 186
+      "sort_order": 186,
+      "object_index": 52
     },
     {
       "_class": "lecture",
@@ -1115,7 +1173,8 @@
         "title": "C05-S06-L07.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 185
+      "sort_order": 185,
+      "object_index": 53
     },
     {
       "_class": "lecture",
@@ -1135,7 +1194,8 @@
         "title": "C05-S06-L08.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 184
+      "sort_order": 184,
+      "object_index": 54
     },
     {
       "_class": "lecture",
@@ -1155,7 +1215,8 @@
         "title": "C05-S06-L09.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 183
+      "sort_order": 183,
+      "object_index": 55
     },
     {
       "_class": "lecture",
@@ -1175,7 +1236,8 @@
         "title": "C05-S06-L10.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 182
+      "sort_order": 182,
+      "object_index": 56
     },
     {
       "_class": "lecture",
@@ -1195,7 +1257,8 @@
         "title": "C05-S06-L11.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 181
+      "sort_order": 181,
+      "object_index": 57
     },
     {
       "_class": "lecture",
@@ -1215,7 +1278,8 @@
         "title": "C05-S06-L12.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 180
+      "sort_order": 180,
+      "object_index": 58
     },
     {
       "_class": "lecture",
@@ -1235,7 +1299,8 @@
         "title": "C05-S06-L13.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 179
+      "sort_order": 179,
+      "object_index": 59
     },
     {
       "_class": "lecture",
@@ -1255,7 +1320,8 @@
         "title": "C05-S06-L14.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 178
+      "sort_order": 178,
+      "object_index": 60
     },
     {
       "_class": "lecture",
@@ -1275,7 +1341,8 @@
         "title": "C05-S06-L15.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 177
+      "sort_order": 177,
+      "object_index": 61
     },
     {
       "_class": "lecture",
@@ -1295,7 +1362,8 @@
         "title": "C05-S06-L16.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 176
+      "sort_order": 176,
+      "object_index": 62
     },
     {
       "_class": "lecture",
@@ -1315,7 +1383,8 @@
         "title": "C05-S06-L17.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 175
+      "sort_order": 175,
+      "object_index": 63
     },
     {
       "_class": "lecture",
@@ -1335,7 +1404,8 @@
         "title": "C05-S06-L18.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 174
+      "sort_order": 174,
+      "object_index": 64
     },
     {
       "_class": "lecture",
@@ -1355,7 +1425,8 @@
         "title": "C05-S06-L19.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 173
+      "sort_order": 173,
+      "object_index": 65
     },
     {
       "_class": "lecture",
@@ -1375,7 +1446,8 @@
         "title": "C05-S06-L20.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 172
+      "sort_order": 172,
+      "object_index": 66
     },
     {
       "_class": "lecture",
@@ -1395,7 +1467,8 @@
         "title": "C05-S06-L21.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 171
+      "sort_order": 171,
+      "object_index": 67
     },
     {
       "_class": "lecture",
@@ -1415,7 +1488,8 @@
         "title": "C05-S06-L22.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 170
+      "sort_order": 170,
+      "object_index": 68
     },
     {
       "_class": "chapter",
@@ -1424,7 +1498,8 @@
       "sort_order": 169,
       "title": "Introduction to MongoDB",
       "description": "",
-      "is_published": true
+      "is_published": true,
+      "object_index": 7
     },
     {
       "_class": "lecture",
@@ -1444,7 +1519,8 @@
         "title": "C05-S07-L01.mp4",
         "created": "2019-06-23T12:54:41Z"
       },
-      "sort_order": 168
+      "sort_order": 168,
+      "object_index": 69
     },
     {
       "_class": "lecture",
@@ -1464,7 +1540,8 @@
         "title": "C05-S07-L02.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 167
+      "sort_order": 167,
+      "object_index": 70
     },
     {
       "_class": "lecture",
@@ -1484,7 +1561,8 @@
         "title": "",
         "created": "2022-11-07T08:06:48Z"
       },
-      "sort_order": 166
+      "sort_order": 166,
+      "object_index": 71
     },
     {
       "_class": "lecture",
@@ -1504,7 +1582,8 @@
         "title": "C05-S07-L03.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 165
+      "sort_order": 165,
+      "object_index": 72
     },
     {
       "_class": "lecture",
@@ -1524,7 +1603,8 @@
         "title": "C05-S07-L04.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 164
+      "sort_order": 164,
+      "object_index": 73
     },
     {
       "_class": "lecture",
@@ -1544,7 +1624,8 @@
         "title": "C05-S07-L05.mp4",
         "created": "2019-06-08T10:11:07Z"
       },
-      "sort_order": 163
+      "sort_order": 163,
+      "object_index": 74
     },
     {
       "_class": "lecture",
@@ -1564,7 +1645,8 @@
         "title": "C05-S07-L06.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 162
+      "sort_order": 162,
+      "object_index": 75
     },
     {
       "_class": "lecture",
@@ -1584,7 +1666,8 @@
         "title": "C05-S07-L07.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 161
+      "sort_order": 161,
+      "object_index": 76
     },
     {
       "_class": "lecture",
@@ -1604,7 +1687,8 @@
         "title": "C05-S07-L08.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 160
+      "sort_order": 160,
+      "object_index": 77
     },
     {
       "_class": "lecture",
@@ -1624,7 +1708,8 @@
         "title": "C05-S07-L09.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 159
+      "sort_order": 159,
+      "object_index": 78
     },
     {
       "_class": "lecture",
@@ -1644,7 +1729,8 @@
         "title": "C05-S07-L10.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 158
+      "sort_order": 158,
+      "object_index": 79
     },
     {
       "_class": "lecture",
@@ -1664,7 +1750,8 @@
         "title": "C05-S07-L11.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 157
+      "sort_order": 157,
+      "object_index": 80
     },
     {
       "_class": "lecture",
@@ -1684,7 +1771,8 @@
         "title": "C05-S07-L12.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 156
+      "sort_order": 156,
+      "object_index": 81
     },
     {
       "_class": "chapter",
@@ -1693,7 +1781,8 @@
       "sort_order": 155,
       "title": "Using MongoDB with Mongoose",
       "description": "",
-      "is_published": true
+      "is_published": true,
+      "object_index": 8
     },
     {
       "_class": "lecture",
@@ -1713,7 +1802,8 @@
         "title": "C05-S08-L01.mp4",
         "created": "2019-06-23T12:54:41Z"
       },
-      "sort_order": 154
+      "sort_order": 154,
+      "object_index": 82
     },
     {
       "_class": "lecture",
@@ -1733,7 +1823,8 @@
         "title": "C05-S08-L02.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 153
+      "sort_order": 153,
+      "object_index": 83
     },
     {
       "_class": "lecture",
@@ -1753,7 +1844,8 @@
         "title": "C05-S08-L03.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 152
+      "sort_order": 152,
+      "object_index": 84
     },
     {
       "_class": "lecture",
@@ -1773,7 +1865,8 @@
         "title": "C05-S08-L04.mp4",
         "created": "2019-06-08T10:11:07Z"
       },
-      "sort_order": 151
+      "sort_order": 151,
+      "object_index": 85
     },
     {
       "_class": "lecture",
@@ -1793,7 +1886,8 @@
         "title": "C05-S08-L05.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 150
+      "sort_order": 150,
+      "object_index": 86
     },
     {
       "_class": "lecture",
@@ -1813,7 +1907,8 @@
         "title": "C05-S08-L06.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 149
+      "sort_order": 149,
+      "object_index": 87
     },
     {
       "_class": "lecture",
@@ -1833,7 +1928,8 @@
         "title": "C05-S08-L07.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 148
+      "sort_order": 148,
+      "object_index": 88
     },
     {
       "_class": "lecture",
@@ -1853,7 +1949,8 @@
         "title": "C05-S08-L08.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 147
+      "sort_order": 147,
+      "object_index": 89
     },
     {
       "_class": "lecture",
@@ -1873,7 +1970,8 @@
         "title": "C05-S08-L09.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 146
+      "sort_order": 146,
+      "object_index": 90
     },
     {
       "_class": "lecture",
@@ -1893,7 +1991,8 @@
         "title": "C05-S08-L10.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 145
+      "sort_order": 145,
+      "object_index": 91
     },
     {
       "_class": "lecture",
@@ -1913,7 +2012,8 @@
         "title": "C05-S08-L11.mp4",
         "created": "2019-06-08T10:11:07Z"
       },
-      "sort_order": 144
+      "sort_order": 144,
+      "object_index": 92
     },
     {
       "_class": "lecture",
@@ -1933,7 +2033,8 @@
         "title": "C05-S08-L12.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 143
+      "sort_order": 143,
+      "object_index": 93
     },
     {
       "_class": "lecture",
@@ -1953,7 +2054,8 @@
         "title": "C05-S08-L13.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 142
+      "sort_order": 142,
+      "object_index": 94
     },
     {
       "_class": "lecture",
@@ -1973,7 +2075,8 @@
         "title": "C05-S08-L14.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 141
+      "sort_order": 141,
+      "object_index": 95
     },
     {
       "_class": "lecture",
@@ -1993,7 +2096,8 @@
         "title": "C05-S08-L15.mp4",
         "created": "2019-06-08T10:11:07Z"
       },
-      "sort_order": 140
+      "sort_order": 140,
+      "object_index": 96
     },
     {
       "_class": "lecture",
@@ -2013,7 +2117,8 @@
         "title": "C05-S08-L16.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 139
+      "sort_order": 139,
+      "object_index": 97
     },
     {
       "_class": "lecture",
@@ -2033,7 +2138,8 @@
         "title": "C05-S08-L17.mp4",
         "created": "2019-06-08T10:11:07Z"
       },
-      "sort_order": 138
+      "sort_order": 138,
+      "object_index": 98
     },
     {
       "_class": "lecture",
@@ -2053,7 +2159,8 @@
         "title": "C05-S08-L18.mp4",
         "created": "2019-06-08T10:11:07Z"
       },
-      "sort_order": 137
+      "sort_order": 137,
+      "object_index": 99
     },
     {
       "_class": "lecture",
@@ -2073,7 +2180,8 @@
         "title": "C05-S08-L19.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 136
+      "sort_order": 136,
+      "object_index": 100
     },
     {
       "_class": "lecture",
@@ -2093,7 +2201,8 @@
         "title": "C05-S08-L20.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 135
+      "sort_order": 135,
+      "object_index": 101
     },
     {
       "_class": "lecture",
@@ -2113,7 +2222,8 @@
         "title": "C05-S08-L21.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 134
+      "sort_order": 134,
+      "object_index": 102
     },
     {
       "_class": "lecture",
@@ -2133,7 +2243,8 @@
         "title": "C05-S08-L22.mp4",
         "created": "2019-06-08T10:11:07Z"
       },
-      "sort_order": 133
+      "sort_order": 133,
+      "object_index": 103
     },
     {
       "_class": "lecture",
@@ -2153,7 +2264,8 @@
         "title": "C05-S08-L23.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 132
+      "sort_order": 132,
+      "object_index": 104
     },
     {
       "_class": "lecture",
@@ -2173,7 +2285,8 @@
         "title": "C05-S08-L24.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 131
+      "sort_order": 131,
+      "object_index": 105
     },
     {
       "_class": "lecture",
@@ -2193,7 +2306,8 @@
         "title": "C05-S08-L25.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 130
+      "sort_order": 130,
+      "object_index": 106
     },
     {
       "_class": "lecture",
@@ -2213,7 +2327,8 @@
         "title": "C05-S08-L26.mp4",
         "created": "2019-06-08T10:11:07Z"
       },
-      "sort_order": 129
+      "sort_order": 129,
+      "object_index": 107
     },
     {
       "_class": "lecture",
@@ -2233,7 +2348,8 @@
         "title": "C05-S08-L27.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 128
+      "sort_order": 128,
+      "object_index": 108
     },
     {
       "_class": "lecture",
@@ -2253,7 +2369,8 @@
         "title": "C05-S08-L28.mp4",
         "created": "2019-06-08T10:11:07Z"
       },
-      "sort_order": 127
+      "sort_order": 127,
+      "object_index": 109
     },
     {
       "_class": "chapter",
@@ -2262,7 +2379,8 @@
       "sort_order": 126,
       "title": "Error Handling with Express",
       "description": "",
-      "is_published": true
+      "is_published": true,
+      "object_index": 9
     },
     {
       "_class": "lecture",
@@ -2282,7 +2400,8 @@
         "title": "C05-S09-L01.mp4",
         "created": "2019-06-23T12:54:41Z"
       },
-      "sort_order": 125
+      "sort_order": 125,
+      "object_index": 110
     },
     {
       "_class": "lecture",
@@ -2302,7 +2421,8 @@
         "title": "C05-S09-L02.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 124
+      "sort_order": 124,
+      "object_index": 111
     },
     {
       "_class": "lecture",
@@ -2322,7 +2442,8 @@
         "title": "C05-S09-L03.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 123
+      "sort_order": 123,
+      "object_index": 112
     },
     {
       "_class": "lecture",
@@ -2342,7 +2463,8 @@
         "title": "C05-S09-L04.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 122
+      "sort_order": 122,
+      "object_index": 113
     },
     {
       "_class": "lecture",
@@ -2362,7 +2484,8 @@
         "title": "C05-S09-L05.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 121
+      "sort_order": 121,
+      "object_index": 114
     },
     {
       "_class": "lecture",
@@ -2382,7 +2505,8 @@
         "title": "C05-S09-L06.mp4",
         "created": "2019-06-08T10:11:07Z"
       },
-      "sort_order": 120
+      "sort_order": 120,
+      "object_index": 115
     },
     {
       "_class": "lecture",
@@ -2402,7 +2526,8 @@
         "title": "C05-S09-L07.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 119
+      "sort_order": 119,
+      "object_index": 116
     },
     {
       "_class": "lecture",
@@ -2422,7 +2547,8 @@
         "title": "C05-S09-L08.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 118
+      "sort_order": 118,
+      "object_index": 117
     },
     {
       "_class": "lecture",
@@ -2442,7 +2568,8 @@
         "title": "C05-S09-L09.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 117
+      "sort_order": 117,
+      "object_index": 118
     },
     {
       "_class": "lecture",
@@ -2462,7 +2589,8 @@
         "title": "C05-S09-L10.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 116
+      "sort_order": 116,
+      "object_index": 119
     },
     {
       "_class": "lecture",
@@ -2482,7 +2610,8 @@
         "title": "C05-S09-L11.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 115
+      "sort_order": 115,
+      "object_index": 120
     },
     {
       "_class": "lecture",
@@ -2502,7 +2631,8 @@
         "title": "C05-S09-L12.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 114
+      "sort_order": 114,
+      "object_index": 121
     },
     {
       "_class": "lecture",
@@ -2522,7 +2652,8 @@
         "title": "C05-S09-L13.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 113
+      "sort_order": 113,
+      "object_index": 122
     },
     {
       "_class": "lecture",
@@ -2542,7 +2673,8 @@
         "title": "C05-S09-L14.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 112
+      "sort_order": 112,
+      "object_index": 123
     },
     {
       "_class": "chapter",
@@ -2551,7 +2683,8 @@
       "sort_order": 111,
       "title": "Authentication, Authorization and Security",
       "description": "",
-      "is_published": true
+      "is_published": true,
+      "object_index": 10
     },
     {
       "_class": "lecture",
@@ -2571,7 +2704,8 @@
         "title": "C05-S10-L01.mp4",
         "created": "2019-06-23T12:54:41Z"
       },
-      "sort_order": 110
+      "sort_order": 110,
+      "object_index": 124
     },
     {
       "_class": "lecture",
@@ -2591,7 +2725,8 @@
         "title": "C05-S10-L02.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 109
+      "sort_order": 109,
+      "object_index": 125
     },
     {
       "_class": "lecture",
@@ -2611,7 +2746,8 @@
         "title": "C05-S10-L03.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 108
+      "sort_order": 108,
+      "object_index": 126
     },
     {
       "_class": "lecture",
@@ -2631,7 +2767,8 @@
         "title": "C05-S10-L04.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 107
+      "sort_order": 107,
+      "object_index": 127
     },
     {
       "_class": "lecture",
@@ -2651,7 +2788,8 @@
         "title": "C05-S10-L05.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 106
+      "sort_order": 106,
+      "object_index": 128
     },
     {
       "_class": "lecture",
@@ -2671,7 +2809,8 @@
         "title": "C05-S10-L06-v1.0.1.mp4",
         "created": "2019-07-12T16:53:49Z"
       },
-      "sort_order": 105
+      "sort_order": 105,
+      "object_index": 129
     },
     {
       "_class": "lecture",
@@ -2691,7 +2830,8 @@
         "title": "C05-S10-L07.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 104
+      "sort_order": 104,
+      "object_index": 130
     },
     {
       "_class": "lecture",
@@ -2711,7 +2851,8 @@
         "title": "C05-S10-L08.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 103
+      "sort_order": 103,
+      "object_index": 131
     },
     {
       "_class": "lecture",
@@ -2731,7 +2872,8 @@
         "title": "C05-S10-L09.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 102
+      "sort_order": 102,
+      "object_index": 132
     },
     {
       "_class": "lecture",
@@ -2751,7 +2893,8 @@
         "title": "C05-S10-L10.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 101
+      "sort_order": 101,
+      "object_index": 133
     },
     {
       "_class": "lecture",
@@ -2771,7 +2914,8 @@
         "title": "C05-S10-L11.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 100
+      "sort_order": 100,
+      "object_index": 134
     },
     {
       "_class": "lecture",
@@ -2791,7 +2935,8 @@
         "title": "C05-S10-L12.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 99
+      "sort_order": 99,
+      "object_index": 135
     },
     {
       "_class": "lecture",
@@ -2811,7 +2956,8 @@
         "title": "C05-S10-L13.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 98
+      "sort_order": 98,
+      "object_index": 136
     },
     {
       "_class": "lecture",
@@ -2831,7 +2977,8 @@
         "title": "C05-S10-L14.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 97
+      "sort_order": 97,
+      "object_index": 137
     },
     {
       "_class": "lecture",
@@ -2851,7 +2998,8 @@
         "title": "C05-S10-L15.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 96
+      "sort_order": 96,
+      "object_index": 138
     },
     {
       "_class": "lecture",
@@ -2871,7 +3019,8 @@
         "title": "C05-S10-L16.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 95
+      "sort_order": 95,
+      "object_index": 139
     },
     {
       "_class": "lecture",
@@ -2891,7 +3040,8 @@
         "title": "C05-S10-L17.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 94
+      "sort_order": 94,
+      "object_index": 140
     },
     {
       "_class": "lecture",
@@ -2911,7 +3061,8 @@
         "title": "C05-S10-L18.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 93
+      "sort_order": 93,
+      "object_index": 141
     },
     {
       "_class": "lecture",
@@ -2931,7 +3082,8 @@
         "title": "C05-S10-L19.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 92
+      "sort_order": 92,
+      "object_index": 142
     },
     {
       "_class": "lecture",
@@ -2951,7 +3103,8 @@
         "title": "C05-S10-L20.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 91
+      "sort_order": 91,
+      "object_index": 143
     },
     {
       "_class": "lecture",
@@ -2971,7 +3124,8 @@
         "title": "C05-S10-L21.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 90
+      "sort_order": 90,
+      "object_index": 144
     },
     {
       "_class": "lecture",
@@ -2991,7 +3145,8 @@
         "title": "C05-S10-L22.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 89
+      "sort_order": 89,
+      "object_index": 145
     },
     {
       "_class": "lecture",
@@ -3011,7 +3166,8 @@
         "title": "C05-S10-L23.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 88
+      "sort_order": 88,
+      "object_index": 146
     },
     {
       "_class": "chapter",
@@ -3020,7 +3176,8 @@
       "sort_order": 87,
       "title": "Modelling Data and Advanced Mongoose",
       "description": "",
-      "is_published": true
+      "is_published": true,
+      "object_index": 11
     },
     {
       "_class": "lecture",
@@ -3040,7 +3197,8 @@
         "title": "C05-S11-L01.mp4",
         "created": "2019-06-23T12:54:41Z"
       },
-      "sort_order": 86
+      "sort_order": 86,
+      "object_index": 147
     },
     {
       "_class": "lecture",
@@ -3060,7 +3218,8 @@
         "title": "C05-S11-L02.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 85
+      "sort_order": 85,
+      "object_index": 148
     },
     {
       "_class": "lecture",
@@ -3080,7 +3239,8 @@
         "title": "C05-S11-L03.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 84
+      "sort_order": 84,
+      "object_index": 149
     },
     {
       "_class": "lecture",
@@ -3100,7 +3260,8 @@
         "title": "C05-S11-L04.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 83
+      "sort_order": 83,
+      "object_index": 150
     },
     {
       "_class": "lecture",
@@ -3120,7 +3281,8 @@
         "title": "C05-S11-L05.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 82
+      "sort_order": 82,
+      "object_index": 151
     },
     {
       "_class": "lecture",
@@ -3140,7 +3302,8 @@
         "title": "C05-S11-L06.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 81
+      "sort_order": 81,
+      "object_index": 152
     },
     {
       "_class": "lecture",
@@ -3160,7 +3323,8 @@
         "title": "C05-S11-L07.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 80
+      "sort_order": 80,
+      "object_index": 153
     },
     {
       "_class": "lecture",
@@ -3180,7 +3344,8 @@
         "title": "C05-S11-L08.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 79
+      "sort_order": 79,
+      "object_index": 154
     },
     {
       "_class": "lecture",
@@ -3200,7 +3365,8 @@
         "title": "C05-S11-L09.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 78
+      "sort_order": 78,
+      "object_index": 155
     },
     {
       "_class": "lecture",
@@ -3220,7 +3386,8 @@
         "title": "C05-S11-L10.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 77
+      "sort_order": 77,
+      "object_index": 156
     },
     {
       "_class": "lecture",
@@ -3240,7 +3407,8 @@
         "title": "C05-S11-L11.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 76
+      "sort_order": 76,
+      "object_index": 157
     },
     {
       "_class": "lecture",
@@ -3260,7 +3428,8 @@
         "title": "C05-S11-L12.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 75
+      "sort_order": 75,
+      "object_index": 158
     },
     {
       "_class": "lecture",
@@ -3280,7 +3449,8 @@
         "title": "C05-S11-L13.mp4",
         "created": "2019-06-08T10:11:07Z"
       },
-      "sort_order": 74
+      "sort_order": 74,
+      "object_index": 159
     },
     {
       "_class": "lecture",
@@ -3300,7 +3470,8 @@
         "title": "C05-S11-L14.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 73
+      "sort_order": 73,
+      "object_index": 160
     },
     {
       "_class": "lecture",
@@ -3320,7 +3491,8 @@
         "title": "C05-S11-L15.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 72
+      "sort_order": 72,
+      "object_index": 161
     },
     {
       "_class": "lecture",
@@ -3340,7 +3512,8 @@
         "title": "C05-S11-L16.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 71
+      "sort_order": 71,
+      "object_index": 162
     },
     {
       "_class": "lecture",
@@ -3360,7 +3533,8 @@
         "title": "C05-S11-L17.mp4",
         "created": "2019-06-08T10:11:07Z"
       },
-      "sort_order": 70
+      "sort_order": 70,
+      "object_index": 163
     },
     {
       "_class": "lecture",
@@ -3380,7 +3554,8 @@
         "title": "C05-S11-L18.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 69
+      "sort_order": 69,
+      "object_index": 164
     },
     {
       "_class": "lecture",
@@ -3400,7 +3575,8 @@
         "title": "C05-S11-L19.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 68
+      "sort_order": 68,
+      "object_index": 165
     },
     {
       "_class": "lecture",
@@ -3420,7 +3596,8 @@
         "title": "C05-S11-L20.mp4",
         "created": "2019-06-08T10:11:07Z"
       },
-      "sort_order": 67
+      "sort_order": 67,
+      "object_index": 166
     },
     {
       "_class": "lecture",
@@ -3440,7 +3617,8 @@
         "title": "C05-S11-L21.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 66
+      "sort_order": 66,
+      "object_index": 167
     },
     {
       "_class": "lecture",
@@ -3460,7 +3638,8 @@
         "title": "C05-S11-L22.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 65
+      "sort_order": 65,
+      "object_index": 168
     },
     {
       "_class": "lecture",
@@ -3480,7 +3659,8 @@
         "title": "C05-S11-L23.mp4",
         "created": "2019-06-08T10:11:07Z"
       },
-      "sort_order": 64
+      "sort_order": 64,
+      "object_index": 169
     },
     {
       "_class": "lecture",
@@ -3500,7 +3680,8 @@
         "title": "C05-S11-L24.mp4",
         "created": "2019-06-08T10:11:07Z"
       },
-      "sort_order": 63
+      "sort_order": 63,
+      "object_index": 170
     },
     {
       "_class": "lecture",
@@ -3520,7 +3701,8 @@
         "title": "C05-S11-L25.mp4",
         "created": "2019-06-08T10:11:07Z"
       },
-      "sort_order": 62
+      "sort_order": 62,
+      "object_index": 171
     },
     {
       "_class": "lecture",
@@ -3540,7 +3722,8 @@
         "title": "C05-S11-L26.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 61
+      "sort_order": 61,
+      "object_index": 172
     },
     {
       "_class": "lecture",
@@ -3560,7 +3743,8 @@
         "title": "C05-S11-L27.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 60
+      "sort_order": 60,
+      "object_index": 173
     },
     {
       "_class": "chapter",
@@ -3569,7 +3753,8 @@
       "sort_order": 59,
       "title": "Server-Side Rendering with Pug Templates",
       "description": "",
-      "is_published": true
+      "is_published": true,
+      "object_index": 12
     },
     {
       "_class": "lecture",
@@ -3589,7 +3774,8 @@
         "title": "C05-S12-L01.mp4",
         "created": "2019-06-23T12:54:41Z"
       },
-      "sort_order": 58
+      "sort_order": 58,
+      "object_index": 174
     },
     {
       "_class": "lecture",
@@ -3609,7 +3795,8 @@
         "title": "C05-S12-L02.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 57
+      "sort_order": 57,
+      "object_index": 175
     },
     {
       "_class": "lecture",
@@ -3629,7 +3816,8 @@
         "title": "C05-S12-L03.mp4",
         "created": "2019-06-08T10:11:07Z"
       },
-      "sort_order": 56
+      "sort_order": 56,
+      "object_index": 176
     },
     {
       "_class": "lecture",
@@ -3649,7 +3837,8 @@
         "title": "C05-S12-L04.mp4",
         "created": "2019-06-08T10:11:07Z"
       },
-      "sort_order": 55
+      "sort_order": 55,
+      "object_index": 177
     },
     {
       "_class": "lecture",
@@ -3669,7 +3858,8 @@
         "title": "C05-S12-L05.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 54
+      "sort_order": 54,
+      "object_index": 178
     },
     {
       "_class": "lecture",
@@ -3689,7 +3879,8 @@
         "title": "C05-S12-L06.mp4",
         "created": "2019-06-08T10:11:07Z"
       },
-      "sort_order": 53
+      "sort_order": 53,
+      "object_index": 179
     },
     {
       "_class": "lecture",
@@ -3709,7 +3900,8 @@
         "title": "C05-S12-L07.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 52
+      "sort_order": 52,
+      "object_index": 180
     },
     {
       "_class": "lecture",
@@ -3729,7 +3921,8 @@
         "title": "C05-S12-L08.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 51
+      "sort_order": 51,
+      "object_index": 181
     },
     {
       "_class": "lecture",
@@ -3749,7 +3942,8 @@
         "title": "C05-S12-L09.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 50
+      "sort_order": 50,
+      "object_index": 182
     },
     {
       "_class": "lecture",
@@ -3769,7 +3963,8 @@
         "title": "C05-S12-L10.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 49
+      "sort_order": 49,
+      "object_index": 183
     },
     {
       "_class": "lecture",
@@ -3789,7 +3984,8 @@
         "title": "C05-S12-L11.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 48
+      "sort_order": 48,
+      "object_index": 184
     },
     {
       "_class": "lecture",
@@ -3809,7 +4005,8 @@
         "title": "C05-S12-L12.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 47
+      "sort_order": 47,
+      "object_index": 185
     },
     {
       "_class": "lecture",
@@ -3829,7 +4026,8 @@
         "title": "C05-S12-L13.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 46
+      "sort_order": 46,
+      "object_index": 186
     },
     {
       "_class": "lecture",
@@ -3849,7 +4047,8 @@
         "title": "C05-S12-L14.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 45
+      "sort_order": 45,
+      "object_index": 187
     },
     {
       "_class": "lecture",
@@ -3869,7 +4068,8 @@
         "title": "C05-S12-L15.mp4",
         "created": "2019-06-08T10:11:07Z"
       },
-      "sort_order": 44
+      "sort_order": 44,
+      "object_index": 188
     },
     {
       "_class": "lecture",
@@ -3889,7 +4089,8 @@
         "title": "C05-S12-L16.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 43
+      "sort_order": 43,
+      "object_index": 189
     },
     {
       "_class": "lecture",
@@ -3909,7 +4110,8 @@
         "title": "C05-S12-L17.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 42
+      "sort_order": 42,
+      "object_index": 190
     },
     {
       "_class": "lecture",
@@ -3929,7 +4131,8 @@
         "title": "C05-S12-L18.mp4",
         "created": "2019-06-08T10:11:07Z"
       },
-      "sort_order": 41
+      "sort_order": 41,
+      "object_index": 191
     },
     {
       "_class": "lecture",
@@ -3949,7 +4152,8 @@
         "title": "C05-S12-L19.mp4",
         "created": "2019-06-08T10:11:07Z"
       },
-      "sort_order": 40
+      "sort_order": 40,
+      "object_index": 192
     },
     {
       "_class": "lecture",
@@ -3969,7 +4173,8 @@
         "title": "C05-S12-L20.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 39
+      "sort_order": 39,
+      "object_index": 193
     },
     {
       "_class": "lecture",
@@ -3989,7 +4194,8 @@
         "title": "C05-S12-L21.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 38
+      "sort_order": 38,
+      "object_index": 194
     },
     {
       "_class": "lecture",
@@ -4009,7 +4215,8 @@
         "title": "C05-S12-L22.mp4",
         "created": "2019-06-08T10:11:07Z"
       },
-      "sort_order": 37
+      "sort_order": 37,
+      "object_index": 195
     },
     {
       "_class": "lecture",
@@ -4029,7 +4236,8 @@
         "title": "C05-S12-L23.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 36
+      "sort_order": 36,
+      "object_index": 196
     },
     {
       "_class": "lecture",
@@ -4049,7 +4257,8 @@
         "title": "C05-S12-L24.mp4",
         "created": "2019-06-08T10:11:08Z"
       },
-      "sort_order": 35
+      "sort_order": 35,
+      "object_index": 197
     },
     {
       "_class": "chapter",
@@ -4058,7 +4267,8 @@
       "sort_order": 34,
       "title": "Advanced Features: Payments, Email, File Uploads",
       "description": "",
-      "is_published": true
+      "is_published": true,
+      "object_index": 13
     },
     {
       "_class": "lecture",
@@ -4078,7 +4288,8 @@
         "title": "C05-S13-L01.mp4",
         "created": "2019-06-23T12:54:41Z"
       },
-      "sort_order": 33
+      "sort_order": 33,
+      "object_index": 198
     },
     {
       "_class": "lecture",
@@ -4098,7 +4309,8 @@
         "title": "C05-S13-L02.mp4",
         "created": "2019-06-11T19:21:13Z"
       },
-      "sort_order": 32
+      "sort_order": 32,
+      "object_index": 199
     },
     {
       "_class": "lecture",
@@ -4118,7 +4330,8 @@
         "title": "C05-S13-L03.mp4",
         "created": "2019-06-11T19:21:13Z"
       },
-      "sort_order": 31
+      "sort_order": 31,
+      "object_index": 200
     },
     {
       "_class": "lecture",
@@ -4138,7 +4351,8 @@
         "title": "C05-S13-L04.mp4",
         "created": "2019-06-11T19:21:13Z"
       },
-      "sort_order": 30
+      "sort_order": 30,
+      "object_index": 201
     },
     {
       "_class": "lecture",
@@ -4158,7 +4372,8 @@
         "title": "C05-S13-L05.mp4",
         "created": "2019-06-11T19:21:13Z"
       },
-      "sort_order": 29
+      "sort_order": 29,
+      "object_index": 202
     },
     {
       "_class": "lecture",
@@ -4178,7 +4393,8 @@
         "title": "C05-S13-L06.mp4",
         "created": "2019-06-11T19:21:13Z"
       },
-      "sort_order": 28
+      "sort_order": 28,
+      "object_index": 203
     },
     {
       "_class": "lecture",
@@ -4198,7 +4414,8 @@
         "title": "C05-S13-L07.mp4",
         "created": "2019-06-11T19:21:13Z"
       },
-      "sort_order": 27
+      "sort_order": 27,
+      "object_index": 204
     },
     {
       "_class": "lecture",
@@ -4218,7 +4435,8 @@
         "title": "C05-S13-L08.mp4",
         "created": "2019-06-11T19:21:13Z"
       },
-      "sort_order": 26
+      "sort_order": 26,
+      "object_index": 205
     },
     {
       "_class": "lecture",
@@ -4238,7 +4456,8 @@
         "title": "C05-S13-L09.mp4",
         "created": "2019-06-11T19:21:13Z"
       },
-      "sort_order": 25
+      "sort_order": 25,
+      "object_index": 206
     },
     {
       "_class": "lecture",
@@ -4258,7 +4477,8 @@
         "title": "C05-S13-L10.mp4",
         "created": "2019-06-11T19:21:13Z"
       },
-      "sort_order": 24
+      "sort_order": 24,
+      "object_index": 207
     },
     {
       "_class": "lecture",
@@ -4278,7 +4498,8 @@
         "title": "C05-S13-L11.mp4",
         "created": "2019-06-11T19:21:13Z"
       },
-      "sort_order": 23
+      "sort_order": 23,
+      "object_index": 208
     },
     {
       "_class": "lecture",
@@ -4298,7 +4519,8 @@
         "title": "C05-S13-L12.mp4",
         "created": "2019-06-11T19:21:13Z"
       },
-      "sort_order": 22
+      "sort_order": 22,
+      "object_index": 209
     },
     {
       "_class": "lecture",
@@ -4318,7 +4540,8 @@
         "title": "C05-S13-L13.mp4",
         "created": "2019-06-11T19:21:13Z"
       },
-      "sort_order": 21
+      "sort_order": 21,
+      "object_index": 210
     },
     {
       "_class": "lecture",
@@ -4338,7 +4561,8 @@
         "title": "C05-S13-L14.mp4",
         "created": "2019-06-11T19:21:13Z"
       },
-      "sort_order": 20
+      "sort_order": 20,
+      "object_index": 211
     },
     {
       "_class": "lecture",
@@ -4358,7 +4582,8 @@
         "title": "C05-S13-L15.mp4",
         "created": "2019-06-11T19:21:13Z"
       },
-      "sort_order": 19
+      "sort_order": 19,
+      "object_index": 212
     },
     {
       "_class": "lecture",
@@ -4378,7 +4603,8 @@
         "title": "C05-S13-L16.mp4",
         "created": "2019-06-11T19:21:13Z"
       },
-      "sort_order": 18
+      "sort_order": 18,
+      "object_index": 213
     },
     {
       "_class": "lecture",
@@ -4398,7 +4624,8 @@
         "title": "C05-S13-L17.mp4",
         "created": "2019-06-11T19:21:13Z"
       },
-      "sort_order": 17
+      "sort_order": 17,
+      "object_index": 214
     },
     {
       "_class": "lecture",
@@ -4418,7 +4645,8 @@
         "title": "C05-S13-L18.mp4",
         "created": "2019-06-11T19:21:13Z"
       },
-      "sort_order": 16
+      "sort_order": 16,
+      "object_index": 215
     },
     {
       "_class": "lecture",
@@ -4438,7 +4666,8 @@
         "title": "C05-S13-L19.mp4",
         "created": "2019-06-11T19:21:13Z"
       },
-      "sort_order": 15
+      "sort_order": 15,
+      "object_index": 216
     },
     {
       "_class": "lecture",
@@ -4458,7 +4687,8 @@
         "title": "C05-S13-L20.mp4",
         "created": "2019-06-11T19:21:13Z"
       },
-      "sort_order": 14
+      "sort_order": 14,
+      "object_index": 217
     },
     {
       "_class": "chapter",
@@ -4467,7 +4697,8 @@
       "sort_order": 13,
       "title": "Setting Up Git and Deployment",
       "description": "",
-      "is_published": true
+      "is_published": true,
+      "object_index": 14
     },
     {
       "_class": "lecture",
@@ -4487,7 +4718,8 @@
         "title": "C05-S14-L01.mp4",
         "created": "2019-06-23T12:54:41Z"
       },
-      "sort_order": 12
+      "sort_order": 12,
+      "object_index": 218
     },
     {
       "_class": "lecture",
@@ -4507,7 +4739,8 @@
         "title": "C05-S14-L02.mp4",
         "created": "2019-06-17T09:55:54Z"
       },
-      "sort_order": 11
+      "sort_order": 11,
+      "object_index": 219
     },
     {
       "_class": "lecture",
@@ -4527,7 +4760,8 @@
         "title": "C05-S14-L03.mp4",
         "created": "2019-06-17T09:55:54Z"
       },
-      "sort_order": 10
+      "sort_order": 10,
+      "object_index": 220
     },
     {
       "_class": "lecture",
@@ -4547,7 +4781,8 @@
         "title": "C05-S14-L04.mp4",
         "created": "2019-06-17T09:55:54Z"
       },
-      "sort_order": 9
+      "sort_order": 9,
+      "object_index": 221
     },
     {
       "_class": "lecture",
@@ -4567,7 +4802,8 @@
         "title": "C05-S14-L05.mp4",
         "created": "2019-06-17T09:55:54Z"
       },
-      "sort_order": 8
+      "sort_order": 8,
+      "object_index": 222
     },
     {
       "_class": "lecture",
@@ -4587,7 +4823,8 @@
         "title": "C05-S14-L06.mp4",
         "created": "2019-06-17T09:55:54Z"
       },
-      "sort_order": 7
+      "sort_order": 7,
+      "object_index": 223
     },
     {
       "_class": "lecture",
@@ -4607,7 +4844,8 @@
         "title": "C05-S14-L07.mp4",
         "created": "2019-06-17T09:55:54Z"
       },
-      "sort_order": 6
+      "sort_order": 6,
+      "object_index": 224
     },
     {
       "_class": "lecture",
@@ -4627,7 +4865,8 @@
         "title": "C05-S14-L08.mp4",
         "created": "2019-06-17T09:55:54Z"
       },
-      "sort_order": 5
+      "sort_order": 5,
+      "object_index": 225
     },
     {
       "_class": "lecture",
@@ -4647,7 +4886,8 @@
         "title": "C05-S14-L09.mp4",
         "created": "2019-06-17T09:55:54Z"
       },
-      "sort_order": 4
+      "sort_order": 4,
+      "object_index": 226
     },
     {
       "_class": "lecture",
@@ -4667,7 +4907,8 @@
         "title": "C05-S14-L10.mp4",
         "created": "2019-06-17T09:55:54Z"
       },
-      "sort_order": 3
+      "sort_order": 3,
+      "object_index": 227
     },
     {
       "_class": "chapter",
@@ -4676,7 +4917,8 @@
       "sort_order": 2,
       "title": "That's It, Everyone!",
       "description": "",
-      "is_published": true
+      "is_published": true,
+      "object_index": 15
     },
     {
       "_class": "lecture",
@@ -4696,7 +4938,8 @@
         "title": "C05-S15-L01.mp4",
         "created": "2019-06-23T12:54:41Z"
       },
-      "sort_order": 1
+      "sort_order": 1,
+      "object_index": 228
     },
     {
       "_class": "lecture",
@@ -4716,7 +4959,8 @@
         "title": "",
         "created": "2023-11-13T15:31:33Z"
       },
-      "sort_order": 0
+      "sort_order": 0,
+      "object_index": 229
     }
   ]
 }
