@@ -1,8 +1,4096 @@
 {
   "count": 244,
   "next": null,
-  "previous": "https://www.udemy.com/api-2.0/courses/1672410/subscriber-curriculum-items/?caching_intent=True&curriculum_types=chapter%2Clecture%2Cpractice%2Cquiz%2Crole-play&fields%5Basset%5D=title%2Cfilename%2Casset_type%2Cstatus%2Ctime_estimation%2Cis_external&fields%5Bchapter%5D=title%2Cobject_index%2Cis_published%2Csort_order&fields%5Blecture%5D=title%2Cobject_index%2Cis_published%2Csort_order%2Ccreated%2Casset%2Csupplementary_assets%2Cis_free&fields%5Bpractice%5D=title%2Cobject_index%2Cis_published%2Csort_order&fields%5Bquiz%5D=title%2Cobject_index%2Cis_published%2Csort_order%2Ctype&page_size=200",
+  "previous": null,
   "results": [
+    {
+      "_class": "chapter",
+      "id": 3448500,
+      "sort_order": 243,
+      "title": "Welcome, Welcome, Welcome!",
+      "is_published": true,
+      "object_index": 1
+    },
+    {
+      "_class": "lecture",
+      "id": 15064262,
+      "title": "Course Structure and Projects",
+      "created": "2019-06-10T13:26:11Z",
+      "is_published": true,
+      "is_free": true,
+      "asset": {
+        "_class": "asset",
+        "id": 18655244,
+        "asset_type": "Video",
+        "title": "C05-S01-L01.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S01-L01.mp4",
+        "time_estimation": 405
+      },
+      "sort_order": 242,
+      "object_index": 1,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15108658,
+      "title": "READ BEFORE YOU START!",
+      "created": "2019-06-14T09:36:20Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 60494901,
+        "asset_type": "Article",
+        "title": "",
+        "status": 1,
+        "is_external": false,
+        "filename": "",
+        "time_estimation": 35
+      },
+      "sort_order": 241,
+      "object_index": 2,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 14692556,
+      "title": "Let's Install Node.js",
+      "created": "2019-05-10T07:52:44Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425682,
+        "asset_type": "Video",
+        "title": "C05-S01-L02.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S01-L02.mp4",
+        "time_estimation": 324
+      },
+      "sort_order": 240,
+      "object_index": 3,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "chapter",
+      "id": 3536304,
+      "sort_order": 239,
+      "title": "Introduction to Node.js and NPM",
+      "is_published": true,
+      "object_index": 2
+    },
+    {
+      "_class": "lecture",
+      "id": 15064522,
+      "title": "Section Intro",
+      "created": "2019-06-10T13:52:13Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18650058,
+        "asset_type": "Video",
+        "title": "C05-S02-L01.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S02-L01.mp4",
+        "time_estimation": 54
+      },
+      "sort_order": 238,
+      "object_index": 4,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15080910,
+      "title": "What Is Node.js and Why Use It?",
+      "created": "2019-06-11T18:21:44Z",
+      "is_published": true,
+      "is_free": true,
+      "asset": {
+        "_class": "asset",
+        "id": 18471830,
+        "asset_type": "Video",
+        "title": "C05-S02-L02.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S02-L02.mp4",
+        "time_estimation": 458
+      },
+      "sort_order": 237,
+      "object_index": 5,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15080912,
+      "title": "Running Javascript Outside the Browser",
+      "created": "2019-06-11T18:21:49Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18471840,
+        "asset_type": "Video",
+        "title": "C05-S02-L03.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S02-L03.mp4",
+        "time_estimation": 387
+      },
+      "sort_order": 236,
+      "object_index": 6,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 18511054,
+          "time_estimation": 0,
+          "title": "Download starter project from GitHub",
+          "filename": "Download-starter-project-from-GitHub",
+          "asset_type": "ExternalLink",
+          "status": 1,
+          "is_external": true
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 15080914,
+      "title": "Using Modules 1: Core Modules",
+      "created": "2019-06-11T18:21:54Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18471836,
+        "asset_type": "Video",
+        "title": "C05-S02-L04.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S02-L04.mp4",
+        "time_estimation": 359
+      },
+      "sort_order": 235,
+      "object_index": 7,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15080916,
+      "title": "Reading and Writing Files",
+      "created": "2019-06-11T18:21:58Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18471848,
+        "asset_type": "Video",
+        "title": "C05-S02-L05.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S02-L05.mp4",
+        "time_estimation": 448
+      },
+      "sort_order": 234,
+      "object_index": 8,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15080918,
+      "title": "Blocking and Non-Blocking: Asynchronous Nature of Node.js",
+      "created": "2019-06-11T18:22:02Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18471838,
+        "asset_type": "Video",
+        "title": "C05-S02-L06.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S02-L06.mp4",
+        "time_estimation": 613
+      },
+      "sort_order": 233,
+      "object_index": 9,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15080922,
+      "title": "Reading and Writing Files Asynchronously",
+      "created": "2019-06-11T18:22:07Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18471826,
+        "asset_type": "Video",
+        "title": "C05-S02-L07.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S02-L07.mp4",
+        "time_estimation": 856
+      },
+      "sort_order": 232,
+      "object_index": 10,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15080926,
+      "title": "Creating a Simple Web Server",
+      "created": "2019-06-11T18:22:16Z",
+      "is_published": true,
+      "is_free": true,
+      "asset": {
+        "_class": "asset",
+        "id": 18471814,
+        "asset_type": "Video",
+        "title": "C05-S02-L08.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S02-L08.mp4",
+        "time_estimation": 769
+      },
+      "sort_order": 231,
+      "object_index": 11,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15080928,
+      "title": "Routing",
+      "created": "2019-06-11T18:22:20Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18471842,
+        "asset_type": "Video",
+        "title": "C05-S02-L09.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S02-L09.mp4",
+        "time_estimation": 918
+      },
+      "sort_order": 230,
+      "object_index": 12,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15080930,
+      "title": "Building a (Very) Simple API",
+      "created": "2019-06-11T18:22:26Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18471834,
+        "asset_type": "Video",
+        "title": "C05-S02-L10.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S02-L10.mp4",
+        "time_estimation": 868
+      },
+      "sort_order": 229,
+      "object_index": 13,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15080934,
+      "title": "HTML Templating: Building the Templates",
+      "created": "2019-06-11T18:22:34Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18471832,
+        "asset_type": "Video",
+        "title": "C05-S02-L11.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S02-L11.mp4",
+        "time_estimation": 843
+      },
+      "sort_order": 228,
+      "object_index": 14,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15080938,
+      "title": "HTML Templating: Filling the Templates",
+      "created": "2019-06-11T18:22:39Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18471818,
+        "asset_type": "Video",
+        "title": "C05-S02-L12.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S02-L12.mp4",
+        "time_estimation": 1245
+      },
+      "sort_order": 227,
+      "object_index": 15,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15080942,
+      "title": "Parsing Variables from URLs",
+      "created": "2019-06-11T18:22:52Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18471820,
+        "asset_type": "Video",
+        "title": "C05-S02-L13.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S02-L13.mp4",
+        "time_estimation": 623
+      },
+      "sort_order": 226,
+      "object_index": 16,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15080944,
+      "title": "Using Modules 2: Our Own Modules",
+      "created": "2019-06-11T18:22:57Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18471812,
+        "asset_type": "Video",
+        "title": "C05-S02-L14.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S02-L14.mp4",
+        "time_estimation": 394
+      },
+      "sort_order": 225,
+      "object_index": 17,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15080946,
+      "title": "Introduction to NPM and the package.json File",
+      "created": "2019-06-11T18:23:03Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18471844,
+        "asset_type": "Video",
+        "title": "C05-S02-L15.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S02-L15.mp4",
+        "time_estimation": 317
+      },
+      "sort_order": 224,
+      "object_index": 18,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15080948,
+      "title": "Types of Packages and Installs",
+      "created": "2019-06-11T18:23:09Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18471824,
+        "asset_type": "Video",
+        "title": "C05-S02-L16.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S02-L16.mp4",
+        "time_estimation": 819
+      },
+      "sort_order": 223,
+      "object_index": 19,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15080950,
+      "title": "Using Modules 3: 3rd Party Modules",
+      "created": "2019-06-11T18:23:13Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18471822,
+        "asset_type": "Video",
+        "title": "C05-S02-L17.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S02-L17.mp4",
+        "time_estimation": 475
+      },
+      "sort_order": 222,
+      "object_index": 20,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15080956,
+      "title": "Package Versioning and Updating",
+      "created": "2019-06-11T18:23:33Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18471828,
+        "asset_type": "Video",
+        "title": "C05-S02-L18.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S02-L18.mp4",
+        "time_estimation": 705
+      },
+      "sort_order": 221,
+      "object_index": 21,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15080962,
+      "title": "Setting up Prettier in VS Code",
+      "created": "2019-06-11T18:23:37Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18471816,
+        "asset_type": "Video",
+        "title": "C05-S02-L19.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S02-L19.mp4",
+        "time_estimation": 687
+      },
+      "sort_order": 220,
+      "object_index": 22,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15080964,
+      "title": "Recap and What's Next",
+      "created": "2019-06-11T18:23:41Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18471846,
+        "asset_type": "Video",
+        "title": "C05-S02-L20.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S02-L20.mp4",
+        "time_estimation": 177
+      },
+      "sort_order": 219,
+      "object_index": 23,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "chapter",
+      "id": 3536312,
+      "sort_order": 218,
+      "title": "Introduction to Back-End Web Development",
+      "is_published": true,
+      "object_index": 3
+    },
+    {
+      "_class": "lecture",
+      "id": 15064550,
+      "title": "Section Intro",
+      "created": "2019-06-10T13:53:10Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18650054,
+        "asset_type": "Video",
+        "title": "C05-S03-L01.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S03-L01.mp4",
+        "time_estimation": 46
+      },
+      "sort_order": 217,
+      "object_index": 24,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064628,
+      "title": "An Overview of How the Web Works",
+      "created": "2019-06-10T14:00:17Z",
+      "is_published": true,
+      "is_free": true,
+      "asset": {
+        "_class": "asset",
+        "id": 18425556,
+        "asset_type": "Video",
+        "title": "C05-S03-L02.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S03-L02.mp4",
+        "time_estimation": 808
+      },
+      "sort_order": 216,
+      "object_index": 25,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064630,
+      "title": "HTTP in Action",
+      "created": "2019-06-10T14:00:30Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18451540,
+        "asset_type": "Video",
+        "title": "C05-S03-L03.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S03-L03.mp4",
+        "time_estimation": 329
+      },
+      "sort_order": 215,
+      "object_index": 26,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064636,
+      "title": "Front-End vs. Back-End Web Development",
+      "created": "2019-06-10T14:00:46Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425470,
+        "asset_type": "Video",
+        "title": "C05-S03-L04.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S03-L04.mp4",
+        "time_estimation": 362
+      },
+      "sort_order": 214,
+      "object_index": 27,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064638,
+      "title": "Static vs Dynamic vs API",
+      "created": "2019-06-10T14:01:00Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425596,
+        "asset_type": "Video",
+        "title": "C05-S03-L05.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S03-L05.mp4",
+        "time_estimation": 555
+      },
+      "sort_order": 213,
+      "object_index": 28,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "chapter",
+      "id": 3536314,
+      "sort_order": 212,
+      "title": "How Node.js Works: A Look Behind the Scenes",
+      "is_published": true,
+      "object_index": 4
+    },
+    {
+      "_class": "lecture",
+      "id": 15064544,
+      "title": "Section Intro",
+      "created": "2019-06-10T13:53:02Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18650052,
+        "asset_type": "Video",
+        "title": "C05-S04-L01.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S04-L01.mp4",
+        "time_estimation": 84
+      },
+      "sort_order": 211,
+      "object_index": 29,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064738,
+      "title": "Node, V8, Libuv and C++",
+      "created": "2019-06-10T14:08:56Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425578,
+        "asset_type": "Video",
+        "title": "C05-S04-L02.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S04-L02.mp4",
+        "time_estimation": 227
+      },
+      "sort_order": 210,
+      "object_index": 30,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064740,
+      "title": "Processes, Threads and the Thread Pool",
+      "created": "2019-06-10T14:09:02Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425422,
+        "asset_type": "Video",
+        "title": "C05-S04-L03.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S04-L03.mp4",
+        "time_estimation": 261
+      },
+      "sort_order": 209,
+      "object_index": 31,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064744,
+      "title": "The Node.js Event Loop",
+      "created": "2019-06-10T14:09:12Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425558,
+        "asset_type": "Video",
+        "title": "C05-S04-L04.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S04-L04.mp4",
+        "time_estimation": 693
+      },
+      "sort_order": 208,
+      "object_index": 32,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064746,
+      "title": "The Event Loop in Practice",
+      "created": "2019-06-10T14:09:17Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425420,
+        "asset_type": "Video",
+        "title": "C05-S04-L05.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S04-L05.mp4",
+        "time_estimation": 1130
+      },
+      "sort_order": 207,
+      "object_index": 33,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 18511052,
+          "time_estimation": 0,
+          "title": "Download starter project from GitHub",
+          "filename": "Download-starter-project-from-GitHub",
+          "asset_type": "ExternalLink",
+          "status": 1,
+          "is_external": true
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 15064748,
+      "title": "Events and Event-Driven Architecture",
+      "created": "2019-06-10T14:09:23Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425432,
+        "asset_type": "Video",
+        "title": "C05-S04-L06.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S04-L06.mp4",
+        "time_estimation": 258
+      },
+      "sort_order": 206,
+      "object_index": 34,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064750,
+      "title": "Events in Practice",
+      "created": "2019-06-10T14:09:29Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425698,
+        "asset_type": "Video",
+        "title": "C05-S04-L07.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S04-L07.mp4",
+        "time_estimation": 834
+      },
+      "sort_order": 205,
+      "object_index": 35,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064752,
+      "title": "Introduction to Streams",
+      "created": "2019-06-10T14:09:35Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425694,
+        "asset_type": "Video",
+        "title": "C05-S04-L08.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S04-L08.mp4",
+        "time_estimation": 377
+      },
+      "sort_order": 204,
+      "object_index": 36,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064754,
+      "title": "Streams in Practice",
+      "created": "2019-06-10T14:09:41Z",
+      "is_published": true,
+      "is_free": true,
+      "asset": {
+        "_class": "asset",
+        "id": 18425448,
+        "asset_type": "Video",
+        "title": "C05-S04-L09.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S04-L09.mp4",
+        "time_estimation": 966
+      },
+      "sort_order": 203,
+      "object_index": 37,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064756,
+      "title": "How Requiring Modules Really Works",
+      "created": "2019-06-10T14:09:50Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425602,
+        "asset_type": "Video",
+        "title": "C05-S04-L10.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S04-L10.mp4",
+        "time_estimation": 579
+      },
+      "sort_order": 202,
+      "object_index": 38,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064760,
+      "title": "Requiring Modules in Practice",
+      "created": "2019-06-10T14:09:58Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425546,
+        "asset_type": "Video",
+        "title": "C05-S04-L11.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S04-L11.mp4",
+        "time_estimation": 951
+      },
+      "sort_order": 201,
+      "object_index": 39,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "chapter",
+      "id": 3536318,
+      "sort_order": 200,
+      "title": "[Optional] Asynchronous JavaScript: Promises and Async/Await",
+      "is_published": true,
+      "object_index": 5
+    },
+    {
+      "_class": "lecture",
+      "id": 15064542,
+      "title": "Section Intro",
+      "created": "2019-06-10T13:52:59Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18650056,
+        "asset_type": "Video",
+        "title": "C05-S05-L01.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S05-L01.mp4",
+        "time_estimation": 57
+      },
+      "sort_order": 199,
+      "object_index": 40,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064788,
+      "title": "The Problem with Callbacks: Callback Hell",
+      "created": "2019-06-10T14:15:24Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425564,
+        "asset_type": "Video",
+        "title": "C05-S05-L02.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S05-L02.mp4",
+        "time_estimation": 766
+      },
+      "sort_order": 198,
+      "object_index": 41,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 18511058,
+          "time_estimation": 0,
+          "title": "Download starter project from GitHub",
+          "filename": "Download-starter-project-from-GitHub",
+          "asset_type": "ExternalLink",
+          "status": 1,
+          "is_external": true
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 15064798,
+      "title": "From Callback Hell to Promises",
+      "created": "2019-06-10T14:17:10Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425576,
+        "asset_type": "Video",
+        "title": "C05-S05-L03.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S05-L03.mp4",
+        "time_estimation": 402
+      },
+      "sort_order": 197,
+      "object_index": 42,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064800,
+      "title": "Building Promises",
+      "created": "2019-06-10T14:17:17Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425690,
+        "asset_type": "Video",
+        "title": "C05-S05-L04.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S05-L04.mp4",
+        "time_estimation": 882
+      },
+      "sort_order": 196,
+      "object_index": 43,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064804,
+      "title": "Consuming Promises with Async/Await",
+      "created": "2019-06-10T14:17:24Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425524,
+        "asset_type": "Video",
+        "title": "C05-S05-L05.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S05-L05.mp4",
+        "time_estimation": 468
+      },
+      "sort_order": 195,
+      "object_index": 44,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064806,
+      "title": "Returning Values from Async Functions",
+      "created": "2019-06-10T14:17:29Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425574,
+        "asset_type": "Video",
+        "title": "C05-S05-L06.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S05-L06.mp4",
+        "time_estimation": 783
+      },
+      "sort_order": 194,
+      "object_index": 45,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064808,
+      "title": "Waiting for Multiple Promises Simultaneously",
+      "created": "2019-06-10T14:17:34Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425664,
+        "asset_type": "Video",
+        "title": "C05-S05-L07.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S05-L07.mp4",
+        "time_estimation": 371
+      },
+      "sort_order": 193,
+      "object_index": 46,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "chapter",
+      "id": 3536320,
+      "sort_order": 192,
+      "title": "Express: Let's Start Building the Natours API!",
+      "is_published": true,
+      "object_index": 6
+    },
+    {
+      "_class": "lecture",
+      "id": 15064540,
+      "title": "Section Intro",
+      "created": "2019-06-10T13:52:55Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18650050,
+        "asset_type": "Video",
+        "title": "C05-S06-L01.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S06-L01.mp4",
+        "time_estimation": 56
+      },
+      "sort_order": 191,
+      "object_index": 47,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064840,
+      "title": "What is Express?",
+      "created": "2019-06-10T14:21:19Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425554,
+        "asset_type": "Video",
+        "title": "C05-S06-L02.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S06-L02.mp4",
+        "time_estimation": 121
+      },
+      "sort_order": 190,
+      "object_index": 48,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064842,
+      "title": "Installing Postman",
+      "created": "2019-06-10T14:21:26Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425654,
+        "asset_type": "Video",
+        "title": "C05-S06-L03.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S06-L03.mp4",
+        "time_estimation": 205
+      },
+      "sort_order": 189,
+      "object_index": 49,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064844,
+      "title": "Setting up Express and Basic Routing",
+      "created": "2019-06-10T14:21:33Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425478,
+        "asset_type": "Video",
+        "title": "C05-S06-L04.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S06-L04.mp4",
+        "time_estimation": 887
+      },
+      "sort_order": 188,
+      "object_index": 50,
+      "supplementary_assets": [
+        {
+          "_class": "asset",
+          "id": 18511062,
+          "time_estimation": 0,
+          "title": "Download starter project from GitHub",
+          "filename": "Download-starter-project-from-GitHub",
+          "asset_type": "ExternalLink",
+          "status": 1,
+          "is_external": true
+        }
+      ]
+    },
+    {
+      "_class": "lecture",
+      "id": 15064846,
+      "title": "APIs and RESTful API Design",
+      "created": "2019-06-10T14:21:40Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425696,
+        "asset_type": "Video",
+        "title": "C05-S06-L05.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S06-L05.mp4",
+        "time_estimation": 967
+      },
+      "sort_order": 187,
+      "object_index": 51,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064848,
+      "title": "Starting Our API: Handling GET Requests",
+      "created": "2019-06-10T14:21:47Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425404,
+        "asset_type": "Video",
+        "title": "C05-S06-L06.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S06-L06.mp4",
+        "time_estimation": 739
+      },
+      "sort_order": 186,
+      "object_index": 52,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064850,
+      "title": "Handling POST Requests",
+      "created": "2019-06-10T14:21:54Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425474,
+        "asset_type": "Video",
+        "title": "C05-S06-L07.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S06-L07.mp4",
+        "time_estimation": 921
+      },
+      "sort_order": 185,
+      "object_index": 53,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064852,
+      "title": "Responding to URL Parameters",
+      "created": "2019-06-10T14:22:01Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425434,
+        "asset_type": "Video",
+        "title": "C05-S06-L08.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S06-L08.mp4",
+        "time_estimation": 708
+      },
+      "sort_order": 184,
+      "object_index": 54,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064856,
+      "title": "Handling PATCH Requests",
+      "created": "2019-06-10T14:22:07Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425668,
+        "asset_type": "Video",
+        "title": "C05-S06-L09.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S06-L09.mp4",
+        "time_estimation": 425
+      },
+      "sort_order": 183,
+      "object_index": 55,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064860,
+      "title": "Handling DELETE Requests",
+      "created": "2019-06-10T14:22:13Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425440,
+        "asset_type": "Video",
+        "title": "C05-S06-L10.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S06-L10.mp4",
+        "time_estimation": 160
+      },
+      "sort_order": 182,
+      "object_index": 56,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064864,
+      "title": "Refactoring Our Routes",
+      "created": "2019-06-10T14:22:19Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425426,
+        "asset_type": "Video",
+        "title": "C05-S06-L11.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S06-L11.mp4",
+        "time_estimation": 407
+      },
+      "sort_order": 181,
+      "object_index": 57,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064866,
+      "title": "Middleware and the Request-Response Cycle",
+      "created": "2019-06-10T14:22:26Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425550,
+        "asset_type": "Video",
+        "title": "C05-S06-L12.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S06-L12.mp4",
+        "time_estimation": 288
+      },
+      "sort_order": 180,
+      "object_index": 58,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064868,
+      "title": "Creating Our Own Middleware",
+      "created": "2019-06-10T14:22:33Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425510,
+        "asset_type": "Video",
+        "title": "C05-S06-L13.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S06-L13.mp4",
+        "time_estimation": 545
+      },
+      "sort_order": 179,
+      "object_index": 59,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064872,
+      "title": "Using 3rd-Party Middleware",
+      "created": "2019-06-10T14:22:41Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425562,
+        "asset_type": "Video",
+        "title": "C05-S06-L14.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S06-L14.mp4",
+        "time_estimation": 575
+      },
+      "sort_order": 178,
+      "object_index": 60,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064878,
+      "title": "Implementing the \"Users\" Routes",
+      "created": "2019-06-10T14:22:47Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425506,
+        "asset_type": "Video",
+        "title": "C05-S06-L15.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S06-L15.mp4",
+        "time_estimation": 417
+      },
+      "sort_order": 177,
+      "object_index": 61,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064882,
+      "title": "Creating and Mounting Multiple Routers",
+      "created": "2019-06-10T14:22:53Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425512,
+        "asset_type": "Video",
+        "title": "C05-S06-L16.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S06-L16.mp4",
+        "time_estimation": 484
+      },
+      "sort_order": 176,
+      "object_index": 62,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064884,
+      "title": "A Better File Structure",
+      "created": "2019-06-10T14:22:59Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425458,
+        "asset_type": "Video",
+        "title": "C05-S06-L17.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S06-L17.mp4",
+        "time_estimation": 1100
+      },
+      "sort_order": 175,
+      "object_index": 63,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064886,
+      "title": "Param Middleware",
+      "created": "2019-06-10T14:23:05Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425520,
+        "asset_type": "Video",
+        "title": "C05-S06-L18.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S06-L18.mp4",
+        "time_estimation": 654
+      },
+      "sort_order": 174,
+      "object_index": 64,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064888,
+      "title": "Chaining Multiple Middleware Functions",
+      "created": "2019-06-10T14:23:11Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425632,
+        "asset_type": "Video",
+        "title": "C05-S06-L19.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S06-L19.mp4",
+        "time_estimation": 454
+      },
+      "sort_order": 173,
+      "object_index": 65,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064890,
+      "title": "Serving Static Files",
+      "created": "2019-06-10T14:23:17Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425500,
+        "asset_type": "Video",
+        "title": "C05-S06-L20.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S06-L20.mp4",
+        "time_estimation": 327
+      },
+      "sort_order": 172,
+      "object_index": 66,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064894,
+      "title": "Environment Variables",
+      "created": "2019-06-10T14:23:23Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425622,
+        "asset_type": "Video",
+        "title": "C05-S06-L21.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S06-L21.mp4",
+        "time_estimation": 999
+      },
+      "sort_order": 171,
+      "object_index": 67,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064896,
+      "title": "Setting up ESLint + Prettier in VS Code",
+      "created": "2019-06-10T14:23:28Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425508,
+        "asset_type": "Video",
+        "title": "C05-S06-L22.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S06-L22.mp4",
+        "time_estimation": 813
+      },
+      "sort_order": 170,
+      "object_index": 68,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "chapter",
+      "id": 3536322,
+      "sort_order": 169,
+      "title": "Introduction to MongoDB",
+      "is_published": true,
+      "object_index": 7
+    },
+    {
+      "_class": "lecture",
+      "id": 15064538,
+      "title": "Section Intro",
+      "created": "2019-06-10T13:52:51Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18650046,
+        "asset_type": "Video",
+        "title": "C05-S07-L01.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S07-L01.mp4",
+        "time_estimation": 48
+      },
+      "sort_order": 168,
+      "object_index": 69,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064978,
+      "title": "What is MongoDB?",
+      "created": "2019-06-10T14:32:35Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425518,
+        "asset_type": "Video",
+        "title": "C05-S07-L02.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S07-L02.mp4",
+        "time_estimation": 524
+      },
+      "sort_order": 167,
+      "object_index": 70,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 30747880,
+      "title": "No Need to Install MongoDB Locally",
+      "created": "2022-02-06T08:39:56Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 44703492,
+        "asset_type": "Article",
+        "title": "",
+        "status": 1,
+        "is_external": false,
+        "filename": "",
+        "time_estimation": 20
+      },
+      "sort_order": 166,
+      "object_index": 71,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15064998,
+      "title": "[OPTIONAL] Installing MongoDB on macOS",
+      "created": "2019-06-10T14:34:11Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425686,
+        "asset_type": "Video",
+        "title": "C05-S07-L03.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S07-L03.mp4",
+        "time_estimation": 394
+      },
+      "sort_order": 165,
+      "object_index": 72,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065000,
+      "title": "[OPTIONAL] Installing MongoDB on Windows",
+      "created": "2019-06-10T14:34:15Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425592,
+        "asset_type": "Video",
+        "title": "C05-S07-L04.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S07-L04.mp4",
+        "time_estimation": 602
+      },
+      "sort_order": 164,
+      "object_index": 73,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065004,
+      "title": "[OPTIONAL] Creating a Local Database",
+      "created": "2019-06-10T14:34:20Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425412,
+        "asset_type": "Video",
+        "title": "C05-S07-L05.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S07-L05.mp4",
+        "time_estimation": 459
+      },
+      "sort_order": 163,
+      "object_index": 74,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065008,
+      "title": "[OPTIONAL] CRUD: Creating Documents",
+      "created": "2019-06-10T14:34:24Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425606,
+        "asset_type": "Video",
+        "title": "C05-S07-L06.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S07-L06.mp4",
+        "time_estimation": 257
+      },
+      "sort_order": 162,
+      "object_index": 75,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065010,
+      "title": "[OPTIONAL] CRUD: Querying (Reading) Documents",
+      "created": "2019-06-10T14:34:27Z",
+      "is_published": true,
+      "is_free": true,
+      "asset": {
+        "_class": "asset",
+        "id": 18425544,
+        "asset_type": "Video",
+        "title": "C05-S07-L07.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S07-L07.mp4",
+        "time_estimation": 746
+      },
+      "sort_order": 161,
+      "object_index": 76,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065012,
+      "title": "[OPTIONAL] CRUD: Updating Documents",
+      "created": "2019-06-10T14:34:32Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425538,
+        "asset_type": "Video",
+        "title": "C05-S07-L08.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S07-L08.mp4",
+        "time_estimation": 470
+      },
+      "sort_order": 160,
+      "object_index": 77,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065014,
+      "title": "[OPTIONAL] CRUD: Deleting Documents",
+      "created": "2019-06-10T14:34:35Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425692,
+        "asset_type": "Video",
+        "title": "C05-S07-L09.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S07-L09.mp4",
+        "time_estimation": 167
+      },
+      "sort_order": 159,
+      "object_index": 78,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065016,
+      "title": "Using Compass App for CRUD Operations",
+      "created": "2019-06-10T14:34:39Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425648,
+        "asset_type": "Video",
+        "title": "C05-S07-L10.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S07-L10.mp4",
+        "time_estimation": 430
+      },
+      "sort_order": 158,
+      "object_index": 79,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065022,
+      "title": "Creating a Hosted Database with Atlas",
+      "created": "2019-06-10T14:34:45Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425628,
+        "asset_type": "Video",
+        "title": "C05-S07-L11.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S07-L11.mp4",
+        "time_estimation": 267
+      },
+      "sort_order": 157,
+      "object_index": 80,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065024,
+      "title": "Connecting to Our Hosted Database",
+      "created": "2019-06-10T14:34:48Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425560,
+        "asset_type": "Video",
+        "title": "C05-S07-L12.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S07-L12.mp4",
+        "time_estimation": 455
+      },
+      "sort_order": 156,
+      "object_index": 81,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "chapter",
+      "id": 3536324,
+      "sort_order": 155,
+      "title": "Using MongoDB with Mongoose",
+      "is_published": true,
+      "object_index": 8
+    },
+    {
+      "_class": "lecture",
+      "id": 15064536,
+      "title": "Section Intro",
+      "created": "2019-06-10T13:52:44Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18650044,
+        "asset_type": "Video",
+        "title": "C05-S08-L01.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S08-L01.mp4",
+        "time_estimation": 55
+      },
+      "sort_order": 154,
+      "object_index": 82,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065060,
+      "title": "Connecting Our Database with the Express App",
+      "created": "2019-06-10T14:39:01Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425570,
+        "asset_type": "Video",
+        "title": "C05-S08-L02.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S08-L02.mp4",
+        "time_estimation": 744
+      },
+      "sort_order": 153,
+      "object_index": 83,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065062,
+      "title": "What Is Mongoose?",
+      "created": "2019-06-10T14:39:13Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425442,
+        "asset_type": "Video",
+        "title": "C05-S08-L03.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S08-L03.mp4",
+        "time_estimation": 113
+      },
+      "sort_order": 152,
+      "object_index": 84,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065064,
+      "title": "Creating a Simple Tour Model",
+      "created": "2019-06-10T14:39:19Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425418,
+        "asset_type": "Video",
+        "title": "C05-S08-L04.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S08-L04.mp4",
+        "time_estimation": 421
+      },
+      "sort_order": 151,
+      "object_index": 85,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065066,
+      "title": "Creating Documents and Testing the Model",
+      "created": "2019-06-10T14:39:24Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425608,
+        "asset_type": "Video",
+        "title": "C05-S08-L05.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S08-L05.mp4",
+        "time_estimation": 542
+      },
+      "sort_order": 150,
+      "object_index": 86,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065070,
+      "title": "Intro to Back-End Architecture: MVC, Types of Logic, and More",
+      "created": "2019-06-10T14:39:29Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425582,
+        "asset_type": "Video",
+        "title": "C05-S08-L06.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S08-L06.mp4",
+        "time_estimation": 414
+      },
+      "sort_order": 149,
+      "object_index": 87,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065072,
+      "title": "Refactoring for MVC",
+      "created": "2019-06-10T14:39:34Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425492,
+        "asset_type": "Video",
+        "title": "C05-S08-L07.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S08-L07.mp4",
+        "time_estimation": 391
+      },
+      "sort_order": 148,
+      "object_index": 88,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065074,
+      "title": "Another Way of Creating Documents",
+      "created": "2019-06-10T14:39:38Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425530,
+        "asset_type": "Video",
+        "title": "C05-S08-L08.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S08-L08.mp4",
+        "time_estimation": 833
+      },
+      "sort_order": 147,
+      "object_index": 89,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065076,
+      "title": "Reading Documents",
+      "created": "2019-06-10T14:39:42Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425674,
+        "asset_type": "Video",
+        "title": "C05-S08-L09.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S08-L09.mp4",
+        "time_estimation": 515
+      },
+      "sort_order": 146,
+      "object_index": 90,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065078,
+      "title": "Updating Documents",
+      "created": "2019-06-10T14:39:48Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425630,
+        "asset_type": "Video",
+        "title": "C05-S08-L10.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S08-L10.mp4",
+        "time_estimation": 651
+      },
+      "sort_order": 145,
+      "object_index": 91,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065080,
+      "title": "Deleting Documents",
+      "created": "2019-06-10T14:39:51Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425416,
+        "asset_type": "Video",
+        "title": "C05-S08-L11.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S08-L11.mp4",
+        "time_estimation": 249
+      },
+      "sort_order": 144,
+      "object_index": 92,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065082,
+      "title": "Modelling the Tours",
+      "created": "2019-06-10T14:39:56Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425594,
+        "asset_type": "Video",
+        "title": "C05-S08-L12.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S08-L12.mp4",
+        "time_estimation": 1093
+      },
+      "sort_order": 143,
+      "object_index": 93,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065084,
+      "title": "Importing Development Data",
+      "created": "2019-06-10T14:40:00Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425454,
+        "asset_type": "Video",
+        "title": "C05-S08-L13.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S08-L13.mp4",
+        "time_estimation": 940
+      },
+      "sort_order": 142,
+      "object_index": 94,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065086,
+      "title": "Making the API Better: Filtering",
+      "created": "2019-06-10T14:40:06Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425536,
+        "asset_type": "Video",
+        "title": "C05-S08-L14.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S08-L14.mp4",
+        "time_estimation": 1125
+      },
+      "sort_order": 141,
+      "object_index": 95,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065088,
+      "title": "Making the API Better: Advanced Filtering",
+      "created": "2019-06-10T14:40:09Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425402,
+        "asset_type": "Video",
+        "title": "C05-S08-L15.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S08-L15.mp4",
+        "time_estimation": 724
+      },
+      "sort_order": 140,
+      "object_index": 96,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065090,
+      "title": "Making the API Better: Sorting",
+      "created": "2019-06-10T14:40:13Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425612,
+        "asset_type": "Video",
+        "title": "C05-S08-L16.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S08-L16.mp4",
+        "time_estimation": 659
+      },
+      "sort_order": 139,
+      "object_index": 97,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065094,
+      "title": "Making the API Better: Limiting Fields",
+      "created": "2019-06-10T14:40:17Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425410,
+        "asset_type": "Video",
+        "title": "C05-S08-L17.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S08-L17.mp4",
+        "time_estimation": 378
+      },
+      "sort_order": 138,
+      "object_index": 98,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065096,
+      "title": "Making the API Better: Pagination",
+      "created": "2019-06-10T14:40:21Z",
+      "is_published": true,
+      "is_free": true,
+      "asset": {
+        "_class": "asset",
+        "id": 18425414,
+        "asset_type": "Video",
+        "title": "C05-S08-L18.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S08-L18.mp4",
+        "time_estimation": 899
+      },
+      "sort_order": 137,
+      "object_index": 99,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065098,
+      "title": "Making the API Better: Aliasing",
+      "created": "2019-06-10T14:40:25Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425548,
+        "asset_type": "Video",
+        "title": "C05-S08-L19.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S08-L19.mp4",
+        "time_estimation": 536
+      },
+      "sort_order": 136,
+      "object_index": 100,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065100,
+      "title": "Refactoring API Features",
+      "created": "2019-06-10T14:40:29Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425516,
+        "asset_type": "Video",
+        "title": "C05-S08-L20.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S08-L20.mp4",
+        "time_estimation": 938
+      },
+      "sort_order": 135,
+      "object_index": 101,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065102,
+      "title": "Aggregation Pipeline: Matching and Grouping",
+      "created": "2019-06-10T14:40:34Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425484,
+        "asset_type": "Video",
+        "title": "C05-S08-L21.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S08-L21.mp4",
+        "time_estimation": 1237
+      },
+      "sort_order": 134,
+      "object_index": 102,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065104,
+      "title": "Aggregation Pipeline: Unwinding and Projecting",
+      "created": "2019-06-10T14:40:37Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425400,
+        "asset_type": "Video",
+        "title": "C05-S08-L22.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S08-L22.mp4",
+        "time_estimation": 1168
+      },
+      "sort_order": 133,
+      "object_index": 103,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065106,
+      "title": "Virtual Properties",
+      "created": "2019-06-10T14:40:41Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425498,
+        "asset_type": "Video",
+        "title": "C05-S08-L23.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S08-L23.mp4",
+        "time_estimation": 383
+      },
+      "sort_order": 132,
+      "object_index": 104,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065108,
+      "title": "Document Middleware",
+      "created": "2019-06-10T14:40:45Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425494,
+        "asset_type": "Video",
+        "title": "C05-S08-L24.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S08-L24.mp4",
+        "time_estimation": 869
+      },
+      "sort_order": 131,
+      "object_index": 105,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065110,
+      "title": "Query Middleware",
+      "created": "2019-06-10T14:40:49Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425502,
+        "asset_type": "Video",
+        "title": "C05-S08-L25.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S08-L25.mp4",
+        "time_estimation": 834
+      },
+      "sort_order": 130,
+      "object_index": 106,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065112,
+      "title": "Aggregation Middleware",
+      "created": "2019-06-10T14:40:53Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425408,
+        "asset_type": "Video",
+        "title": "C05-S08-L26.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S08-L26.mp4",
+        "time_estimation": 462
+      },
+      "sort_order": 129,
+      "object_index": 107,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065114,
+      "title": "Data Validation: Built-In Validators",
+      "created": "2019-06-10T14:40:56Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425490,
+        "asset_type": "Video",
+        "title": "C05-S08-L27.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S08-L27.mp4",
+        "time_estimation": 606
+      },
+      "sort_order": 128,
+      "object_index": 108,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065116,
+      "title": "Data Validation: Custom Validators",
+      "created": "2019-06-10T14:41:00Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425398,
+        "asset_type": "Video",
+        "title": "C05-S08-L28.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S08-L28.mp4",
+        "time_estimation": 842
+      },
+      "sort_order": 127,
+      "object_index": 109,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "chapter",
+      "id": 3536330,
+      "sort_order": 126,
+      "title": "Error Handling with Express",
+      "is_published": true,
+      "object_index": 9
+    },
+    {
+      "_class": "lecture",
+      "id": 15064534,
+      "title": "Section Intro",
+      "created": "2019-06-10T13:52:41Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18650048,
+        "asset_type": "Video",
+        "title": "C05-S09-L01.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S09-L01.mp4",
+        "time_estimation": 41
+      },
+      "sort_order": 125,
+      "object_index": 110,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065196,
+      "title": "Debugging Node.js with ndb",
+      "created": "2019-06-10T14:51:54Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425646,
+        "asset_type": "Video",
+        "title": "C05-S09-L02.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S09-L02.mp4",
+        "time_estimation": 1229
+      },
+      "sort_order": 124,
+      "object_index": 111,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065200,
+      "title": "Handling Unhandled Routes",
+      "created": "2019-06-10T14:51:58Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425616,
+        "asset_type": "Video",
+        "title": "C05-S09-L03.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S09-L03.mp4",
+        "time_estimation": 470
+      },
+      "sort_order": 123,
+      "object_index": 112,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065202,
+      "title": "An Overview of Error Handling",
+      "created": "2019-06-10T14:52:02Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425660,
+        "asset_type": "Video",
+        "title": "C05-S09-L04.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S09-L04.mp4",
+        "time_estimation": 216
+      },
+      "sort_order": 122,
+      "object_index": 113,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065206,
+      "title": "Implementing a Global Error Handling Middleware",
+      "created": "2019-06-10T14:52:08Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425580,
+        "asset_type": "Video",
+        "title": "C05-S09-L05.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S09-L05.mp4",
+        "time_estimation": 539
+      },
+      "sort_order": 121,
+      "object_index": 114,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065208,
+      "title": "Better Errors and Refactoring",
+      "created": "2019-06-10T14:52:12Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425396,
+        "asset_type": "Video",
+        "title": "C05-S09-L06.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S09-L06.mp4",
+        "time_estimation": 672
+      },
+      "sort_order": 120,
+      "object_index": 115,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065210,
+      "title": "Catching Errors in Async Functions",
+      "created": "2019-06-10T14:52:17Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425662,
+        "asset_type": "Video",
+        "title": "C05-S09-L07.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S09-L07.mp4",
+        "time_estimation": 893
+      },
+      "sort_order": 119,
+      "object_index": 116,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065212,
+      "title": "Adding 404 Not Found Errors",
+      "created": "2019-06-10T14:52:21Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425650,
+        "asset_type": "Video",
+        "title": "C05-S09-L08.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S09-L08.mp4",
+        "time_estimation": 546
+      },
+      "sort_order": 118,
+      "object_index": 117,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065216,
+      "title": "Errors During Development vs Production",
+      "created": "2019-06-10T14:52:27Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425678,
+        "asset_type": "Video",
+        "title": "C05-S09-L09.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S09-L09.mp4",
+        "time_estimation": 630
+      },
+      "sort_order": 117,
+      "object_index": 118,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065218,
+      "title": "Handling Invalid Database IDs",
+      "created": "2019-06-10T14:52:31Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425642,
+        "asset_type": "Video",
+        "title": "C05-S09-L10.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S09-L10.mp4",
+        "time_estimation": 582
+      },
+      "sort_order": 116,
+      "object_index": 119,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065220,
+      "title": "Handling Duplicate Database Fields",
+      "created": "2019-06-10T14:52:35Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425644,
+        "asset_type": "Video",
+        "title": "C05-S09-L11.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S09-L11.mp4",
+        "time_estimation": 364
+      },
+      "sort_order": 115,
+      "object_index": 120,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065222,
+      "title": "Handling Mongoose Validation Errors",
+      "created": "2019-06-10T14:52:39Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425462,
+        "asset_type": "Video",
+        "title": "C05-S09-L12.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S09-L12.mp4",
+        "time_estimation": 504
+      },
+      "sort_order": 114,
+      "object_index": 121,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065226,
+      "title": "Errors Outside Express: Unhandled Rejections",
+      "created": "2019-06-10T14:52:45Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425452,
+        "asset_type": "Video",
+        "title": "C05-S09-L13.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S09-L13.mp4",
+        "time_estimation": 529
+      },
+      "sort_order": 113,
+      "object_index": 122,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065228,
+      "title": "Catching Uncaught Exceptions",
+      "created": "2019-06-10T14:52:48Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425460,
+        "asset_type": "Video",
+        "title": "C05-S09-L14.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S09-L14.mp4",
+        "time_estimation": 556
+      },
+      "sort_order": 112,
+      "object_index": 123,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "chapter",
+      "id": 3536332,
+      "sort_order": 111,
+      "title": "Authentication, Authorization and Security",
+      "is_published": true,
+      "object_index": 10
+    },
+    {
+      "_class": "lecture",
+      "id": 15064532,
+      "title": "Section Intro",
+      "created": "2019-06-10T13:52:36Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18650036,
+        "asset_type": "Video",
+        "title": "C05-S10-L01.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S10-L01.mp4",
+        "time_estimation": 58
+      },
+      "sort_order": 110,
+      "object_index": 124,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065280,
+      "title": "Modelling Users",
+      "created": "2019-06-10T14:57:20Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425670,
+        "asset_type": "Video",
+        "title": "C05-S10-L02.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S10-L02.mp4",
+        "time_estimation": 600
+      },
+      "sort_order": 109,
+      "object_index": 125,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065286,
+      "title": "Creating New Users",
+      "created": "2019-06-10T14:57:27Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425676,
+        "asset_type": "Video",
+        "title": "C05-S10-L03.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S10-L03.mp4",
+        "time_estimation": 679
+      },
+      "sort_order": 108,
+      "object_index": 126,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065288,
+      "title": "Managing Passwords",
+      "created": "2019-06-10T14:57:31Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425588,
+        "asset_type": "Video",
+        "title": "C05-S10-L04.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S10-L04.mp4",
+        "time_estimation": 1104
+      },
+      "sort_order": 107,
+      "object_index": 127,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065290,
+      "title": "How Authentication with JWT Works",
+      "created": "2019-06-10T14:57:35Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425464,
+        "asset_type": "Video",
+        "title": "C05-S10-L05.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S10-L05.mp4",
+        "time_estimation": 526
+      },
+      "sort_order": 106,
+      "object_index": 128,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065292,
+      "title": "Signing up Users",
+      "created": "2019-06-10T14:57:39Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18939510,
+        "asset_type": "Video",
+        "title": "C05-S10-L06-v1.0.1.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S10-L06-v1.0.1.mp4",
+        "time_estimation": 961
+      },
+      "sort_order": 105,
+      "object_index": 129,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065298,
+      "title": "Logging in Users",
+      "created": "2019-06-10T14:57:42Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425600,
+        "asset_type": "Video",
+        "title": "C05-S10-L07.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S10-L07.mp4",
+        "time_estimation": 1595
+      },
+      "sort_order": 104,
+      "object_index": 130,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065300,
+      "title": "Protecting Tour Routes - Part 1",
+      "created": "2019-06-10T14:57:47Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425488,
+        "asset_type": "Video",
+        "title": "C05-S10-L08.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S10-L08.mp4",
+        "time_estimation": 897
+      },
+      "sort_order": 103,
+      "object_index": 131,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065304,
+      "title": "Protecting Tour Routes - Part 2",
+      "created": "2019-06-10T14:57:51Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425450,
+        "asset_type": "Video",
+        "title": "C05-S10-L09.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S10-L09.mp4",
+        "time_estimation": 2114
+      },
+      "sort_order": 102,
+      "object_index": 132,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065306,
+      "title": "Advanced Postman Setup",
+      "created": "2019-06-10T14:57:54Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425652,
+        "asset_type": "Video",
+        "title": "C05-S10-L10.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S10-L10.mp4",
+        "time_estimation": 695
+      },
+      "sort_order": 101,
+      "object_index": 133,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065310,
+      "title": "Authorization: User Roles and Permissions",
+      "created": "2019-06-10T14:57:58Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425684,
+        "asset_type": "Video",
+        "title": "C05-S10-L11.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S10-L11.mp4",
+        "time_estimation": 954
+      },
+      "sort_order": 100,
+      "object_index": 134,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065314,
+      "title": "Password Reset Functionality: Reset Token",
+      "created": "2019-06-10T14:58:02Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425482,
+        "asset_type": "Video",
+        "title": "C05-S10-L12.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S10-L12.mp4",
+        "time_estimation": 1023
+      },
+      "sort_order": 99,
+      "object_index": 135,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065316,
+      "title": "Sending Emails with Nodemailer",
+      "created": "2019-06-10T14:58:05Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425446,
+        "asset_type": "Video",
+        "title": "C05-S10-L13.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S10-L13.mp4",
+        "time_estimation": 1384
+      },
+      "sort_order": 98,
+      "object_index": 136,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065322,
+      "title": "Password Reset Functionality: Setting New Password",
+      "created": "2019-06-10T14:58:09Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425598,
+        "asset_type": "Video",
+        "title": "C05-S10-L14.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S10-L14.mp4",
+        "time_estimation": 1293
+      },
+      "sort_order": 97,
+      "object_index": 137,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065326,
+      "title": "Updating the Current User: Password",
+      "created": "2019-06-10T14:58:22Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425472,
+        "asset_type": "Video",
+        "title": "C05-S10-L15.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S10-L15.mp4",
+        "time_estimation": 996
+      },
+      "sort_order": 96,
+      "object_index": 138,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065332,
+      "title": "Updating the Current User: Data",
+      "created": "2019-06-10T14:58:28Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425636,
+        "asset_type": "Video",
+        "title": "C05-S10-L16.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S10-L16.mp4",
+        "time_estimation": 1211
+      },
+      "sort_order": 95,
+      "object_index": 139,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065334,
+      "title": "Deleting the Current User",
+      "created": "2019-06-10T14:58:31Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425634,
+        "asset_type": "Video",
+        "title": "C05-S10-L17.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S10-L17.mp4",
+        "time_estimation": 628
+      },
+      "sort_order": 94,
+      "object_index": 140,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065338,
+      "title": "Security Best Practices",
+      "created": "2019-06-10T14:58:37Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425626,
+        "asset_type": "Video",
+        "title": "C05-S10-L18.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S10-L18.mp4",
+        "time_estimation": 613
+      },
+      "sort_order": 93,
+      "object_index": 141,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065340,
+      "title": "Sending JWT via Cookie",
+      "created": "2019-06-10T14:58:41Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425586,
+        "asset_type": "Video",
+        "title": "C05-S10-L19.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S10-L19.mp4",
+        "time_estimation": 586
+      },
+      "sort_order": 92,
+      "object_index": 142,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065344,
+      "title": "Implementing Rate Limiting",
+      "created": "2019-06-10T14:58:44Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425614,
+        "asset_type": "Video",
+        "title": "C05-S10-L20.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S10-L20.mp4",
+        "time_estimation": 424
+      },
+      "sort_order": 91,
+      "object_index": 143,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065346,
+      "title": "Setting Security HTTP Headers",
+      "created": "2019-06-10T14:58:48Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425620,
+        "asset_type": "Video",
+        "title": "C05-S10-L21.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S10-L21.mp4",
+        "time_estimation": 319
+      },
+      "sort_order": 90,
+      "object_index": 144,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065350,
+      "title": "Data Sanitization",
+      "created": "2019-06-10T14:58:51Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425444,
+        "asset_type": "Video",
+        "title": "C05-S10-L22.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S10-L22.mp4",
+        "time_estimation": 555
+      },
+      "sort_order": 89,
+      "object_index": 145,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065354,
+      "title": "Preventing Parameter Pollution",
+      "created": "2019-06-10T14:58:56Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425436,
+        "asset_type": "Video",
+        "title": "C05-S10-L23.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S10-L23.mp4",
+        "time_estimation": 500
+      },
+      "sort_order": 88,
+      "object_index": 146,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "chapter",
+      "id": 3536334,
+      "sort_order": 87,
+      "title": "Modelling Data and Advanced Mongoose",
+      "is_published": true,
+      "object_index": 11
+    },
+    {
+      "_class": "lecture",
+      "id": 15064530,
+      "title": "Section Intro",
+      "created": "2019-06-10T13:52:33Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18650040,
+        "asset_type": "Video",
+        "title": "C05-S11-L01.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S11-L01.mp4",
+        "time_estimation": 62
+      },
+      "sort_order": 86,
+      "object_index": 147,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065504,
+      "title": "MongoDB Data Modelling",
+      "created": "2019-06-10T15:12:02Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425658,
+        "asset_type": "Video",
+        "title": "C05-S11-L02.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S11-L02.mp4",
+        "time_estimation": 1479
+      },
+      "sort_order": 85,
+      "object_index": 148,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065506,
+      "title": "Designing Our Data Model",
+      "created": "2019-06-10T15:12:06Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425604,
+        "asset_type": "Video",
+        "title": "C05-S11-L03.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S11-L03.mp4",
+        "time_estimation": 657
+      },
+      "sort_order": 84,
+      "object_index": 149,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065508,
+      "title": "Modelling Locations (Geospatial Data)",
+      "created": "2019-06-10T15:12:14Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425624,
+        "asset_type": "Video",
+        "title": "C05-S11-L04.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S11-L04.mp4",
+        "time_estimation": 745
+      },
+      "sort_order": 83,
+      "object_index": 150,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065514,
+      "title": "Modelling Tour Guides: Embedding",
+      "created": "2019-06-10T15:12:40Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425584,
+        "asset_type": "Video",
+        "title": "C05-S11-L05.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S11-L05.mp4",
+        "time_estimation": 468
+      },
+      "sort_order": 82,
+      "object_index": 151,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065516,
+      "title": "Modelling Tour Guides: Child Referencing",
+      "created": "2019-06-10T15:12:45Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425466,
+        "asset_type": "Video",
+        "title": "C05-S11-L06.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S11-L06.mp4",
+        "time_estimation": 296
+      },
+      "sort_order": 81,
+      "object_index": 152,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065518,
+      "title": "Populating Tour Guides",
+      "created": "2019-06-10T15:12:49Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425610,
+        "asset_type": "Video",
+        "title": "C05-S11-L07.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S11-L07.mp4",
+        "time_estimation": 642
+      },
+      "sort_order": 80,
+      "object_index": 153,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065520,
+      "title": "Modelling Reviews: Parent Referencing",
+      "created": "2019-06-10T15:12:53Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425526,
+        "asset_type": "Video",
+        "title": "C05-S11-L08.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S11-L08.mp4",
+        "time_estimation": 510
+      },
+      "sort_order": 79,
+      "object_index": 154,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065524,
+      "title": "Creating and Getting Reviews",
+      "created": "2019-06-10T15:13:03Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425476,
+        "asset_type": "Video",
+        "title": "C05-S11-L09.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S11-L09.mp4",
+        "time_estimation": 1023
+      },
+      "sort_order": 78,
+      "object_index": 155,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065526,
+      "title": "Populating Reviews",
+      "created": "2019-06-10T15:13:07Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425504,
+        "asset_type": "Video",
+        "title": "C05-S11-L10.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S11-L10.mp4",
+        "time_estimation": 366
+      },
+      "sort_order": 77,
+      "object_index": 156,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065528,
+      "title": "Virtual Populate: Tours and Reviews",
+      "created": "2019-06-10T15:13:10Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425428,
+        "asset_type": "Video",
+        "title": "C05-S11-L11.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S11-L11.mp4",
+        "time_estimation": 722
+      },
+      "sort_order": 76,
+      "object_index": 157,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065530,
+      "title": "Implementing Simple Nested Routes",
+      "created": "2019-06-10T15:13:21Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425480,
+        "asset_type": "Video",
+        "title": "C05-S11-L12.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S11-L12.mp4",
+        "time_estimation": 809
+      },
+      "sort_order": 75,
+      "object_index": 158,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065532,
+      "title": "Nested Routes with Express",
+      "created": "2019-06-10T15:13:25Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425390,
+        "asset_type": "Video",
+        "title": "C05-S11-L13.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S11-L13.mp4",
+        "time_estimation": 480
+      },
+      "sort_order": 74,
+      "object_index": 159,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065534,
+      "title": "Adding a Nested GET Endpoint",
+      "created": "2019-06-10T15:13:34Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425618,
+        "asset_type": "Video",
+        "title": "C05-S11-L14.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S11-L14.mp4",
+        "time_estimation": 306
+      },
+      "sort_order": 73,
+      "object_index": 160,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065536,
+      "title": "Building Handler Factory Functions: Delete",
+      "created": "2019-06-10T15:13:39Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425456,
+        "asset_type": "Video",
+        "title": "C05-S11-L15.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S11-L15.mp4",
+        "time_estimation": 861
+      },
+      "sort_order": 72,
+      "object_index": 161,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065538,
+      "title": "Factory Functions: Update and Create",
+      "created": "2019-06-10T15:13:43Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425656,
+        "asset_type": "Video",
+        "title": "C05-S11-L16.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S11-L16.mp4",
+        "time_estimation": 802
+      },
+      "sort_order": 71,
+      "object_index": 162,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065540,
+      "title": "Factory Functions: Reading",
+      "created": "2019-06-10T15:13:47Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425392,
+        "asset_type": "Video",
+        "title": "C05-S11-L17.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S11-L17.mp4",
+        "time_estimation": 881
+      },
+      "sort_order": 70,
+      "object_index": 163,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065542,
+      "title": "Adding a /me Endpoint",
+      "created": "2019-06-10T15:13:58Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425424,
+        "asset_type": "Video",
+        "title": "C05-S11-L18.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S11-L18.mp4",
+        "time_estimation": 282
+      },
+      "sort_order": 69,
+      "object_index": 164,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065544,
+      "title": "Adding Missing Authentication and Authorization",
+      "created": "2019-06-10T15:14:08Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425438,
+        "asset_type": "Video",
+        "title": "C05-S11-L19.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S11-L19.mp4",
+        "time_estimation": 884
+      },
+      "sort_order": 68,
+      "object_index": 165,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065548,
+      "title": "Importing Review and User Data",
+      "created": "2019-06-10T15:14:12Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425388,
+        "asset_type": "Video",
+        "title": "C05-S11-L20.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S11-L20.mp4",
+        "time_estimation": 446
+      },
+      "sort_order": 67,
+      "object_index": 166,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065550,
+      "title": "Improving Read Performance with Indexes",
+      "created": "2019-06-10T15:14:19Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425640,
+        "asset_type": "Video",
+        "title": "C05-S11-L21.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S11-L21.mp4",
+        "time_estimation": 971
+      },
+      "sort_order": 66,
+      "object_index": 167,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065552,
+      "title": "Calculating Average Rating on Tours - Part 1",
+      "created": "2019-06-10T15:14:23Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425430,
+        "asset_type": "Video",
+        "title": "C05-S11-L22.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S11-L22.mp4",
+        "time_estimation": 1345
+      },
+      "sort_order": 65,
+      "object_index": 168,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065554,
+      "title": "Calculating Average Rating on Tours - Part 2",
+      "created": "2019-06-10T15:14:26Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425384,
+        "asset_type": "Video",
+        "title": "C05-S11-L23.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S11-L23.mp4",
+        "time_estimation": 956
+      },
+      "sort_order": 64,
+      "object_index": 169,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065556,
+      "title": "Preventing Duplicate Reviews",
+      "created": "2019-06-10T15:14:29Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425380,
+        "asset_type": "Video",
+        "title": "C05-S11-L24.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S11-L24.mp4",
+        "time_estimation": 569
+      },
+      "sort_order": 63,
+      "object_index": 170,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065560,
+      "title": "Geospatial Queries: Finding Tours Within Radius",
+      "created": "2019-06-10T15:14:38Z",
+      "is_published": true,
+      "is_free": true,
+      "asset": {
+        "_class": "asset",
+        "id": 18425386,
+        "asset_type": "Video",
+        "title": "C05-S11-L25.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S11-L25.mp4",
+        "time_estimation": 1792
+      },
+      "sort_order": 62,
+      "object_index": 171,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065562,
+      "title": "Geospatial Aggregation: Calculating Distances",
+      "created": "2019-06-10T15:14:42Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425566,
+        "asset_type": "Video",
+        "title": "C05-S11-L26.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S11-L26.mp4",
+        "time_estimation": 988
+      },
+      "sort_order": 61,
+      "object_index": 172,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065564,
+      "title": "Creating API Documentation Using Postman",
+      "created": "2019-06-10T15:14:45Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425468,
+        "asset_type": "Video",
+        "title": "C05-S11-L27.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S11-L27.mp4",
+        "time_estimation": 637
+      },
+      "sort_order": 60,
+      "object_index": 173,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "chapter",
+      "id": 3536338,
+      "sort_order": 59,
+      "title": "Server-Side Rendering with Pug Templates",
+      "is_published": true,
+      "object_index": 12
+    },
+    {
+      "_class": "lecture",
+      "id": 15064526,
+      "title": "Section Intro",
+      "created": "2019-06-10T13:52:28Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18650038,
+        "asset_type": "Video",
+        "title": "C05-S12-L01.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S12-L01.mp4",
+        "time_estimation": 56
+      },
+      "sort_order": 58,
+      "object_index": 174,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065616,
+      "title": "Recap: Server-Side vs Client-Side Rendering",
+      "created": "2019-06-10T15:21:30Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425522,
+        "asset_type": "Video",
+        "title": "C05-S12-L02.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S12-L02.mp4",
+        "time_estimation": 316
+      },
+      "sort_order": 57,
+      "object_index": 175,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065618,
+      "title": "Setting up Pug in Express",
+      "created": "2019-06-10T15:21:34Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425394,
+        "asset_type": "Video",
+        "title": "C05-S12-L03.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S12-L03.mp4",
+        "time_estimation": 607
+      },
+      "sort_order": 56,
+      "object_index": 176,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065620,
+      "title": "First Steps with Pug",
+      "created": "2019-06-10T15:21:38Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425374,
+        "asset_type": "Video",
+        "title": "C05-S12-L04.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S12-L04.mp4",
+        "time_estimation": 877
+      },
+      "sort_order": 55,
+      "object_index": 177,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065622,
+      "title": "Creating Our Base Template",
+      "created": "2019-06-10T15:21:41Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425528,
+        "asset_type": "Video",
+        "title": "C05-S12-L05.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S12-L05.mp4",
+        "time_estimation": 924
+      },
+      "sort_order": 54,
+      "object_index": 178,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065626,
+      "title": "Including Files into Pug Templates",
+      "created": "2019-06-10T15:21:45Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425376,
+        "asset_type": "Video",
+        "title": "C05-S12-L06.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S12-L06.mp4",
+        "time_estimation": 285
+      },
+      "sort_order": 53,
+      "object_index": 179,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065628,
+      "title": "Extending Our Base Template with Blocks",
+      "created": "2019-06-10T15:21:49Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425572,
+        "asset_type": "Video",
+        "title": "C05-S12-L07.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S12-L07.mp4",
+        "time_estimation": 606
+      },
+      "sort_order": 52,
+      "object_index": 180,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065634,
+      "title": "Setting up the Project Structure",
+      "created": "2019-06-10T15:21:56Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425496,
+        "asset_type": "Video",
+        "title": "C05-S12-L08.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S12-L08.mp4",
+        "time_estimation": 357
+      },
+      "sort_order": 51,
+      "object_index": 181,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065636,
+      "title": "Building the Tour Overview - Part 1",
+      "created": "2019-06-10T15:22:03Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425552,
+        "asset_type": "Video",
+        "title": "C05-S12-L09.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S12-L09.mp4",
+        "time_estimation": 697
+      },
+      "sort_order": 50,
+      "object_index": 182,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065642,
+      "title": "Building the Tour Overview - Part 2",
+      "created": "2019-06-10T15:22:08Z",
+      "is_published": true,
+      "is_free": true,
+      "asset": {
+        "_class": "asset",
+        "id": 18425532,
+        "asset_type": "Video",
+        "title": "C05-S12-L10.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S12-L10.mp4",
+        "time_estimation": 952
+      },
+      "sort_order": 49,
+      "object_index": 183,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065644,
+      "title": "Building the Tour Page - Part 1",
+      "created": "2019-06-10T15:22:14Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425638,
+        "asset_type": "Video",
+        "title": "C05-S12-L11.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S12-L11.mp4",
+        "time_estimation": 1228
+      },
+      "sort_order": 48,
+      "object_index": 184,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065648,
+      "title": "Building the Tour Page - Part 2",
+      "created": "2019-06-10T15:22:18Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425666,
+        "asset_type": "Video",
+        "title": "C05-S12-L12.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S12-L12.mp4",
+        "time_estimation": 1549
+      },
+      "sort_order": 47,
+      "object_index": 185,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065650,
+      "title": "Including a Map with Mapbox - Part 1",
+      "created": "2019-06-10T15:22:22Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425534,
+        "asset_type": "Video",
+        "title": "C05-S12-L13.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S12-L13.mp4",
+        "time_estimation": 693
+      },
+      "sort_order": 46,
+      "object_index": 186,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065656,
+      "title": "Including a Map with Mapbox - Part 2",
+      "created": "2019-06-10T15:22:27Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425672,
+        "asset_type": "Video",
+        "title": "C05-S12-L14.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S12-L14.mp4",
+        "time_estimation": 1671
+      },
+      "sort_order": 45,
+      "object_index": 187,
+      "supplementary_assets": []
+    },
+    {
+      "_class": "lecture",
+      "id": 15065658,
+      "title": "Building the Login Screen",
+      "created": "2019-06-10T15:22:30Z",
+      "is_published": true,
+      "is_free": false,
+      "asset": {
+        "_class": "asset",
+        "id": 18425406,
+        "asset_type": "Video",
+        "title": "C05-S12-L15.mp4",
+        "status": 1,
+        "is_external": false,
+        "filename": "C05-S12-L15.mp4",
+        "time_estimation": 390
+      },
+      "sort_order": 44,
+      "object_index": 188,
+      "supplementary_assets": []
+    },
     {
       "_class": "lecture",
       "id": 15065660,
@@ -21,7 +4109,7 @@
         "time_estimation": 1253
       },
       "sort_order": 43,
-      "object_index": 1,
+      "object_index": 189,
       "supplementary_assets": []
     },
     {
@@ -42,7 +4130,7 @@
         "time_estimation": 1119
       },
       "sort_order": 42,
-      "object_index": 2,
+      "object_index": 190,
       "supplementary_assets": []
     },
     {
@@ -63,7 +4151,7 @@
         "time_estimation": 1695
       },
       "sort_order": 41,
-      "object_index": 3,
+      "object_index": 191,
       "supplementary_assets": []
     },
     {
@@ -84,7 +4172,7 @@
         "time_estimation": 836
       },
       "sort_order": 40,
-      "object_index": 4,
+      "object_index": 192,
       "supplementary_assets": []
     },
     {
@@ -105,7 +4193,7 @@
         "time_estimation": 1305
       },
       "sort_order": 39,
-      "object_index": 5,
+      "object_index": 193,
       "supplementary_assets": []
     },
     {
@@ -126,7 +4214,7 @@
         "time_estimation": 965
       },
       "sort_order": 38,
-      "object_index": 6,
+      "object_index": 194,
       "supplementary_assets": []
     },
     {
@@ -147,7 +4235,7 @@
         "time_estimation": 1027
       },
       "sort_order": 37,
-      "object_index": 7,
+      "object_index": 195,
       "supplementary_assets": []
     },
     {
@@ -168,7 +4256,7 @@
         "time_estimation": 754
       },
       "sort_order": 36,
-      "object_index": 8,
+      "object_index": 196,
       "supplementary_assets": []
     },
     {
@@ -189,7 +4277,7 @@
         "time_estimation": 881
       },
       "sort_order": 35,
-      "object_index": 9,
+      "object_index": 197,
       "supplementary_assets": []
     },
     {
@@ -198,7 +4286,7 @@
       "sort_order": 34,
       "title": "Advanced Features: Payments, Email, File Uploads",
       "is_published": true,
-      "object_index": 1
+      "object_index": 13
     },
     {
       "_class": "lecture",
@@ -218,7 +4306,7 @@
         "time_estimation": 32
       },
       "sort_order": 33,
-      "object_index": 10,
+      "object_index": 198,
       "supplementary_assets": []
     },
     {
@@ -239,7 +4327,7 @@
         "time_estimation": 612
       },
       "sort_order": 32,
-      "object_index": 11,
+      "object_index": 199,
       "supplementary_assets": []
     },
     {
@@ -260,7 +4348,7 @@
         "time_estimation": 825
       },
       "sort_order": 31,
-      "object_index": 12,
+      "object_index": 200,
       "supplementary_assets": []
     },
     {
@@ -281,7 +4369,7 @@
         "time_estimation": 332
       },
       "sort_order": 30,
-      "object_index": 13,
+      "object_index": 201,
       "supplementary_assets": []
     },
     {
@@ -302,7 +4390,7 @@
         "time_estimation": 799
       },
       "sort_order": 29,
-      "object_index": 14,
+      "object_index": 202,
       "supplementary_assets": []
     },
     {
@@ -323,7 +4411,7 @@
         "time_estimation": 693
       },
       "sort_order": 28,
-      "object_index": 15,
+      "object_index": 203,
       "supplementary_assets": []
     },
     {
@@ -344,7 +4432,7 @@
         "time_estimation": 722
       },
       "sort_order": 27,
-      "object_index": 16,
+      "object_index": 204,
       "supplementary_assets": []
     },
     {
@@ -365,7 +4453,7 @@
         "time_estimation": 1091
       },
       "sort_order": 26,
-      "object_index": 17,
+      "object_index": 205,
       "supplementary_assets": []
     },
     {
@@ -386,7 +4474,7 @@
         "time_estimation": 1197
       },
       "sort_order": 25,
-      "object_index": 18,
+      "object_index": 206,
       "supplementary_assets": []
     },
     {
@@ -407,7 +4495,7 @@
         "time_estimation": 908
       },
       "sort_order": 24,
-      "object_index": 19,
+      "object_index": 207,
       "supplementary_assets": []
     },
     {
@@ -428,7 +4516,7 @@
         "time_estimation": 427
       },
       "sort_order": 23,
-      "object_index": 20,
+      "object_index": 208,
       "supplementary_assets": []
     },
     {
@@ -449,7 +4537,7 @@
         "time_estimation": 572
       },
       "sort_order": 22,
-      "object_index": 21,
+      "object_index": 209,
       "supplementary_assets": []
     },
     {
@@ -470,7 +4558,7 @@
         "time_estimation": 608
       },
       "sort_order": 21,
-      "object_index": 22,
+      "object_index": 210,
       "supplementary_assets": []
     },
     {
@@ -491,7 +4579,7 @@
         "time_estimation": 1354
       },
       "sort_order": 20,
-      "object_index": 23,
+      "object_index": 211,
       "supplementary_assets": []
     },
     {
@@ -512,7 +4600,7 @@
         "time_estimation": 1384
       },
       "sort_order": 19,
-      "object_index": 24,
+      "object_index": 212,
       "supplementary_assets": []
     },
     {
@@ -533,7 +4621,7 @@
         "time_estimation": 383
       },
       "sort_order": 18,
-      "object_index": 25,
+      "object_index": 213,
       "supplementary_assets": []
     },
     {
@@ -554,7 +4642,7 @@
         "time_estimation": 1147
       },
       "sort_order": 17,
-      "object_index": 26,
+      "object_index": 214,
       "supplementary_assets": []
     },
     {
@@ -575,7 +4663,7 @@
         "time_estimation": 676
       },
       "sort_order": 16,
-      "object_index": 27,
+      "object_index": 215,
       "supplementary_assets": []
     },
     {
@@ -596,7 +4684,7 @@
         "time_estimation": 432
       },
       "sort_order": 15,
-      "object_index": 28,
+      "object_index": 216,
       "supplementary_assets": []
     },
     {
@@ -617,7 +4705,7 @@
         "time_estimation": 448
       },
       "sort_order": 14,
-      "object_index": 29,
+      "object_index": 217,
       "supplementary_assets": []
     },
     {
@@ -626,7 +4714,7 @@
       "sort_order": 13,
       "title": "Setting Up Git and Deployment",
       "is_published": true,
-      "object_index": 2
+      "object_index": 14
     },
     {
       "_class": "lecture",
@@ -646,7 +4734,7 @@
         "time_estimation": 40
       },
       "sort_order": 12,
-      "object_index": 30,
+      "object_index": 218,
       "supplementary_assets": []
     },
     {
@@ -667,7 +4755,7 @@
         "time_estimation": 278
       },
       "sort_order": 11,
-      "object_index": 31,
+      "object_index": 219,
       "supplementary_assets": []
     },
     {
@@ -688,7 +4776,7 @@
         "time_estimation": 633
       },
       "sort_order": 10,
-      "object_index": 32,
+      "object_index": 220,
       "supplementary_assets": []
     },
     {
@@ -709,7 +4797,7 @@
         "time_estimation": 627
       },
       "sort_order": 9,
-      "object_index": 33,
+      "object_index": 221,
       "supplementary_assets": []
     },
     {
@@ -730,7 +4818,7 @@
         "time_estimation": 655
       },
       "sort_order": 8,
-      "object_index": 34,
+      "object_index": 222,
       "supplementary_assets": []
     },
     {
@@ -751,7 +4839,7 @@
         "time_estimation": 1590
       },
       "sort_order": 7,
-      "object_index": 35,
+      "object_index": 223,
       "supplementary_assets": []
     },
     {
@@ -772,7 +4860,7 @@
         "time_estimation": 352
       },
       "sort_order": 6,
-      "object_index": 36,
+      "object_index": 224,
       "supplementary_assets": []
     },
     {
@@ -793,7 +4881,7 @@
         "time_estimation": 441
       },
       "sort_order": 5,
-      "object_index": 37,
+      "object_index": 225,
       "supplementary_assets": []
     },
     {
@@ -814,7 +4902,7 @@
         "time_estimation": 953
       },
       "sort_order": 4,
-      "object_index": 38,
+      "object_index": 226,
       "supplementary_assets": []
     },
     {
@@ -835,7 +4923,7 @@
         "time_estimation": 2288
       },
       "sort_order": 3,
-      "object_index": 39,
+      "object_index": 227,
       "supplementary_assets": []
     },
     {
@@ -844,7 +4932,7 @@
       "sort_order": 2,
       "title": "That's It, Everyone!",
       "is_published": true,
-      "object_index": 3
+      "object_index": 15
     },
     {
       "_class": "lecture",
@@ -864,7 +4952,7 @@
         "time_estimation": 219
       },
       "sort_order": 1,
-      "object_index": 40,
+      "object_index": 228,
       "supplementary_assets": []
     },
     {
@@ -885,7 +4973,7 @@
         "time_estimation": 64
       },
       "sort_order": 0,
-      "object_index": 41,
+      "object_index": 229,
       "supplementary_assets": []
     }
   ]
