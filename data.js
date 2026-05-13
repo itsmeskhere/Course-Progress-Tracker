@@ -23,6 +23,10 @@ const courses = {
     name: "Jonas Node JS",
     dataUrl: "courses_data/jonas-node-js.json",
   },
+  "maximilian-js": {
+    name: "Maximilian JavaScript",
+    dataUrl: "courses_data/maximilian-js.json",
+  },
   "maximilian-react-js": {
     name: "Maximilian React JS",
     dataUrl: "courses_data/maximilian-react-js.json",
