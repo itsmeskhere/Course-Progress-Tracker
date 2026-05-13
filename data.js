@@ -7,6 +7,10 @@ const courses = {
     name: "Jonas Advanced CSS & SASS",
     dataUrl: "courses_data/jonas-advanced-css-sass.json",
   },
+  "brad-html-css": {
+    name: "Brad Traversy HTML CSS",
+    dataUrl: "courses_data/brad-html-css.json",
+  },
   "jonas-js": {
     name: "Jonas JavaScript",
     dataUrl: "courses_data/jonas-js.json",
@@ -19,13 +23,13 @@ const courses = {
     name: "Jonas Node JS",
     dataUrl: "courses_data/jonas-node-js.json",
   },
+  "maximilian-react-js": {
+    name: "Maximilian React JS",
+    dataUrl: "courses_data/maximilian-react-js.json",
+  },
   "maximilian-node-js": {
     name: "Maximilian Node JS",
     dataUrl: "courses_data/maximilian-node-js.json",
-  },
-  "brad-html-css": {
-    name: "Brad Traversy HTML CSS",
-    dataUrl: "courses_data/brad-html-css.json",
   },
   // "cpp-nanodegree-welcome": {
   //   name: "C++ Nanodegree: Welcome",
