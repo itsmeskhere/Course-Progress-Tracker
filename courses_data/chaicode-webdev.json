@@ -55,6 +55,40 @@
       "id": 3,
       "title": "Building Blocks",
       "object_index": 3
+    },
+    {
+      "_class": "lecture",
+      "id": 31,
+      "title": "Chai aur HTML",
+      "asset": { "_class": "asset", "id": 57198300, "time_estimation": 14,937 },
+      "object_index": 6
+    },
+    {
+      "_class": "lecture",
+      "id": 32,
+      "title": "Chai aur CSS (Part-1)",
+      "asset": { "_class": "asset", "id": 57198302, "time_estimation": 13,600 },
+      "object_index": 7
+    },
+    {
+      "_class": "lecture",
+      "id": 33,
+      "title": "Chai aur CSS (Part-2)",
+      "asset": { "_class": "asset", "id": 57198302, "time_estimation": 11,969 },
+      "object_index": 8
+    },
+    {
+      "_class": "lecture",
+      "id": 34,
+      "title": "Chai aur CSS (Part-3)",
+      "asset": { "_class": "asset", "id": 57198302, "time_estimation": 13,740 },
+      "object_index": 9
+    },
+    {
+      "_class": "chapter",
+      "id": 4,
+      "title": "Interacting with Browser",
+      "object_index": 4
     }
   ]
 }
