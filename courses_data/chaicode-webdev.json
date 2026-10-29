@@ -23,19 +23,38 @@
       "asset": { "_class": "asset", "id": 57198302, "time_estimation": 11914 },
       "object_index": 2
     },
-   
+    {
+      "_class": "lecture",
+      "id": 13,
+      "title": "Git Version Control",
+      "asset": { "_class": "asset", "id": 57198302, "time_estimation": 12492 },
+      "object_index": 3
+    },
     {
       "_class": "chapter",
       "id": 2,
-      "title": "Essential HTML",
+      "title": "Fundamentals",
       "object_index": 2
     },
     {
       "_class": "lecture",
       "id": 21,
-      "title": "Section Intro",
-      "asset": { "_class": "asset", "id": 57198322, "time_estimation": 68 },
-      "object_index": 6
+      "title": "Introduction to Computer Networks, DNS & AI assistance",
+      "asset": { "_class": "asset", "id": 57198322, "time_estimation": 9379 },
+      "object_index": 4
+    },
+    {
+      "_class": "lecture",
+      "id": 22,
+      "title": "Client Server Architecture & Internet Protocols",
+      "asset": { "_class": "asset", "id": 57198322, "time_estimation": 12468 },
+      "object_index": 5
+    },
+    {
+      "_class": "chapter",
+      "id": 3,
+      "title": "Building Blocks",
+      "object_index": 3
     }
   ]
 }
