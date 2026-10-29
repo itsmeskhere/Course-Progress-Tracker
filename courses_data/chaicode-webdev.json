@@ -1,194 +1,41 @@
 {
-  "count": 221,
+  "count": 5,
   "next": null,
   "previous": null,
   "results": [
     {
       "_class": "chapter",
-      "id": 3111294,
+      "id": 1,
       "title": "Tools",
       "object_index": 1
     },
     {
       "_class": "lecture",
-      "id": 13285074,
+      "id": 11,
       "title": "A Platform Tour",
       "asset": { "_class": "asset", "id": 57198300, "time_estimation": 1345 },
       "object_index": 1
     },
     {
       "_class": "lecture",
-      "id": 13285198,
+      "id": 12,
       "title": "Orientation - Intro to Git",
       "asset": { "_class": "asset", "id": 57198302, "time_estimation": 11914 },
       "object_index": 2
     },
-    {
-      "_class": "lecture",
-      "id": 13285200,
-      "title": "The Roles Of HTML, CSS & JS In Web Development",
-      "asset": { "_class": "asset", "id": 57198326, "time_estimation": 395 },
-      "object_index": 3
-    },
-    {
-      "_class": "lecture",
-      "id": 13285208,
-      "title": "VS Code Editor & Environment",
-      "asset": { "_class": "asset", "id": 57198320, "time_estimation": 392 },
-      "object_index": 4
-    },
-    {
-      "_class": "lecture",
-      "id": 44337274,
-      "title": "Course Code",
-      "asset": { "_class": "asset", "id": 57293306, "time_estimation": 7 },
-      "object_index": 5
-    },
+   
     {
       "_class": "chapter",
-      "id": 3111322,
+      "id": 2,
       "title": "Essential HTML",
       "object_index": 2
     },
     {
       "_class": "lecture",
-      "id": 13285216,
+      "id": 21,
       "title": "Section Intro",
       "asset": { "_class": "asset", "id": 57198322, "time_estimation": 68 },
       "object_index": 6
-    },
-    {
-      "_class": "lecture",
-      "id": 13285218,
-      "title": "Create & Open HTML Files",
-      "asset": { "_class": "asset", "id": 57198336, "time_estimation": 344 },
-      "object_index": 7
-    },
-    {
-      "_class": "lecture",
-      "id": 13285220,
-      "title": "HTML Tags & Attributes",
-      "asset": { "_class": "asset", "id": 57198354, "time_estimation": 308 },
-      "object_index": 8
-    },
-    {
-      "_class": "lecture",
-      "id": 13285222,
-      "title": "Document Structure",
-      "asset": { "_class": "asset", "id": 57198364, "time_estimation": 372 },
-      "object_index": 9
-    },
-    {
-      "_class": "lecture",
-      "id": 13285228,
-      "title": "Live Server & Prettier",
-      "asset": { "_class": "asset", "id": 57198374, "time_estimation": 320 },
-      "object_index": 10
-    },
-    {
-      "_class": "lecture",
-      "id": 13285234,
-      "title": "Sandbox Files Setup",
-      "asset": { "_class": "asset", "id": 57198402, "time_estimation": 189 },
-      "object_index": 11
-    },
-    {
-      "_class": "lecture",
-      "id": 13285230,
-      "title": "Meta Tags & Search",
-      "asset": { "_class": "asset", "id": 57198446, "time_estimation": 591 },
-      "object_index": 12
-    },
-    {
-      "_class": "lecture",
-      "id": 13285236,
-      "title": "Headings, Paragraphs & Emphasis",
-      "asset": { "_class": "asset", "id": 57198462, "time_estimation": 536 },
-      "object_index": 13
-    },
-    {
-      "_class": "lecture",
-      "id": 13285240,
-      "title": "Browser Devtools Intro",
-      "asset": { "_class": "asset", "id": 57198464, "time_estimation": 307 },
-      "object_index": 14
-    },
-    {
-      "_class": "lecture",
-      "id": 13285244,
-      "title": "Lists",
-      "asset": { "_class": "asset", "id": 57198472, "time_estimation": 332 },
-      "object_index": 15
-    },
-    {
-      "_class": "lecture",
-      "id": 13285248,
-      "title": "Anchor Tags",
-      "asset": { "_class": "asset", "id": 57199314, "time_estimation": 510 },
-      "object_index": 16
-    },
-    {
-      "_class": "lecture",
-      "id": 13285250,
-      "title": "Images",
-      "asset": { "_class": "asset", "id": 57198510, "time_estimation": 354 },
-      "object_index": 17
-    },
-    {
-      "_class": "lecture",
-      "id": 13285252,
-      "title": "Block vs Inline Elements",
-      "asset": { "_class": "asset", "id": 57198520, "time_estimation": 403 },
-      "object_index": 18
-    },
-    {
-      "_class": "lecture",
-      "id": 13285256,
-      "title": "Line Breaks, Horizontal Rules & Entities",
-      "asset": { "_class": "asset", "id": 57198530, "time_estimation": 362 },
-      "object_index": 19
-    },
-    {
-      "_class": "lecture",
-      "id": 44263496,
-      "title": "Divs & Spans",
-      "asset": { "_class": "asset", "id": 57198540, "time_estimation": 354 },
-      "object_index": 20
-    },
-    {
-      "_class": "lecture",
-      "id": 44263510,
-      "title": "Classes & IDs",
-      "asset": { "_class": "asset", "id": 57198560, "time_estimation": 402 },
-      "object_index": 21
-    },
-    {
-      "_class": "lecture",
-      "id": 44263518,
-      "title": "Semantic Elements",
-      "asset": { "_class": "asset", "id": 57198572, "time_estimation": 395 },
-      "object_index": 22
-    },
-    {
-      "_class": "lecture",
-      "id": 44263530,
-      "title": "Emmet Crash Course",
-      "asset": { "_class": "asset", "id": 57198580, "time_estimation": 516 },
-      "object_index": 23
-    },
-    {
-      "_class": "lecture",
-      "id": 44263536,
-      "title": "Keyboard Shortcuts",
-      "asset": { "_class": "asset", "id": 57198598, "time_estimation": 536 },
-      "object_index": 24
-    },
-    {
-      "_class": "lecture",
-      "id": 44263542,
-      "title": "Pricing Grid Challenge",
-      "asset": { "_class": "asset", "id": 57198614, "time_estimation": 546 },
-      "object_index": 25
     },
 }
     
