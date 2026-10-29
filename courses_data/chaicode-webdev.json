@@ -89,6 +89,68 @@
       "id": 4,
       "title": "Interacting with Browser",
       "object_index": 4
+    },
+    {
+      "_class": "lecture",
+      "id": 41,
+      "title": "Chai aur JavaScript",
+      "asset": { "_class": "asset", "id": 57198300, "time_estimation": 14821 },
+      "object_index": 10
+    },
+    {
+      "_class": "lecture",
+      "id": 42,
+      "title": "JavaScript for Begineers",
+      "asset": { "_class": "asset", "id": 57198300, "time_estimation": 12190 },
+      "object_index": 11
+    },
+    {
+      "_class": "lecture",
+      "id": 43,
+      "title": "JavaScript Essentials (Part-1)",
+      "asset": { "_class": "asset", "id": 57198300, "time_estimation": 14526 },
+      "object_index": 12
+    },
+    {
+      "_class": "lecture",
+      "id": 44,
+      "title": "JavaScript Essentials (Part-2)",
+      "asset": { "_class": "asset", "id": 57198300, "time_estimation": 15469 },
+      "object_index": 13
+    },
+    {
+      "_class": "lecture",
+      "id": 45,
+      "title": "Object Oriented JavaScript",
+      "asset": { "_class": "asset", "id": 57198300, "time_estimation": 12387 },
+      "object_index": 14
+    },
+    {
+      "_class": "lecture",
+      "id": 46,
+      "title": "Object Oriented Programming",
+      "asset": { "_class": "asset", "id": 57198300, "time_estimation": 10483 },
+      "object_index": 15
+    },
+    {
+      "_class": "lecture",
+      "id": 47,
+      "title": "Async JavaScript",
+      "asset": { "_class": "asset", "id": 57198300, "time_estimation": 11864 },
+      "object_index": 16
+    },
+    {
+      "_class": "lecture",
+      "id": 48,
+      "title": "Modern Async Patterns",
+      "asset": { "_class": "asset", "id": 57198300, "time_estimation": 12123 },
+      "object_index": 17
+    },
+    {
+      "_class": "chapter",
+      "id": 5,
+      "title": "Backend Engineering",
+      "object_index": 5
     }
   ]
 }
