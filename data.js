@@ -35,6 +35,10 @@ const courses = {
     name: "Maximilian Node JS",
     dataUrl: "courses_data/maximilian-node-js.json",
   },
+  "chaicode-webdev-fullstack": {
+    name: "ChaiCode WebDev FullStack",
+    dataUrl: "courses_data/chaicode-webdev.json",
+  },
   // "cpp-nanodegree-welcome": {
   //   name: "C++ Nanodegree: Welcome",
   //   dataUrl: "courses_data/cpp-nanodegree-welcome.json",
