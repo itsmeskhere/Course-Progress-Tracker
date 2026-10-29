@@ -151,6 +151,124 @@
       "id": 5,
       "title": "Backend Engineering",
       "object_index": 5
+    },
+    {
+      "_class": "lecture",
+      "id": 51,
+      "title": "Intro to Backend Engineering",
+      "asset": { "_class": "asset", "id": 57198300, "time_estimation": 11510 },
+      "object_index": 18
+    },
+    {
+      "_class": "lecture",
+      "id": 52,
+      "title": "Backend with TypeScript",
+      "asset": { "_class": "asset", "id": 57198300, "time_estimation": 11387 },
+      "object_index": 19
+    },
+    {
+      "_class": "lecture",
+      "id": 53,
+      "title": "NodeJS Internals and Architecture",
+      "asset": { "_class": "asset", "id": 57198300, "time_estimation": 6509 },
+      "object_index": 20
+    },
+    {
+      "_class": "lecture",
+      "id": 54,
+      "title": "Chai aur Express",
+      "asset": { "_class": "asset", "id": 57198300, "time_estimation": 13387 },
+      "object_index": 21
+    },
+    {
+      "_class": "lecture",
+      "id": 55,
+      "title": "Building RESTful API (Part-1)",
+      "asset": { "_class": "asset", "id": 57198300, "time_estimation": 16525 },
+      "object_index": 22
+    },
+    {
+      "_class": "lecture",
+      "id": 56,
+      "title": "Building RESTful API (Part-2)",
+      "asset": { "_class": "asset", "id": 57198300, "time_estimation": 10925 },
+      "object_index": 23
+    },
+    {
+      "_class": "lecture",
+      "id": 57,
+      "title": "Authentication and Authorization",
+      "asset": { "_class": "asset", "id": 57198300, "time_estimation": 10628 },
+      "object_index": 24
+    },
+    {
+      "_class": "lecture",
+      "id": 58,
+      "title": "Auth. with TypeScript, Drizzle & Postgres",
+      "asset": { "_class": "asset", "id": 57198300, "time_estimation": 10375 },
+      "object_index": 25
+    },
+    {
+      "_class": "lecture",
+      "id": 59,
+      "title": "Chai aur SQL (Part-1)",
+      "asset": { "_class": "asset", "id": 57198300, "time_estimation": 15507 },
+      "object_index": 26
+    },
+    {
+      "_class": "lecture",
+      "id": 510,
+      "title": "Chai aur SQL (Part-2)",
+      "asset": { "_class": "asset", "id": 57198300, "time_estimation": 15361 },
+      "object_index": 27
+    },
+    {
+      "_class": "lecture",
+      "id": 511,
+      "title": "Reading and Writing Files",
+      "asset": { "_class": "asset", "id": 57198300, "time_estimation": 11754 },
+      "object_index": 28
+    },
+    {
+      "_class": "lecture",
+      "id": 512,
+      "title": "RESTful API Building",
+      "asset": { "_class": "asset", "id": 57198300, "time_estimation": 11538 },
+      "object_index": 29
+    },
+    {
+      "_class": "lecture",
+      "id": 513,
+      "title": "JWT Keys & OpenID Connect",
+      "asset": { "_class": "asset", "id": 57198300, "time_estimation": 8173 },
+      "object_index": 30
+    },
+    {
+      "_class": "lecture",
+      "id": 514,
+      "title": "OpenID Connect Cont. & Intro to WebSockets",
+      "asset": { "_class": "asset", "id": 57198300, "time_estimation": 12867 },
+      "object_index": 31
+    },
+    {
+      "_class": "lecture",
+      "id": 515,
+      "title": "Sockets, Redis, Rate Limiting: 1 Million Checkboxes",
+      "asset": { "_class": "asset", "id": 57198300, "time_estimation": 10021 },
+      "object_index": 32
+    },
+    {
+      "_class": "lecture",
+      "id": 516,
+      "title": "High Throughout Systems Kafka Live Location Tracker",
+      "asset": { "_class": "asset", "id": 57198300, "time_estimation": 10669 },
+      "object_index": 33
+    },
+    {
+      "_class": "chapter",
+      "id": 6,
+      "title": "Building Modern Frontends",
+      "object_index": 6
     }
   ]
 }
