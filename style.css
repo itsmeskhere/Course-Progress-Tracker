@@ -220,7 +220,8 @@ ul {
 
 .topic-list-item {
   display: flex;
-  justify-content: space-between;
+  align-items: center;
+  gap: 1.6rem;
   font-size: 2.2rem;
   padding: 1.6rem;
   margin-bottom: 1.6rem;
@@ -238,9 +239,10 @@ ul {
 }
 
 .topic-list-item input[type="checkbox"] {
-  margin: 0 2rem;
+  margin: 0 0.4rem;
   transform: scale(1.5);
   cursor: pointer;
+  flex: 0 0 auto;
 }
 
 .topic-list-item input[name="completed"] {
@@ -253,9 +255,88 @@ ul {
 
 .topic-name {
   flex-grow: 1;
-  margin-left: 2rem;
 }
 
 .topic-duration {
-  margin-right: 2rem;
+  min-width: 8rem;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.topic-current-progress {
+  min-width: 8rem;
+  text-align: right;
+  white-space: nowrap;
+  font-variant-numeric: tabular-nums;
+}
+
+.topic-list-item input[name="lecture-progress"] {
+  width: clamp(10rem, 18vw, 24rem);
+  cursor: pointer;
+  accent-color: #ffcb77;
+  --progress-percent: 0%;
+  appearance: none;
+  -webkit-appearance: none;
+  background: transparent;
+}
+
+.topic-list-item input[name="lecture-progress"]::-webkit-slider-runnable-track {
+  height: 0.8rem;
+  border: 0.1rem solid #d6ccc2;
+  border-radius: 9999rem;
+  background-color: #ffffff;
+  background-image: linear-gradient(
+    to right,
+    #ffcb77 0%,
+    #ffcb77 var(--progress-percent),
+    #ffffff var(--progress-percent),
+    #ffffff 100%
+  );
+}
+
+.topic-list-item input[name="lecture-progress"]::-moz-range-track {
+  height: 0.8rem;
+  border: 0.1rem solid #d6ccc2;
+  border-radius: 9999rem;
+  background: #ffffff;
+}
+
+.topic-list-item input[name="lecture-progress"]::-moz-range-progress {
+  height: 0.8rem;
+  border-radius: 9999rem 0 0 9999rem;
+  background: #ffcb77;
+}
+
+.topic-list-item input[name="lecture-progress"]::-webkit-slider-thumb {
+  width: 1.8rem;
+  height: 1.8rem;
+  margin-top: -0.6rem;
+  appearance: none;
+  -webkit-appearance: none;
+  border: 0.2rem solid #ffffff;
+  border-radius: 50%;
+  background: #ffcb77;
+}
+
+.topic-list-item input[name="lecture-progress"]::-moz-range-thumb {
+  width: 1.8rem;
+  height: 1.8rem;
+  border: 0.2rem solid #ffffff;
+  border-radius: 50%;
+  background: #ffcb77;
+}
+
+@media (max-width: 800px) {
+  .topic-list-item {
+    flex-wrap: wrap;
+    gap: 1.2rem;
+  }
+
+  .topic-name {
+    min-width: 60%;
+  }
+
+  .topic-list-item input[name="lecture-progress"] {
+    flex: 1 1 14rem;
+  }
 }

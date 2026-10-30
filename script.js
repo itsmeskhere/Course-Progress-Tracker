@@ -2,322 +2,260 @@ function formatDuration(seconds) {
   if (seconds === 0) return "0h 0m 0s";
   if (seconds < 60) return `${seconds}s`;
   if (seconds < 3600) return `${Math.floor(seconds / 60)}m ${seconds % 60}s`;
-  return `${Math.floor(seconds / 3600)}h ${Math.floor(
-    (seconds % 3600) / 60
-  )}m ${seconds % 60}s`;
+  return `${Math.floor(seconds / 3600)}h ${Math.floor((seconds % 3600) / 60)}m ${seconds % 60}s`;
 }
 
-function parseDuration(text) {
-  const parts = text.match(/\d+h|\d+m|\d+s/g) || [];
-  let total = 0;
-  parts.forEach((part) => {
-    if (part.includes("h")) total += parseInt(part) * 3600;
-    else if (part.includes("m")) total += parseInt(part) * 60;
-    else if (part.includes("s")) total += parseInt(part);
-  });
-  return total;
+function getTopicDuration(item) {
+  return Number(item.dataset.duration || 0);
 }
 
-function updateProgressBar(completed, total, hasTime = true) {
-  const percent =
-    total === 0
-      ? "0"
-      : parseFloat(((completed / total) * 100).toFixed(2)).toString();
-  const bar = document.querySelector(".overall-course-progress .progress-bar");
-  const text = document.getElementById("overall-progress-text");
+function getTopicProgress(item) {
+  const slider = item.querySelector('input[name="lecture-progress"]');
+  return slider
+    ? Number(slider.value)
+    : item.querySelector('input[name="completed"]').checked ? 1 : 0;
+}
 
-  const label = hasTime
+function setProgressBar(selector, textId, completed, total, hasTime) {
+  const percent = total === 0 ? "0" : parseFloat(((completed / total) * 100).toFixed(2)).toString();
+  document.querySelector(`${selector} .progress-bar`).style.width = `${percent}%`;
+  document.getElementById(textId).textContent = hasTime
     ? `${formatDuration(completed)} of ${formatDuration(total)} (${percent}%)`
     : `${completed} of ${total} topics (${percent}%)`;
-
-  bar.style.width = `${percent}%`;
-  text.textContent = label;
 }
 
-function updateProgressBarFromDOM() {
-  const items = Array.from(document.querySelectorAll(".topic-list-item"));
-  let completed = 0;
-  let total = 0;
-
-  const hasTime = items.some((item) => {
-    const durationText = item.querySelector(".topic-duration").textContent;
-    return parseDuration(durationText) > 0;
-  });
-
-  items.forEach((item) => {
-    const completedCheckbox = item.querySelector('input[name="completed"]');
-    const durationText = item.querySelector(".topic-duration").textContent;
-    const timeInSec = parseDuration(durationText);
-
-    if (hasTime) {
-      total += timeInSec;
-      if (completedCheckbox.checked) completed += timeInSec;
-    } else {
-      total += 1;
-      if (completedCheckbox.checked) completed += 1;
-    }
-  });
-
-  updateProgressBar(completed, total, hasTime);
-}
-
-function updateTodayTargetProgress() {
-  const items = Array.from(document.querySelectorAll(".topic-list-item"));
-  const targetItems = items.filter((item) => {
-    const todoCheckbox = item.querySelector('input[name="to-do"]');
-    return todoCheckbox && todoCheckbox.checked;
-  });
-
-  let completed = 0;
-  let total = 0;
-
-  // ✅ Determine hasTime from all items, not just selected ones
-  const hasTime = items.some((item) => {
-    const durationText = item.querySelector(".topic-duration").textContent;
-    return parseDuration(durationText) > 0;
-  });
-
-  targetItems.forEach((item) => {
-    const completedCheckbox = item.querySelector('input[name="completed"]');
-    const durationText = item.querySelector(".topic-duration").textContent;
-    const timeInSec = parseDuration(durationText);
-
-    if (hasTime) {
-      total += timeInSec;
-      if (completedCheckbox.checked) completed += timeInSec;
-    } else {
-      total += 1;
-      if (completedCheckbox.checked) completed += 1;
-    }
-  });
-
-  const bar = document.querySelector(
-    ".today-target-course-progress .progress-bar"
+function calculateProgress(items, hasTime = items.some((item) => getTopicDuration(item) > 0)) {
+  return items.reduce(
+    (progress, item) => {
+      if (hasTime) {
+        const duration = getTopicDuration(item);
+        progress.total += duration;
+        // Durationless items do not distort a time-based course total.
+        if (duration > 0) progress.completed += getTopicProgress(item);
+      } else {
+        progress.total += 1;
+        progress.completed += getTopicProgress(item);
+      }
+      return progress;
+    },
+    { completed: 0, total: 0, hasTime }
   );
-  const text = document.getElementById("today-progress-text");
+}
 
-  const percent =
-    total === 0
-      ? "0"
-      : parseFloat(((completed / total) * 100).toFixed(2)).toString();
+function updateProgressBars() {
+  const items = [...document.querySelectorAll(".topic-list-item")];
+  const overall = calculateProgress(items);
+  setProgressBar(".overall-course-progress", "overall-progress-text", overall.completed, overall.total, overall.hasTime);
 
-  const label = hasTime
-    ? `${formatDuration(completed)} of ${formatDuration(total)} (${percent}%)`
-    : `${completed} of ${total} topics (${percent}%)`;
-
-  bar.style.width = `${percent}%`;
-  text.textContent = label;
+  const today = calculateProgress(
+    items.filter((item) => item.querySelector('input[name="to-do"]').checked),
+    overall.hasTime
+  );
+  setProgressBar(".today-target-course-progress", "today-progress-text", today.completed, today.total, today.hasTime);
 }
 
 function saveCourseProgress(courseId) {
   const completed = [];
   const todo = [];
+  const lectureProgress = {};
 
   document.querySelectorAll(".topic-list-item").forEach((item) => {
-    const completedCheckbox = item.querySelector('input[name="completed"]');
-    const todoCheckbox = item.querySelector('input[name="to-do"]');
     const topicId = Number(item.dataset.id);
-
-    if (completedCheckbox.checked) completed.push(topicId);
-    if (todoCheckbox.checked) todo.push(topicId);
+    if (item.querySelector('input[name="completed"]').checked) completed.push(topicId);
+    if (item.querySelector('input[name="to-do"]').checked) todo.push(topicId);
+    const slider = item.querySelector('input[name="lecture-progress"]');
+    if (slider) lectureProgress[topicId] = Number(slider.value);
   });
 
-  const progress = {
+  localStorage.setItem(`progress-${courseId}`, JSON.stringify({
     completed,
     todo,
+    lectureProgress,
     timestamp: new Date().toISOString(),
-  };
+  }));
+}
 
-  localStorage.setItem(`progress-${courseId}`, JSON.stringify(progress));
+function updateChapterStatus(chapter) {
+  const allChecked = [...chapter.querySelectorAll('input[name="completed"]')]
+    .every((checkbox) => checkbox.checked);
+  chapter.classList.toggle("completed", allChecked);
+  chapter.querySelector(".chapter-title").classList.toggle("completed", allChecked);
+}
+
+function refreshAndSave(courseId, chapter) {
+  updateChapterStatus(chapter);
+  updateProgressBars();
+  saveCourseProgress(courseId);
+}
+
+function savedLectureDuration(savedProgress, topicId, duration) {
+  const saved = savedProgress.lectureProgress?.[topicId];
+  if (Number.isFinite(Number(saved))) return Math.max(0, Math.min(duration, Number(saved)));
+  // Legacy records have only a completed list.
+  return savedProgress.completed.includes(topicId) ? duration : 0;
+}
+
+function setSliderAccessibility(slider, title, value, duration) {
+  slider.setAttribute("aria-label", `Progress for ${title}: ${formatDuration(value)} of ${formatDuration(duration)}`);
+}
+
+function setSliderProgressVisual(slider, value, duration) {
+  slider.style.setProperty("--progress-percent", `${(value / duration) * 100}%`);
 }
 
 function renderCourse(data, savedProgress, courseId) {
   const list = document.getElementById("course-list");
   list.innerHTML = "";
-
-  const isTimedCourse = data.some(
-    (ch) => ch.time_duration && ch.time_duration > 0
-  );
+  const isTimedCourse = data.some((chapter) => chapter.time_duration > 0);
 
   data.forEach((chapter) => {
-    const li = document.createElement("li");
-    li.className = "course-chapter";
-
+    const chapterItem = document.createElement("li");
+    chapterItem.className = "course-chapter";
     const heading = document.createElement("p");
     heading.className = "course-chapter-heading";
-    heading.innerHTML = `
-      <span class="chapter-title">
-        ${chapter.object_index}. ${chapter.title}
-        <span class="chapter-tick">✔️</span>
-      </span>
-      ${
-        isTimedCourse
-          ? `<span>${formatDuration(chapter.time_duration)}</span>`
-          : ""
-      }
-    `;
+    heading.innerHTML = `<span class="chapter-title">${chapter.object_index}. ${chapter.title}<span class="chapter-tick">✔️</span></span>${isTimedCourse ? `<span>${formatDuration(chapter.time_duration)}</span>` : ""}`;
 
-    const topicsUl = document.createElement("ul");
-    topicsUl.className = "chapter-topics collapsed";
-
+    const topicsList = document.createElement("ul");
+    topicsList.className = "chapter-topics collapsed";
     chapter.topics.forEach((topic) => {
-      const topicLi = document.createElement("li");
-      topicLi.className = "topic-list-item";
-      topicLi.dataset.id = topic.id;
+      const topicItem = document.createElement("li");
+      const duration = topic.time_duration || 0;
+      topicItem.className = "topic-list-item";
+      topicItem.dataset.id = topic.id;
+      topicItem.dataset.duration = duration;
 
       const completed = document.createElement("input");
       completed.type = "checkbox";
       completed.name = "completed";
-      completed.checked = savedProgress.completed.includes(topic.id);
+      const name = document.createElement("span");
+      name.className = "topic-name";
+      name.textContent = `${topic.object_index}. ${topic.title}`;
+      topicItem.append(completed, name);
 
-      const nameSpan = document.createElement("span");
-      nameSpan.className = "topic-name";
-      nameSpan.textContent = `${topic.object_index}. ${topic.title}`;
+      if (duration > 0) {
+        const value = savedLectureDuration(savedProgress, topic.id, duration);
+        completed.checked = value === duration;
+        const current = document.createElement("span");
+        current.className = "topic-current-progress";
+        current.textContent = formatDuration(value);
+        const slider = document.createElement("input");
+        slider.type = "range";
+        slider.name = "lecture-progress";
+        slider.min = "0";
+        slider.max = String(duration);
+        slider.step = "1";
+        slider.value = String(value);
+        setSliderAccessibility(slider, topic.title, value, duration);
+        setSliderProgressVisual(slider, value, duration);
+        const total = document.createElement("span");
+        total.className = "topic-duration";
+        total.textContent = formatDuration(duration);
+
+        slider.addEventListener("input", () => {
+          const nextValue = Number(slider.value);
+          current.textContent = formatDuration(nextValue);
+          setSliderAccessibility(slider, topic.title, nextValue, duration);
+          setSliderProgressVisual(slider, nextValue, duration);
+          completed.checked = nextValue === duration;
+          refreshAndSave(courseId, chapterItem);
+        });
+        completed.addEventListener("change", () => {
+          const nextValue = completed.checked ? duration : 0;
+          slider.value = String(nextValue);
+          current.textContent = formatDuration(nextValue);
+          setSliderAccessibility(slider, topic.title, nextValue, duration);
+          setSliderProgressVisual(slider, nextValue, duration);
+          refreshAndSave(courseId, chapterItem);
+        });
+        topicItem.append(current, slider, total);
+      } else {
+        completed.checked = savedProgress.completed.includes(topic.id);
+        const durationPlaceholder = document.createElement("span");
+        durationPlaceholder.className = "topic-duration";
+        topicItem.appendChild(durationPlaceholder);
+        completed.addEventListener("change", () => refreshAndSave(courseId, chapterItem));
+      }
 
       const todo = document.createElement("input");
       todo.type = "checkbox";
       todo.name = "to-do";
       todo.checked = savedProgress.todo.includes(topic.id);
-
-      topicLi.appendChild(completed);
-      topicLi.appendChild(nameSpan);
-      if (isTimedCourse) {
-        const durationSpan = document.createElement("span");
-        durationSpan.className = "topic-duration";
-        durationSpan.textContent = formatDuration(topic.time_duration);
-        topicLi.appendChild(durationSpan);
-      } else {
-        const durationSpan = document.createElement("span");
-        durationSpan.className = "topic-duration";
-        durationSpan.textContent = ""; // Required for querySelector in progress functions
-        topicLi.appendChild(durationSpan);
-      }
-      topicLi.appendChild(todo);
-
-      topicsUl.appendChild(topicLi);
+      todo.addEventListener("change", () => refreshAndSave(courseId, chapterItem));
+      topicItem.appendChild(todo);
+      topicsList.appendChild(topicItem);
     });
 
     heading.addEventListener("click", () => {
-      const isExpanded = topicsUl.classList.contains("expanded");
-      if (isExpanded) {
-        const currentHeight = topicsUl.scrollHeight;
-        topicsUl.style.height = `${currentHeight}px`;
-        requestAnimationFrame(() => {
-          topicsUl.style.height = "0px";
-        });
-        topicsUl.classList.remove("expanded");
+      if (topicsList.classList.contains("expanded")) {
+        topicsList.style.height = `${topicsList.scrollHeight}px`;
+        requestAnimationFrame(() => { topicsList.style.height = "0px"; });
+        topicsList.classList.remove("expanded");
       } else {
-        topicsUl.style.height = "auto";
-        const targetHeight = topicsUl.scrollHeight + "px";
-        topicsUl.style.height = "0px";
-        topicsUl.classList.add("expanded");
-        requestAnimationFrame(() => {
-          topicsUl.style.height = targetHeight;
-        });
+        topicsList.style.height = "auto";
+        const height = `${topicsList.scrollHeight}px`;
+        topicsList.style.height = "0px";
+        topicsList.classList.add("expanded");
+        requestAnimationFrame(() => { topicsList.style.height = height; });
       }
     });
-
-    topicsUl.addEventListener("transitionend", () => {
-      if (topicsUl.classList.contains("expanded")) {
-        topicsUl.style.height = "auto";
-      }
+    topicsList.addEventListener("transitionend", () => {
+      if (topicsList.classList.contains("expanded")) topicsList.style.height = "auto";
     });
 
-    const tick = heading.querySelector(".chapter-tick");
-    const chapterTitle = heading.querySelector(".chapter-title");
-
-    function updateTickStatus() {
-      const checkboxes = topicsUl.querySelectorAll('input[name="completed"]');
-      const allChecked = [...checkboxes].every((cb) => cb.checked);
-      chapterTitle.classList.toggle("completed", allChecked);
-      li.classList.toggle("completed", allChecked);
-
-      updateProgressBarFromDOM();
-      updateTodayTargetProgress();
-      saveCourseProgress(courseId);
-    }
-
-    topicsUl
-      .querySelectorAll('input[name="completed"], input[name="to-do"]')
-      .forEach((cb) => {
-        cb.addEventListener("change", updateTickStatus);
-      });
-
-    updateTickStatus();
-
-    li.appendChild(heading);
-    li.appendChild(topicsUl);
-    list.appendChild(li);
+    chapterItem.append(heading, topicsList);
+    list.appendChild(chapterItem);
+    updateChapterStatus(chapterItem);
   });
 }
 
-const groupLecturesByChapters = (data) => {
+function groupLecturesByChapters(data) {
   const chapters = [];
-  let currentChapter = null;
-  let courseDuration = 0;
-
-  for (let item of data) {
-    if (item._class === "chapter") {
-      currentChapter = { ...item, time_duration: 0, topics: [] };
+  let currentChapter;
+  data.forEach((sourceItem) => {
+    if (sourceItem._class === "chapter") {
+      currentChapter = { ...sourceItem, time_duration: 0, topics: [] };
       chapters.push(currentChapter);
-    } else {
-      const duration = item.asset?.time_estimation || 0;
-      item = { ...item, time_duration: duration };
-      currentChapter.time_duration += duration;
-      courseDuration += duration;
-
-      const { asset, ...updatedItem } = item;
-      currentChapter.topics.push(updatedItem);
+      return;
     }
-  }
-
-  return [chapters, courseDuration];
-};
+    const duration = sourceItem.asset?.time_estimation || 0;
+    currentChapter.time_duration += duration;
+    const { asset, ...topic } = { ...sourceItem, time_duration: duration };
+    currentChapter.topics.push(topic);
+  });
+  return chapters;
+}
 
 document.addEventListener("DOMContentLoaded", async () => {
-  const urlParams = new URLSearchParams(window.location.search);
-  const courseId = urlParams.get("course");
-
-  if (!courseId || !courses[courseId]) {
-    alert("Invalid course selected.");
-    return;
-  }
-
+  const courseId = new URLSearchParams(window.location.search).get("course");
+  if (!courseId || !courses[courseId]) return alert("Invalid course selected.");
   document.getElementById("course-title").textContent = courses[courseId].name;
-
   try {
-    const res = await fetch(courses[courseId].dataUrl);
-    const rawData = await res.json();
-
-    const [courseData, courseDuration] = groupLecturesByChapters(
-      rawData.results
-    );
-
+    const response = await fetch(courses[courseId].dataUrl);
+    const rawData = await response.json();
     const rawProgress = localStorage.getItem(`progress-${courseId}`);
-    const savedProgress = rawProgress
-      ? JSON.parse(rawProgress)
-      : { completed: [], todo: [] };
-
-    renderCourse(courseData, savedProgress, courseId);
-
-    updateProgressBarFromDOM();
-    updateTodayTargetProgress();
-  } catch (err) {
+    let savedProgress = { completed: [], todo: [], lectureProgress: {} };
+    if (rawProgress) {
+      try {
+        const parsed = JSON.parse(rawProgress);
+        savedProgress = {
+          completed: Array.isArray(parsed.completed) ? parsed.completed : [],
+          todo: Array.isArray(parsed.todo) ? parsed.todo : [],
+          lectureProgress: parsed.lectureProgress && typeof parsed.lectureProgress === "object" ? parsed.lectureProgress : {},
+        };
+      } catch (error) {
+        console.warn("Ignoring invalid saved course progress.", error);
+      }
+    }
+    renderCourse(groupLecturesByChapters(rawData.results), savedProgress, courseId);
+    updateProgressBars();
+  } catch (error) {
     alert("Failed to load course content.");
-    console.error(err);
+    console.error(error);
   }
 });
 
 document.getElementById("reset-today-target").addEventListener("click", () => {
-  document.querySelectorAll('input[name="to-do"]').forEach((checkbox) => {
-    checkbox.checked = false;
-  });
-
-  const urlParams = new URLSearchParams(window.location.search);
-  const courseId = urlParams.get("course");
-  saveCourseProgress(courseId);
-
-  setTimeout(() => {
-    updateTodayTargetProgress();
-  }, 0);
+  document.querySelectorAll('input[name="to-do"]').forEach((checkbox) => { checkbox.checked = false; });
+  updateProgressBars();
+  saveCourseProgress(new URLSearchParams(window.location.search).get("course"));
 });
